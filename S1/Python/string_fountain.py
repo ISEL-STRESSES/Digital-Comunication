@@ -11,4 +11,3 @@ def string_fountain(strs, fmp, length):
     for i in indices:
         res += strs[i]
     return res
-
