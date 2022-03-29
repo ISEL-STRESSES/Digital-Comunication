@@ -1,6 +1,6 @@
-from fibonacci import fibonacci
-from most_frequent_numb import most_frequent_numb
-from prog_arithmetic import prog_arithmetic
+from S1.Python.Lab1.fibonacci import fibonacci
+from S1.Python.Lab1.most_frequent_numb import most_frequent_numb
+from S1.Python.Lab1.prog_arithmetic import prog_arithmetic
 from string_fountain import string_fountain
 
 if __name__ == '__main__':
