@@ -3,6 +3,7 @@ from S1.Python.Lab1.fibonacci import fibonacci
 from S1.Python.Lab1.fibonacci import fib
 from S1.Python.Lab1.prog_arithmetic import prog_arithmetic
 from S1.Python.Lab1.prog_arithmetic import prog_arithmetic_by_term
+from S1.Python.Lab1.most_frequent_elem import most_frequent_elem
 
 
 class TestFibonacci(unittest.TestCase):
@@ -54,6 +55,9 @@ class TestProgArithmetic(unittest.TestCase):
     def test_fail_conditions(self):     # test behaviour for invalid parameters
         self.assertEqual(prog_arithmetic(0, 5, 2), [])
         self.assertEqual(prog_arithmetic(-3, 1, 8), [])
+
+#class TestMostFrequentElem(unittest.TestCase):
+#    def test_most_frequent_elem(self):     # test most frequent element
 
 
 if __name__ == '__main__':
