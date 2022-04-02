@@ -1,5 +1,5 @@
 def fib(n):
-    if n == 0:
+    if n < 1:
         return 0
     if n <= 2:
         return 1
@@ -8,6 +8,6 @@ def fib(n):
 
 def fibonacci(num):
     res = []
-    for n in range(num):
+    for n in range(1, num+1):
         res += [fib(n)]
     return res
