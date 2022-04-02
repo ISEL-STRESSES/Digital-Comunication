@@ -5,6 +5,8 @@ def prog_arithmetic_by_term(first, r, n):
 
 
 def prog_arithmetic(N, u, r):
+    if N <= 0:
+        return []
     res = [u]
     for n in range(2, N + 1):
         res += [prog_arithmetic_by_term(u, r, n)]
