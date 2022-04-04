@@ -7,4 +7,6 @@ if __name__ == '__main__':
     print(fibonacci(10))
     print(prog_arithmetic(10, 2, 1))
     print(most_frequent_elem("test.txt"))
+    print(most_frequent_elem("tests/test_most_freq.txt"))
     print(string_fountain(["a", "b", "c", "d"], [1 / 10, 2 / 10, 3 / 10, 4 / 10], 3))
+    print(string_fountain(["a", "bb", "b", "d"], [1 / 10, 2 / 10, 3 / 10, 4 / 10], 2))

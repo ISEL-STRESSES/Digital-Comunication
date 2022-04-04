@@ -58,6 +58,9 @@ class TestProgArithmetic(unittest.TestCase):
 
 #class TestMostFrequentElem(unittest.TestCase):
 #    def test_most_frequent_elem(self):     # test most frequent element
+#        res = most_frequent_elem("test_most_freq.txt")
+#        self.assertIsNotNone(res)
+#        self.assertEqual(res, [('a', 3)])
 
 
 if __name__ == '__main__':
