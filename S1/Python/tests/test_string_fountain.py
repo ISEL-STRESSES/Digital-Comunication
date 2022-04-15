@@ -11,6 +11,10 @@ class MyTestCase(unittest.TestCase):
         self.assertIsNotNone(res)
         self.assertEqual(len(res), 1)
 
+    def test_elements_with_element_with_full_prob(self):
+        res = string_fountain(["a", "b", "c", "d"], [0, 0, 0, 1], 3)
+        self.assertEqual(res, ["d", "d", "d"])
+
     def test_fail_conditions(self):     # test behaviour for invalid parameters
         self.assertEqual(string_fountain(["a", "a", "a"], [1 / 5, 1 / 5, 3 / 5], 3), None)      # repeated elements
         self.assertEqual(string_fountain(["a", "b", "c"], [1 / 5, 1 / 5, 1 / 5], 3), None)      # sum fmp < 1
