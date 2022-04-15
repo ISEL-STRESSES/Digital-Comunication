@@ -1,5 +1,6 @@
 import random
 import matplotlib.pyplot as plot
+from scipy.stats import entropy
 
 
 def string_fountain(strs, fmp, repeat):
@@ -18,7 +19,12 @@ def string_fountain(strs, fmp, repeat):
 
     for i in strs:
         count[idx] = result.count(i)
-    plot.bar(strs, count, width=0.5)
+        idx += 1
+
+    ent = entropy(fmp,strs, 2)
+    print(ent)
+    # histogram creation
+    plot.bar(strs, count)
     plot.show()
     return result
 
@@ -28,3 +34,4 @@ if __name__ == '__main__':
     print(res)
     res = string_fountain(["aba", "bab", "ab", "dasd"], [1 / 10, 2 / 10, 3 / 10, 4 / 10], 3)
     print(res)
+
