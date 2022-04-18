@@ -1,6 +1,20 @@
+import collections
+import math
 import random
 import matplotlib.pyplot as plot
 from scipy.stats import entropy
+
+
+def entropy(data):
+    e = 0
+    counter = collections.Counter(data)
+    l = len(data)
+    for count in counter.values():
+        # count is always > 0
+        p_x = count / l
+        e += - p_x * math.log2(p_x)
+
+    return e
 
 
 def string_fountain(strs, fmp, repeat):
@@ -13,16 +27,17 @@ def string_fountain(strs, fmp, repeat):
     count = [0] * len(strs)
     idx = 0
     file = open("stringoutput", 'w')
+    string = ""
     for i in result:
+        string += i
         file.write(i + ";")
     file.close()
+    print(entropy(string))
 
     for i in strs:
         count[idx] = result.count(i)
         idx += 1
 
-    ent = entropy(fmp,strs, 2)
-    print(ent)
     # histogram creation
     plot.bar(strs, count)
     plot.show()
