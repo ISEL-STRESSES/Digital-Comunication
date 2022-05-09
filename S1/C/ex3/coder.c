@@ -15,7 +15,11 @@ char* count_symbols(char *file_name)
     char array[CHAR_MAX_SIZE] = {};
 
     FILE *file = fopen(file_name, "r");
-    
+    if(file == NULL){
+        printf("Error reading file %s\n", file_name);
+        return NULL;
+    }
+
     while (!feof(file))
     {
         char char_chunck = fread(buffer, sizeof(unsigned char), chunk, file);
@@ -29,12 +33,7 @@ char* count_symbols(char *file_name)
             array[buffer[char_index]]++;
 		}
     }
-    return array;
-}
-
-void sort()
-{
-
+    return NULL;
 }
 
 
