@@ -15,45 +15,46 @@
 #define NUMBER_OF_FILES 6
 #define FILENAME_SIZE 32
 #define UNARY_MAX_SIZE 64
+#define TOTAL_PROBABILITY 1
 
 void encoder(const char *file_name)
 {
-    char file_name_encoded[64] = "";
-    strcat(file_name_encoded, file_name);
-    strcat(file_name_encoded, "_encoded");
+    char encoded_file[64] = "";
+    strcat(encoded_file, file_name);
+    strcat(encoded_file, "_encoded");
 
     // Array dos chars e as suas ocorrencias
-    unsigned int arr_of_occurances[2][LIBRARY_SIZE];
+    unsigned int dictionary[2][LIBRARY_SIZE];
     float fmp[LIBRARY_SIZE];
     float fmp_sum = 0;
-    unsigned int n_symbols_by_file = 0;
-    unsigned int n_symbols_used_by_file = 0;
+    unsigned int nr_total_symb = 0;
+    unsigned int nr_dif_symb = 0;
     unsigned char *modelo[256];
 
     for (int i = 0; i < 256; i++)
     {
-        arr_of_occurances[0][i] = i;
-        arr_of_occurances[1][i] = 0;
+        dictionary[0][i] = i;
+        dictionary[1][i] = 0;
     }
 
     // Contar o numero de ocorrencias de cada symbol por ficheiro
-    FILE *file_read;
-    file_read = fopen(file_name, "r");
-    unsigned char sut = fgetc(file_read);
-    while (!feof(file_read))
+    FILE *sorce_file;
+    sorce_file = fopen(file_name, "r");
+    unsigned char cur_char = fgetc(sorce_file);
+    while (!feof(sorce_file))
     {
-        arr_of_occurances[1][sut]++;
-        sut = fgetc(file_read);
+        dictionary[1][cur_char]++;
+        cur_char = fgetc(sorce_file);
     }
-    fclose(file_read);
+    fclose(sorce_file);
 
     // Contar o total de symbols por ficheiro
     for (int k = 0; k < LIBRARY_SIZE; k++)
     {
-        n_symbols_by_file += arr_of_occurances[1][k];
-        if (arr_of_occurances[1][k] != 0)
+        nr_total_symb += dictionary[1][k];
+        if (dictionary[1][k] != 0)
         {
-            n_symbols_used_by_file++;
+            nr_dif_symb++;
         }
     }
 
@@ -62,15 +63,15 @@ void encoder(const char *file_name)
     {
         for (int y = 0; y < LIBRARY_SIZE - x - 1; y++)
         {
-            if (arr_of_occurances[1][y] > arr_of_occurances[1][y + 1])
+            if (dictionary[1][y] > dictionary[1][y + 1])
             {
-                int tempN = arr_of_occurances[1][y];
-                arr_of_occurances[1][y] = arr_of_occurances[1][y + 1];
-                arr_of_occurances[1][y + 1] = tempN;
+                int tempN = dictionary[1][y];
+                dictionary[1][y] = dictionary[1][y + 1];
+                dictionary[1][y + 1] = tempN;
 
-                int tempChar = arr_of_occurances[0][y];
-                arr_of_occurances[0][y] = arr_of_occurances[0][y + 1];
-                arr_of_occurances[0][y + 1] = tempChar;
+                int tempChar = dictionary[0][y];
+                dictionary[0][y] = dictionary[0][y + 1];
+                dictionary[0][y + 1] = tempChar;
             }
         }
     }
@@ -78,102 +79,105 @@ void encoder(const char *file_name)
     // Calcular a funçao massa de probabilidade de cada symbol no ficheiro
     for (int f = 0; f < LIBRARY_SIZE; f++)
     {
-        fmp[f] = arr_of_occurances[1][f] / (float)n_symbols_by_file;
+        fmp[f] = dictionary[1][f] / (float)nr_total_symb;
         fmp_sum += fmp[f];
-        /*
-        if (fmp[f] != 0)
-        {
-            printf("%c -> %f;\n", (char)arr_of_occurances[0][f], fmp[f]);
-        }
-        */
     }
-    // printf("\n");
-    // printf("Soma de symbols = %d e nº de simbolos usados foi = %d\n", n_symbols_by_file, n_symbols_used_by_file);
-    // printf("Total de FMP = %f\n", fmp_sum);
 
+    if (fmp != TOTAL_PROBABILITY)
+    {
+        return;
+    }
+    
     // for para a escrita em modo semi-adaptativo no ficheiro saída
-    FILE *file_encoded, *file;
+    FILE *dest_file, *file;
     file = fopen(file_name, "r");
-    file_encoded = fopen(file_name_encoded, "w+b");
+    dest_file = fopen(encoded_file, "w+b");
 
     // Criar a string modelo para colocar no ficheiro encoded
     int f = 255;
     for (; fmp[f] != 0; f--)
     {
-        modelo[f] = arr_of_occurances[0][f];
+        modelo[f] = dictionary[0][f];
         printf("%c", modelo[f]);
-        fputc(modelo[f], file_encoded);
+        fputc(modelo[f], dest_file);
     }
-    fputc(modelo[++f], file_encoded);
-    printf("\n");
-    sut = getc(file);
+
+    fputc(modelo[++f], dest_file);
+    puts("");
+    
+    cur_char = getc(file);
     unsigned char buffer = 0x0;
-    unsigned int bitCounter = 0;
+    unsigned int bit_counter = 0;
+
     while (!feof(file))
     {
-        if (arr_of_occurances[0][255] == sut)
+        if (dictionary[0][255] == cur_char)
         {
             buffer = buffer << 1;
-            if (bitCounter != 7)
+            bit_counter++;
+    
+            if (bit_counter != 0)
             {
-                buffer = buffer << 1;
-            }
-            bitCounter++;
-            if (bitCounter != 0)
-            {
-                if (bitCounter % 8 == 0)
+                if (bit_counter % 8 == 0)
                 {
-                    fwrite(&buffer, 1, 1, file_encoded);
+                    fwrite(&buffer, 1, 1, dest_file);
                     buffer = 0x0;
-                    bitCounter = 0;
+                    bit_counter = 0;
                 }
             }
-            sut = getc(file);
+            
+            cur_char = getc(file);
         }
         else
         {
-            for (int c = 255; arr_of_occurances[0][c] != sut; c--)
+            for (int c = 255; dictionary[0][c] != cur_char; c--)
             {
                 buffer++;
-                if (bitCounter != 7)
+                
+                if (bit_counter != 7)
                 {
                     buffer = buffer << 1;
                 }
 
-                bitCounter++;
-                if (bitCounter != 0)
+                bit_counter++;
+            
+                if (bit_counter != 0)
                 {
-                    if (bitCounter % 8 == 0)
+                    if (bit_counter % 8 == 0)
                     {
-                        fwrite(&buffer, 1, 1, file_encoded);
+                        fwrite(&buffer, 1, 1, dest_file);
                         buffer = 0x0;
-                        bitCounter = 0;
+                        bit_counter = 0;
                     }
                 }
             }
+
             buffer = buffer << 1;
-            bitCounter++;
-            if (bitCounter != 0)
+            bit_counter++;
+
+            if (bit_counter != 0)
             {
-                if ((bitCounter % 8) == 0)
+                if ((bit_counter % 8) == 0)
                 {
-                    fwrite(&buffer, 1, 1, file_encoded);
+                    fwrite(&buffer, 1, 1, dest_file);
                     buffer = 0x0;
-                    bitCounter = 0;
+                    bit_counter = 0;
                 }
             }
-            sut = getc(file);
+            
+            cur_char = getc(file);
         }
     }
-    while (bitCounter < 7)
+
+    while (bit_counter <= 7)
     {
         buffer++;
         buffer = buffer << 1;
-        bitCounter++;
+        bit_counter++;
     }
-    fwrite(&buffer, 1, 1, file_encoded);
-
-    fclose(file_encoded);
+    
+    fwrite(&buffer, 1, 1, dest_file);
+    fclose(dest_file);
     fclose(file);
 }
 
@@ -186,7 +190,8 @@ int main()
         "cp.htm",
         "lena.bmp",
         "Person.java",
-        "progc.c"};
+        "progc.c"
+    };
 
     encoder(&filename[0][0]);
 }
