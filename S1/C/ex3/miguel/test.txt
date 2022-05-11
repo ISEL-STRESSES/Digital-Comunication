@@ -1,0 +1,68 @@
+escreve maze alguma coisa para ver
+se isto esta na merda 
+
+ou nao 
+
+/0
+
+#include <stdio.h>
+
+#define CHAR_MAX_SIZE 255
+
+
+/**
+ * Function that counts a symbol present in a file.
+ * @param file_name name of the file to read.
+ * @param array array to store counters.
+ * @return a map of a file.
+ */
+void count_symbols(char *file_name, char *array)
+{
+	int chunk = 16;
+	unsigned char buffer[chunk];
+
+    FILE *file = fopen(file_name, "r");
+
+    while (!feof(file))
+    {
+        char char_chunck = fread(buffer, sizeof(unsigned char), chunk, file);
+        if (char_chunck == 0) 
+		{
+			break;
+        }
+
+        for (size_t char_index = 0; char_index < char_chunck; char_index++)
+		{
+            array[buffer[char_index]]++;
+		}
+    }
+
+}
+
+void exchange(char *array, int idx1, int idx2){
+    char temp = array[idx1];
+    array[idx1] = array[idx2];
+    array[idx2] = temp;
+}
+
+void bubble_sort (char *array, size_t size) {
+    for (int i = 0; i < size; ++i)
+        for (int j = 0; j < size - i; ++j)
+            if(array[j] < array[j+1])
+                exchange(array, i, j);
+}
+
+
+int main(int argc, char *argv[])
+{
+    char array[CHAR_MAX_SIZE] = {};
+
+    count_symbols(argv[1], array);
+    //bubble_sort(array, sizeof (array));
+
+    for (size_t i = 0; i <= CHAR_MAX_SIZE; i++)
+    {
+        if(array[i] != 0)
+            printf("ASCII value = %d, Character = |%c|, Character counter = %d, \n", i, i, array[i]);
+    }
+}

@@ -29,9 +29,9 @@ void encoder(const char *file_name)
     float fmp_sum = 0;
     unsigned int nr_total_symb = 0;
     unsigned int nr_dif_symb = 0;
-    unsigned char *modelo[256];
+    unsigned char *modelo[LIBRARY_SIZE];
 
-    for (int i = 0; i < 256; i++)
+    for (int i = 0; i < LIBRARY_SIZE; i++)
     {
         dictionary[0][i] = i;
         dictionary[1][i] = 0;
@@ -83,7 +83,7 @@ void encoder(const char *file_name)
         fmp_sum += fmp[f];
     }
 
-    if (fmp != TOTAL_PROBABILITY)
+    if (fmp_sum != TOTAL_PROBABILITY)
     {
         return;
     }
@@ -130,7 +130,7 @@ void encoder(const char *file_name)
         }
         else
         {
-            for (int c = 255; dictionary[0][c] != cur_char; c--)
+            for (int c = 255; (dictionary[0][c] != cur_char) && (dictionary[0][c] != 255); c--)
             {
                 buffer++;
                 
@@ -169,13 +169,15 @@ void encoder(const char *file_name)
         }
     }
 
-    while (bit_counter <= 7)
+    while (bit_counter < 7)
     {
         buffer++;
         buffer = buffer << 1;
         bit_counter++;
     }
     
+    buffer++;
+
     fwrite(&buffer, 1, 1, dest_file);
     fclose(dest_file);
     fclose(file);

@@ -16,39 +16,40 @@
 #define FILENAME_SIZE 32
 #define UNARY_MAX_SIZE 64
 
+
 void decoder(const char *file_name)
 {
-    unsigned char encoded_file[32] = "";
-    strcat(encoded_file, (char *)file_name);
-    strcat(encoded_file, "_encoded");
+    unsigned char file_name_encoded[32] = "";
+    strcat(file_name_encoded, (char *)file_name);
+    strcat(file_name_encoded, "_encoded");
 
-    unsigned char decoded_file[32] = "";
-    strcat(decoded_file, (char *)file_name);
-    strcat(decoded_file, "_decoded");
+    unsigned char file_name_decoded[32] = "";
+    strcat(file_name_decoded, (char *)file_name);
+    strcat(file_name_decoded, "_decoded");
 
     unsigned char modelo[LIBRARY_SIZE];
 
-    FILE *sorce_file, *dest_file;
-    dest_file = fopen(decoded_file, "w");
-    sorce_file = fopen(encoded_file, "rb");
-    unsigned char cur_char = fgetc(sorce_file);
+    FILE *file_read, *file_write;
+    file_write = fopen(file_name_decoded, "w");
+    file_read = fopen(file_name_encoded, "rb");
+    unsigned char sut = fgetc(file_read);
     unsigned char buffer = 0;
 
     // Ler o modelo acaba quando encontro o primeiro caracter repetido
     unsigned char *pch;
     for (int i = 0;; i++)
     {
-        pch = strchr(modelo, cur_char);
+        pch = strchr(modelo, sut);
         if (pch != NULL)
         {
-            pch = strchr(pch + 1, cur_char);
+            pch = strchr(pch + 1, sut);
             break;
         }
         else
         {
-            modelo[i] = cur_char;
-            //printf("%c", cur_char);
-            cur_char = fgetc(sorce_file);
+            modelo[i] = sut;
+            printf("%c", sut);
+            sut = fgetc(file_read);
         }
     }
     printf("\n");
@@ -57,75 +58,68 @@ void decoder(const char *file_name)
     // Aqui já tenho modelo vou começar a ler o binário e escrever
     //  num ficheiro o descodificado
 
-    buffer = fgetc(sorce_file);
-    unsigned char ahead_buffer = fgetc(sorce_file);
+    buffer = fgetc(file_read);
+    unsigned char ahead_buffer = fgetc(file_read);
     unsigned char bit = 128;
-    unsigned int bit_counter = 0;
-    size_t idx = 0;
-    while (!feof(sorce_file))
+    unsigned int bitCounter = 0;
+    while (!feof(file_read))
     {
         if ((buffer & bit) == 0)
         {
-            bit_counter++;
+            bitCounter++;
             bit = bit >> 1;
-            if (bit_counter != 0)
+            if (bitCounter != 0)
             {
-                if (bit_counter % 8 == 0)
+                if (bitCounter % 8 == 0)
                 {
                     buffer = ahead_buffer;
-                    ahead_buffer = fgetc(sorce_file);
-                    bit_counter = 0;
+                    ahead_buffer = fgetc(file_read);
+                    bitCounter = 0;
                     bit = 128;
                 }
             }
-            fputc(modelo[idx], dest_file);
-            printf("%c", modelo[idx]);
+            fputc(modelo[0], file_write);
+            printf("%c", modelo[0]);
         }
         else
         {
+            int cnt = 0;
             while ((buffer & bit) > 0)
             {
                 bit = bit >> 1;
-                bit_counter++;
-                if (bit_counter != 0)
+                bitCounter++;
+                if (bitCounter != 0)
                 {
-                    if (bit_counter % 8 == 0)
+                    if (bitCounter % 8 == 0)
                     {
                         buffer = ahead_buffer;
-                        ahead_buffer = fgetc(sorce_file);
-                        bit_counter = 0;
+                        ahead_buffer = fgetc(file_read);
+                        bitCounter = 0;
                         bit = 128;
                     }
                 }
-                idx++;
+                cnt++;
             }
             bit = bit >> 1;
-            bit_counter++;
-
-            if (bit_counter != 7)
+            bitCounter++;
+            if (bitCounter != 0)
             {
-                bit = bit >> 1;
-            }
-            
-
-            if (bit_counter != 0)
-            {
-                if (bit_counter % 8 == 0)
+                if (bitCounter % 8 == 0)
                 {
-                    buffer = fgetc(sorce_file);
-                    bit_counter = 0;
+                    buffer = fgetc(file_read);
+                    bitCounter = 0;
                     bit = 128;
                 }
             }
-            fputc(modelo[idx], dest_file);
-            printf("%c", modelo[idx]);
+            fputc(modelo[cnt], file_write);
+            printf("%c", modelo[cnt]);
         }
     }
     printf("\n");
     printf("\n");
 
-    fclose(sorce_file);
-    fclose(dest_file);
+    fclose(file_read);
+    fclose(file_write);
 }
 
 int main()
@@ -139,5 +133,9 @@ int main()
         "Person.java",
         "progc.c"};
 
-    decoder(&filename[0][0]);
+    for (size_t i = 0; i < NUMBER_OF_FILES; i++)
+    {
+        printf("%p", &filename[i]);
+        decoder(&filename[i][0]);
+    }
 }
