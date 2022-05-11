@@ -16,69 +16,67 @@
 #define FILENAME_SIZE 32
 #define UNARY_MAX_SIZE 64
 
-
 void decoder(const char *file_name)
 {
-    unsigned char file_name_encoded[32] = "";
-    strcat(file_name_encoded, (char *)file_name);
-    strcat(file_name_encoded, "_encoded");
+    unsigned char encoded_file[32] = "";
+    strcat(encoded_file, (char *)file_name);
+    strcat(encoded_file, "_encoded");
 
-    unsigned char file_name_decoded[32] = "";
-    strcat(file_name_decoded, (char *)file_name);
-    strcat(file_name_decoded, "_decoded");
+    unsigned char decoded_file[32] = "";
+    strcat(decoded_file, (char *)file_name);
+    strcat(decoded_file, "_decoded");
 
     unsigned char modelo[LIBRARY_SIZE];
 
-    FILE *file_read, *file_write;
-    file_write = fopen(file_name_decoded, "w");
-    file_read = fopen(file_name_encoded, "rb");
-    unsigned char sut = fgetc(file_read);
+    FILE *source_file, *dest_file;
+    dest_file = fopen(decoded_file, "w");
+    source_file = fopen(encoded_file, "rb");
+    unsigned char cur_char = fgetc(source_file);
     unsigned char buffer = 0;
 
     // Ler o modelo acaba quando encontro o primeiro caracter repetido
     unsigned char *pch;
     for (int i = 0;; i++)
     {
-        pch = strchr(modelo, sut);
+        pch = strchr(modelo, cur_char);
+
         if (pch != NULL)
         {
-            pch = strchr(pch + 1, sut);
+            pch = strchr(pch + 1, cur_char);
             break;
         }
         else
         {
-            modelo[i] = sut;
-            printf("%c", sut);
-            sut = fgetc(file_read);
+            modelo[i] = cur_char;
+            cur_char = fgetc(source_file);
         }
     }
-    printf("\n");
-    printf("\n");
 
     // Aqui já tenho modelo vou começar a ler o binário e escrever
-    //  num ficheiro o descodificado
+    // num ficheiro o descodificado
 
-    buffer = fgetc(file_read);
-    unsigned char ahead_buffer = fgetc(file_read);
+    buffer = fgetc(source_file);
+    unsigned char ahead_buffer = fgetc(source_file);
     unsigned char bit = 128;
-    unsigned int bitCounter = 0;
-    while (!feof(file_read))
+    unsigned int bit_counter = 0;
+
+    while (!feof(source_file))
     {
         if ((buffer & bit) == 0)
         {
-            bitCounter++;
+            bit_counter++;
             bit = bit >> 1;
-            if (bitCounter != 0)
+            if (bit_counter != 0)
             {
-                if (bitCounter % 8 == 0)
+                if (bit_counter % 8 == 0)
                 {
                     buffer = ahead_buffer;
-                    ahead_buffer = fgetc(file_read);
-                    bitCounter = 0;
+                    ahead_buffer = fgetc(source_file);
+                    bit_counter = 0;
                     bit = 128;
                 }
             }
-            fputc(modelo[0], file_write);
+            fputc(modelo[0], dest_file);
             printf("%c", modelo[0]);
         }
         else
@@ -87,39 +85,36 @@ void decoder(const char *file_name)
             while ((buffer & bit) > 0)
             {
                 bit = bit >> 1;
-                bitCounter++;
-                if (bitCounter != 0)
+                bit_counter++;
+                if (bit_counter != 0)
                 {
-                    if (bitCounter % 8 == 0)
+                    if (bit_counter % 8 == 0)
                     {
                         buffer = ahead_buffer;
-                        ahead_buffer = fgetc(file_read);
-                        bitCounter = 0;
+                        ahead_buffer = fgetc(source_file);
+                        bit_counter = 0;
                         bit = 128;
                     }
                 }
                 cnt++;
             }
             bit = bit >> 1;
-            bitCounter++;
-            if (bitCounter != 0)
+            bit_counter++;
+            if (bit_counter != 0)
             {
-                if (bitCounter % 8 == 0)
+                if (bit_counter % 8 == 0)
                 {
-                    buffer = fgetc(file_read);
-                    bitCounter = 0;
+                    buffer = fgetc(source_file);
+                    bit_counter = 0;
                     bit = 128;
                 }
             }
-            fputc(modelo[cnt], file_write);
-            printf("%c", modelo[cnt]);
+            fputc(modelo[cnt], dest_file);
         }
     }
-    printf("\n");
-    printf("\n");
 
-    fclose(file_read);
-    fclose(file_write);
+    fclose(source_file);
+    fclose(dest_file);
 }
 
 int main()

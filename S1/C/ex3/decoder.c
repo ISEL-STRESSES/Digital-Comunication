@@ -28,10 +28,10 @@ void decoder(const char *file_name)
 
     unsigned char modelo[LIBRARY_SIZE];
 
-    FILE *sorce_file, *dest_file;
+    FILE *source_file, *dest_file;
     dest_file = fopen(decoded_file, "w");
-    sorce_file = fopen(encoded_file, "rb");
-    unsigned char cur_char = fgetc(sorce_file);
+    source_file = fopen(encoded_file, "rb");
+    unsigned char cur_char = fgetc(source_file);
     unsigned char buffer = 0;
 
     // Ler o modelo acaba quando encontro o primeiro caracter repetido
@@ -47,22 +47,20 @@ void decoder(const char *file_name)
         else
         {
             modelo[i] = cur_char;
-            //printf("%c", cur_char);
-            cur_char = fgetc(sorce_file);
+            cur_char = fgetc(source_file);
         }
     }
-    printf("\n");
-    printf("\n");
 
     // Aqui já tenho modelo vou começar a ler o binário e escrever
     //  num ficheiro o descodificado
 
-    buffer = fgetc(sorce_file);
-    unsigned char ahead_buffer = fgetc(sorce_file);
+    buffer = fgetc(source_file);
+    unsigned char ahead_buffer = fgetc(source_file);
     unsigned char bit = 128;
     unsigned int bit_counter = 0;
     size_t idx = 0;
-    while (!feof(sorce_file))
+
+    while (!feof(source_file))
     {
         if ((buffer & bit) == 0)
         {
@@ -73,7 +71,7 @@ void decoder(const char *file_name)
                 if (bit_counter % 8 == 0)
                 {
                     buffer = ahead_buffer;
-                    ahead_buffer = fgetc(sorce_file);
+                    ahead_buffer = fgetc(source_file);
                     bit_counter = 0;
                     bit = 128;
                 }
@@ -92,7 +90,7 @@ void decoder(const char *file_name)
                     if (bit_counter % 8 == 0)
                     {
                         buffer = ahead_buffer;
-                        ahead_buffer = fgetc(sorce_file);
+                        ahead_buffer = fgetc(source_file);
                         bit_counter = 0;
                         bit = 128;
                     }
@@ -106,13 +104,12 @@ void decoder(const char *file_name)
             {
                 bit = bit >> 1;
             }
-            
 
             if (bit_counter != 0)
             {
                 if (bit_counter % 8 == 0)
                 {
-                    buffer = fgetc(sorce_file);
+                    buffer = fgetc(source_file);
                     bit_counter = 0;
                     bit = 128;
                 }
@@ -124,7 +121,7 @@ void decoder(const char *file_name)
     printf("\n");
     printf("\n");
 
-    fclose(sorce_file);
+    fclose(source_file);
     fclose(dest_file);
 }
 
