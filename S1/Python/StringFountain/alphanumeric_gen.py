@@ -1,6 +1,6 @@
 import string
 
-from S1.Python.StringFountain.string_fountain import string_fountain_gen
+from StringFountain.string_fountain import string_fountain_gen
 
 
 def alphanumeric_gen():
@@ -18,7 +18,7 @@ def alphanumeric_gen():
 
 
 def create_password_files(filename):
-    file = open(filename, 'w')
+    file = open(filename + ".txt", 'w')
     for i in range(0, 25):
         file.write(alphanumeric_gen() + "\n")
     file.close()

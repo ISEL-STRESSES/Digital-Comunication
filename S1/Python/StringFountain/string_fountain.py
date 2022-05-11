@@ -26,7 +26,7 @@ def string_fountain_gen(strs, fmp, repeat, histogram, entropy):
     result = random.choices(strs, weights=fmp, k=repeat)
     count = [0] * len(strs)
     idx = 0
-    file = open("stringoutput", 'w')
+    file = open("stringoutput.txt", 'w')
     string = ""
     for i in result:
         string += i

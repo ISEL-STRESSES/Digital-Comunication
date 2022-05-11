@@ -1,7 +1,7 @@
 import random
 import string
 
-from S1.Python.StringFountain.string_fountain import string_fountain_gen
+from StringFountain.string_fountain import string_fountain_gen
 
 
 def cc_already_exists(new_cc):

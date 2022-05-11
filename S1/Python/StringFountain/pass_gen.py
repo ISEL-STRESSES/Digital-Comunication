@@ -1,7 +1,7 @@
 import string
 import random
 
-from S1.Python.StringFountain.string_fountain import string_fountain_gen
+from StringFountain.string_fountain import string_fountain_gen
 
 
 def check_security(stuff):
@@ -41,7 +41,7 @@ def pass_gen(min, max):
 
 
 def create_password_files(filename):
-    file = open(filename, 'w')
+    file = open(filename + ".txt", 'w')
     for i in range(0, 25):
         file.write(pass_gen(10, 10) + "\n")
     file.close()

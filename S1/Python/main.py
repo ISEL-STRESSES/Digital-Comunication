@@ -1,7 +1,7 @@
-from S1.Python.Lab1.fibonacci import fibonacci
-from S1.Python.Lab1.prog_arithmetic import prog_arithmetic
-from S1.Python.Lab1.most_frequent_elem import most_frequent_elem
-from S1.Python.StringFountain.string_fountain import string_fountain
+from Lab1.fibonacci import fibonacci
+from Lab1.prog_arithmetic import prog_arithmetic
+from Lab1.most_frequent_elem import most_frequent_elem
+from StringFountain.string_fountain import string_fountain
 
 if __name__ == '__main__':
     print(fibonacci(10))

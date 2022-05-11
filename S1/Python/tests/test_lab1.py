@@ -1,9 +1,9 @@
 import unittest
-from S1.Python.Lab1.fibonacci import fibonacci
-from S1.Python.Lab1.fibonacci import fib
-from S1.Python.Lab1.prog_arithmetic import prog_arithmetic
-from S1.Python.Lab1.prog_arithmetic import prog_arithmetic_by_term
-from S1.Python.Lab1.most_frequent_elem import most_frequent_elem
+from Lab1.fibonacci import fibonacci
+from Lab1.fibonacci import fib
+from Lab1.prog_arithmetic import prog_arithmetic
+from Lab1.prog_arithmetic import prog_arithmetic_by_term
+from Lab1.most_frequent_elem import most_frequent_elem
 
 
 class TestFibonacci(unittest.TestCase):
