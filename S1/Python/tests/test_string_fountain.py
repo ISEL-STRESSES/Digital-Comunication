@@ -1,5 +1,5 @@
 import unittest
-from S1.Python.StringFountain.string_fountain import string_fountain
+from StringFountain.string_fountain import string_fountain
 
 
 class MyTestCase(unittest.TestCase):

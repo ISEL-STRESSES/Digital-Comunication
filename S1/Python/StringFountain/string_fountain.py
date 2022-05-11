@@ -1,5 +1,4 @@
 import random
-import string
 from collections import Counter
 
 import matplotlib.pyplot as plot
@@ -8,8 +7,7 @@ from scipy import stats
 
 
 def ent(data):
-    """Calculates entropy of the passed `pd.Series`
-    """
+    """Calculates entropy of the passed `pd.Series`"""
     p_data = data.value_counts()           # counts occurrence of each value
     entropy = scipy.stats.entropy(p_data)  # get entropy from counts
     return entropy
@@ -28,7 +26,7 @@ def string_fountain_gen(strs, fmp, repeat, histogram, entropy):
     result = random.choices(strs, weights=fmp, k=repeat)
     count = [0] * len(strs)
     idx = 0
-    file = open("stringoutput", 'w')
+    file = open("stringoutput.txt", 'w')
     string = ""
     for i in result:
         string += i
