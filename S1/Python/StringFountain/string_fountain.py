@@ -1,50 +1,45 @@
+import math
 import random
-from collections import Counter
-
 import matplotlib.pyplot as plot
-import scipy
-from scipy import stats
-
-
-def ent(data):
-    """Calculates entropy of the passed `pd.Series`"""
-    p_data = data.value_counts()           # counts occurrence of each value
-    entropy = scipy.stats.entropy(p_data)  # get entropy from counts
-    return entropy
 
 
 def check_parameters_string_fountain(strs, fmp):
     if len(strs) != len(fmp) or sum(fmp) != 1:
         return False
     for elem in strs:
-        if strs.count(elem) > 1:    # check for repeated elements in strs parameter
+        if strs.count(elem) > 1:  # check for repeated elements in strs parameter
             return False
     return True
 
 
 def string_fountain_gen(strs, fmp, repeat, histogram, entropy):
-    result = random.choices(strs, weights=fmp, k=repeat)
+    generated_strings = random.choices(strs, weights=fmp, k=repeat)
     count = [0] * len(strs)
-    idx = 0
+    index = 0
     file = open("stringoutput.txt", 'w')
     string = ""
-    for i in result:
+    for i in generated_strings:
         string += i
         file.write(i + ";")
     file.close()
-    if entropy:
-        print(stats.entropy(list(Counter(fmp).values()), base=2))
 
     for i in strs:
-        count[idx] = result.count(i)
-        idx += 1
+        count[index] = generated_strings.count(i)
+        index += 1
+    counts = []
+    size = 0
+    for n in count:
+        if n != 0:
+            size += n
+            counts.append(n)
 
-    # histogram creation
-    if histogram:
+    if entropy:     #entropy calc
+        print("Entropy = " + str(entropy_calc(counts, size)))
+
+    if histogram:   # histogram creation
         plot.bar(strs, count)
         plot.show()
-
-    return result
+    return generated_strings
 
 
 def string_fountain(strs, fmp, repeat, histogram, entropy):
@@ -53,8 +48,12 @@ def string_fountain(strs, fmp, repeat, histogram, entropy):
     return None
 
 
+def entropy_calc(count, dim):
+    entropy = 0
+    for n in count:
+        entropy += (-math.log2(n / dim)) * n / dim
+    return entropy
+
+
 if __name__ == '__main__':
-    res = string_fountain(["aa", "bb", "b", "dd"], [0, 0, 0, 1], 3, False, False)
-    print(res)
-    res = string_fountain(["aba", "bab", "ab", "dasd"], [1 / 10, 2 / 10, 3 / 10, 4 / 10], 3, False, False)
-    print(res)
+    print(string_fountain(["aba", "bab", "ab", "dasd"], [1 / 10, 2 / 10, 3 / 10, 4 / 10], 3, True, True))

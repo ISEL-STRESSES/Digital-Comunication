@@ -1,7 +1,37 @@
 import string
 import random
+import matplotlib.pyplot as plot
 
-from StringFountain.string_fountain import string_fountain_gen
+from StringFountain.string_fountain import string_fountain_gen, entropy_calc
+
+
+def analyse_password_strength(password):
+    if check_security(password) is False:
+        return "Weak Password"
+    else:
+        count = []
+        occur, size = get_occur(password)
+        for i in occur.values():
+            count.append(i)
+        entropy_password = entropy_calc(count, size)
+        if entropy_password < 3:
+            return "Weak Password"
+        if entropy_password < 4:
+            return "Medium Password"
+        else:
+            return "Strong Password"
+
+
+def get_occur(word):
+    num_occur = {}
+    size = 0
+    for i in word:
+        size += 1
+        if i in num_occur:
+            num_occur[i] += 1
+        else:
+            num_occur[i] = 1
+    return num_occur, size
 
 
 def check_security(stuff):
@@ -40,17 +70,42 @@ def pass_gen(min, max):
     return password
 
 
-def create_password_files(filename):
+def create_password_files(filename, min_size, max_size, amount):
     file = open(filename + ".txt", 'w')
-    for i in range(0, 25):
-        file.write(pass_gen(10, 10) + "\n")
+    for i in range(0, amount):
+        file.write(pass_gen(min_size, max_size) + "\n")
     file.close()
 
 
+def analyse_password_file(filename):
+    file = open(filename)
+    passwords = file.readlines()
+    classification_passes = [0, 0, 0]
+    rnd = []
+    for n in passwords:
+        rnd += n
+        if analyse_password_strength(n) == "Weak Password":
+            classification_passes[0] +=1
+        else:
+            if analyse_password_strength(n) == "Medium Password":
+                classification_passes[1] += 1
+            else:
+                classification_passes[2] += 1
+    password_sec_levels = ['Weak Password', 'Medium Password', 'Strong Password']
+    plot.bar(password_sec_levels, classification_passes)
+    plot.show()
+    return classification_passes
+
+
 if __name__ == '__main__':
-    create_password_files("pass1")
-    create_password_files("pass2")
-    create_password_files("pass3")
-    create_password_files("pass4")
-    create_password_files("pass5")
+    create_password_files("pass1", 4, 4, 100)
+    analyse_password_file("pass1.txt")
+    create_password_files("pass2", 10, 10, 100)
+    analyse_password_file("pass2.txt")
+    create_password_files("pass3", 15, 16, 100)
+    analyse_password_file("pass3.txt")
+    create_password_files("pass4", 20, 22, 100)
+    analyse_password_file("pass4.txt")
+    create_password_files("pass5", 30, 30, 100)
+    analyse_password_file("pass5.txt")
 
