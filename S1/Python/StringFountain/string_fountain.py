@@ -1,5 +1,4 @@
 import random
-import string
 from collections import Counter
 
 import matplotlib.pyplot as plot
@@ -8,8 +7,7 @@ from scipy import stats
 
 
 def ent(data):
-    """Calculates entropy of the passed `pd.Series`
-    """
+    """Calculates entropy of the passed `pd.Series`"""
     p_data = data.value_counts()           # counts occurrence of each value
     entropy = scipy.stats.entropy(p_data)  # get entropy from counts
     return entropy

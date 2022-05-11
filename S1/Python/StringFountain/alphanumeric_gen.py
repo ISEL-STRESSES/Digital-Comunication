@@ -17,7 +17,17 @@ def alphanumeric_gen():
     return alphanumeric_key
 
 
+def create_password_files(filename):
+    file = open(filename, 'w')
+    for i in range(0, 25):
+        file.write(alphanumeric_gen() + "\n")
+    file.close()
+
+
 if __name__ == '__main__':
-    print(alphanumeric_gen())
-    print(alphanumeric_gen())
+    create_password_files("alphanumeric1")
+    create_password_files("alphanumeric2")
+    create_password_files("alphanumeric3")
+    create_password_files("alphanumeric4")
+    create_password_files("alphanumeric5")
     print(alphanumeric_gen())
