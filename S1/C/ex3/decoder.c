@@ -132,5 +132,5 @@ int main()
         "Person.java",
         "progc.c"};
 
-    decoder(&filename[3][0]);
+    decoder(&filename[0][0]);
 }

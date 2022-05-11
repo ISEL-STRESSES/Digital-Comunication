@@ -108,17 +108,16 @@ void encoder(const char *file_name)
     printf("\n");
     sut = getc(file);
     unsigned char buffer = 0x0;
-    // char bit = '0';
     unsigned int bitCounter = 0;
     while (!feof(file))
     {
         if (arr_of_occurances[0][255] == sut)
         {
-            //   bit = '0';
             buffer = buffer << 1;
-            if (bitCounter % 4 == 0)
-                printf(" ");
-            printf("0");
+            if (bitCounter != 7)
+            {
+                buffer = buffer << 1;
+            }
             bitCounter++;
             if (bitCounter != 0)
             {
@@ -129,18 +128,13 @@ void encoder(const char *file_name)
                     bitCounter = 0;
                 }
             }
-            // printf("%c", sut);
             sut = getc(file);
         }
         else
         {
             for (int c = 255; arr_of_occurances[0][c] != sut; c--)
             {
-                //    bit = '1';
                 buffer++;
-                if (bitCounter % 4 == 0)
-                    printf(" ");
-                printf("1");
                 if (bitCounter != 7)
                 {
                     buffer = buffer << 1;
@@ -157,10 +151,6 @@ void encoder(const char *file_name)
                     }
                 }
             }
-            // bit = '0';
-            if (bitCounter % 4 == 0)
-                printf(" ");
-            printf("0");
             buffer = buffer << 1;
             bitCounter++;
             if (bitCounter != 0)
@@ -172,7 +162,6 @@ void encoder(const char *file_name)
                     bitCounter = 0;
                 }
             }
-            //  printf("%c", sut);
             sut = getc(file);
         }
     }
@@ -180,16 +169,9 @@ void encoder(const char *file_name)
     {
         buffer++;
         buffer = buffer << 1;
-        if (bitCounter % 4 == 0)
-            printf(" ");
-        printf("0");
         bitCounter++;
     }
-    printf("0");
     fwrite(&buffer, 1, 1, file_encoded);
-
-    printf("\n");
-    printf("\n");
 
     fclose(file_encoded);
     fclose(file);
@@ -206,5 +188,5 @@ int main()
         "Person.java",
         "progc.c"};
 
-    encoder(&filename[3][0]);
+    encoder(&filename[0][0]);
 }
