@@ -1,1000 +1,1000 @@
-01057147; Nilton Ivone Costa ; Espinho; Engenheiro de Sistemas – Informática 
-17368866; Wilian Janaína Varanda Areosa ; Tábua; Alfaiate – Vestuário por Medida 
-21849161; Caetana Duílha Velasques ; Vila Do Conde; Técnicos Sanitários e Trabalhadores Similares 
-74411514; Godofredo Betancour Furtado ; Porto Santo; Anotador – Cinema e Televisão 
-84514818; Alessandra Franklin Passarinho ; Freixo De Espada À Cinta; Filigraneiro (Filigranista) 
-52664558; Rogério Portela ; Aljezur; Operador de Máquina de Rotulagem – Produtos Alimentares 
-52951566; Adriano Liberato Carneiro ; Maia; Agente de Polícia Marítima 
-65679722; Wilson Kelvin Cabral Frias ; Lousada; Retorcedor 
-36705782; Mariana Horácio Bicalho Coito ; Celorico Da Beira; Alfaiates, Costureiros e Chapeleiros 
-18562862; Emília Reis Coutinho ; Miranda Do Corvo; Fotógrafos e Operadores de Aparelhos de Registo de Imagem e de Som 
-79305650; Leandro Samanta Severo ; Mafra; Operador de Enchedora – Cravadeira 
-56845820; Magali Junqueira ; Loulé; Imunologista 
-35469731; Amália Morais Ruas ; Freixo De Espada À Cinta; Preparador de Tintas – Peles 
-81007097; Dorisse Mourato Cedro ; Albergaria-A-Velha; Biólogo – Especialista em Botânica 
-57807635; Morgana Clodoaldo Neres Garrau ; Vila Nova De Cerveira; Inspector da Polícia Judiciária 
-74565141; Dalva Tomás Amorim Temes ; Ponte Da Barca; Electricista da Construção Civil 
-32440710; Edmundo Micaela Magalhães Regalado ; Montijo; Condutor de Empilhador 
-74769042; Vanusa Açores Ramires ; Monforte; Matemático – Especialista em Matemática Aplicada 
-86943343; Jacy Sousa de Arronches ; Horta; Lavadeiras e Engomadores de Roupa 
-33870582; Leda Ivo Vilhena Prates ; Vila Pouca De Aguiar; Profissionais de Nível Intermédio do Ensino
-58936864; Ferdinanda Ventura Teodoro ; Vizela; Empregados de Aprovisionamento e Armazém 
-16795083; Olívio Kelly Valentim ; Alijó; Cobrador de Bilhetes 
-36851980; Cristiano Rudolfo Siqueira ; Torre De Moncorvo; Outros Empregados de Biblioteca e Classificadores Arquivistas 
-66835385; Pamela Pêssego Mariz ; Alcobaça; Operador de Difusor – Beterraba 
-47664250; Francisco Flôr Bivar Bastos ; Amarante; Colocador de Anúncios (Montador de Anúncios) 
-57673266; Efigênia Obede Aveiro Bragança ; Albufeira; Outro Pessoal de Vigilância e Limpeza – Prédios e Outros Edifícios 
-53806255; Ulisses Vágner Lins ; Cartaxo; Bordador à Máquina 
-25647451; Bernardete Nabal Quaresma Secadura ; Ponte De Sor; Verificador de Qualidade 
-07269512; Agostinha Lóio Quintanilha ; Covilhã; Encarregado – Estiva 
-37578823; Aurélio Vanessa Leme ; Tarouca; Operador de Fotocompositora 
-58591352; Olívia Mourão Salazar ; Sines; Guarda, Rondista 
-86890232; Belisa Vilas Boas Salomão ; Fronteira; Outros Agricultores – Produção de Cereais e Vegetais 
-63474071; Quirino Leandra Alcântara Rebello ; Monção; Operadores de Máquinas para Fabricar Produtos de Borracha e Matéria Plástica 
-39047861; Fábio Póvoas ; Alcácer Do Sal; Operador de Fabrico – Queijo Fundido 
-32234907; Eurico Vargas ; Penedono; Solicitador 
-57457678; Lourenço Flora Piteira ; Lousada; Engenheiro de Minas – Minérios Metálicos 
-80794451; Kevin Fraga ; Paredes De Coura; Guia-Intérprete 
-77655990; Calvin Amélia Chagas ; Fornos De Algodres; Directores e Gerentes do Comércio Grossista e Retalhista 
-25948181; Ada Belmonte Mota ; Amarante; Operador de Instalação de Betonagem 
-30174366; Clóvis Kelly Barbosa Quinta ; Nordeste; Técnico Sanitário 
-24186543; Anabela Silvéria Pessoa Moutinho ; Estremoz; Comandante de Navio 
-73110074; Benedito Café Ramos ; Oliveira De Frades; Condutores de Máquinas de Extracção – Minas e Pedreiras 
-95059316; Junia Casalinho ; Santa Marta De Penaguião; Operador de Máquina de Revestimentos 
-47452971; Clarisse Forte ; Figueira De Castelo Rodrigo; Director e Gerente da Produção Industrial 
-83842212; Sabino Serralheiro Alencastre ; Tondela; Classificador de Fibras 
-16964582; Ademir Leocádio Abreu Rosário ; Castro Daire; Agente de Cobrança e Leitura 
-08500229; Dulce Freire ; Mêda; Criadores de Animais e Produtores de Leite 
-55960663; Isaías Fortunato Camacho ; Marvão; Outros Mestres, Marinheiros e Trabalhadores Similares 
-65641082; Bonifácio Flora Lousado ; Évora; Operador de Máquina de Manipular – Matérias Plásticas 
-00465106; Érica Frias Ourique ; Penedono; Operador de Fabrico de Forros para Saltos 
-51239232; Daniela Jaime Milheirão ; Corvo; Marnoto, Marnoteiro 
-87700556; Amanda Lemes Caniça ; Entroncamento; Operadores de Instalações e Máquinas e Trabalhadores da Montagem 
-88484849; Inês Ferraz Covelhã ; Mirandela; Corretor de Seguros 
-03378777; Jacinto Elza Taveiros Câmara ; Abrantes; Engenheiro Técnico Civil – Construção de Pontes 
-39536294; Natividade Canela Pinto ; Ponta Do Sol; Outros Condutores de Máquinas Agrícolas e Florestais 
-62348160; Flora Evelina Loio Pamplona ; Viana Do Castelo; Escriturário – Instituições Financeiras 
-67578818; Liliana Alexandra Queiroga Fonseca ; Soure; Trefiladores e Estiradores 
-87407449; Alírio Cachão Picão ; Crato; Cantoneiro de Rega 
-26718877; Diego Dantas Baptista ; Monção; Outros Ministros de Culto e Membros de Ordens Religiosas 
-52894052; Brígida Alva Maciel ; Ribeira De Pena; Torneiro – Trabalho em Série dos Metais 
-79082853; Rafael Sheila Olaio ; Viseu; Educadores de Infância 
-87279029; Custódia Durval Conde Araújo ; Albergaria-A-Velha; Operador de Máquina de Pintura – Calçado 
-31986590; Flora Aarão Outeiro ; Macedo De Cavaleiros; Amassador de Cânhamo 
-77383083; Humberto Godoi Leite ; Évora; Lubrificador de Máquinas 
-07791923; Marta Freire ; Terras De Bouro; Desenhador Cartógrafo 
-68271985; Graciete Brito Costa ; Madalena; Director de Partida 
-06487551; Nélia Ornelas Godinho ; Vila Pouca De Aguiar; Operadores de Informática 
-89472211; Ronaldo Michael Afonso Café ; Funchal; Pintores de Superfícies Metálicas, Plastificadores e Envernizadores 
-85215901; Soraia Picanço ; Covilhã; Penteador 
-71217249; Adrião Maria Zarco ; Pampilhosa Da Serra; Caldeireiros, Latoeiros e Bate-Chapas 
-61855656; Dário Ferrão ; Carrazeda De Ansiães; Outros Guias-Intérpretes e Trabalhadores Similares 
-30531005; Heidi Sarmento ; Portalegre; Agricultores e Trabalhadores Qualificados de Culturas Agrícolas 
-06138682; Wilker Covilhã Pessoa ; Viseu; Operador de Câmara 
-08389947; Djalma Quintero ; Paredes De Coura; Cortador de Luvas – Prensa 
-88472747; Celeste Mattos ; Viana Do Alentejo; Director de Escola 
-78847406; Aldina Urraca Piteira Villas Boas ; Tarouca; Operador de Máquinas de Moldar e Secar – Massas Alimentícias 
-92487723; Mira Firmino Cordeiro Quinzeiro ; Vizela; Operador de Instalações Frigoríficas 
-44735195; Firmina Marina Portugal ; Murtosa; Ajudante de Operador de Silos 
-42976086; Cássio Silvino Costa Ramires ; Gouveia; Cortador de Pelaria – Malas e Marroquinaria 
-94480496; Humberto Simas Almeida ; Viseu; Operador de Sala de Fabrico de Mosto – Cerveja 
-98709666; Levina Sabala Letras ; Penela; Ajudantes Familiares 
-11199363; Geraldo Bouças Rebimbas ; Penafiel; Peão de Brega 
-65400346; Flaviano Nair Pimenta ; Santa Cruz Das Flores; Técnico de Emprego 
-39542141; Estrela Varão ; Almeida; Montadores de Cabos 
-87903937; Loreta Carrasqueira Cedraz ; Vinhais; Pessoal dos Serviços e Vendedores 
-57987587; Nicolau Sandro Infante ; Barreiro; Actuário 
-59560783; Lúcio Graciete Pessanha ; Ovar; Preparador de Pintura – Estruturas Metálicas 
-58250421; Calebe Olavo Dinis ; Peniche; Regente de Coro 
-45059849; Alberta Freire Gameiro ; Bragança; Engenheiro Agro-Industrial 
-17592273; Romana Castilho Rebello ; Leiria; Impressor – Prensa de Contacto 
-97490222; Nataniel Mota ; Santa Cruz; Corretor 
-74495453; Susana Boga Bento ; Óbidos; Carpinteiro de Limpos 
-93276294; Arminda Ornelas ; Marinha Grande; Operador de Fabrico de Malte 
-13560954; Isa Vilas Boas ; Alter Do Chão; Outros Polidores de Metais e Afiadores de Ferramentas 
-09478597; Armindo Florêncio Benevides Azeredo ; Constância; Condutor de Máquina de Escavação 
-02057816; Dinis Filipe Basílio Sardinha ; Vila Do Bispo; Pintores, Limpadores de Fachadas e Trabalhadores Similares 
-08427216; Dúnia Hélia Blanco ; Odivelas; Engenheiro Químico 
-82308277; Samanta Olegário Furquim Areosa ; Silves; Trabalhadores Não Qualificados da Agricultura e Pescas 
-82218878; Petra Ercília Bethecourt ; Soure; Operador de Máquina de Vaporizar Fios 
-40852884; Laurentina Alancastre ; Alandroal; Lavador de Viaturas 
-43710490; Marcelo Delgado ; Vale De Cambra; Pesador 
-29629881; Bernardo Urias ; Silves; Mestre de Tráfego Local 
-32714436; André Viviana Paredes ; Silves; Especialista das Ciências Políticas 
-35687352; Bebiana Graça Vasques Ourique ; Paços De Ferreira; Montador de Estores (Instalador de Estores) 
-45651986; Honório Gonçalo Colaço ; Vouzela; Paginador Manual 
-89576198; Anacleto Amilcar Outeiro Sousa de Arronches ; Odivelas; Tintureiro – Produtos Têxteis 
-65019039; Ana Raimunda Borges ; Castelo De Vide; Directores de Empresas de Mediação e Prestação de Serviços 
-27535825; Leonardo Canejo Godoi ; Aljustrel; Operador de Extrusora 
-33564988; Lourdes Clara Quintal Ginjeira ; Seixal; Ajudante de Cozinha 
-69258139; Samanta Rêgo ; Góis; Trabalhadores da Pesca – Pesca Local e Costeira 
-13743044; Irina Cortesão ; Praia Da Vitória; Chefe de Estação – Correios 
-92801926; Assunção Mara Soverosa Vargas ; Moita; Montador de Gravuras 
-33450080; Diego Dotel ; Almeida; Outros Operadores de Máquinas de Moagem 
-19458035; Ferdinando Cangueiro ; Caldas Da Rainha; Outros Engenheiros Mecânicos e Engenheiros Técnicos Mecânicos 
-03497336; Solange Pasos Colaço ; Castanheira De Pêra; Outros Condutores de Veículos de Tracção Animal 
-99015081; Paloma Palha ; Coruche; Observador Meteorológico 
-00153669; Telma Heitor Meira ; Esposende; Montador de Artigos em Madeira e Matérias Similares 
-57616136; Miranda Íris Abreu ; Carrazeda De Ansiães; Marcador Oficinal 
-89036505; Lívio Foquiço Maior ; Cuba; Operador de Som – Cinema, Televisão e Rádio 
-63677868; Ado Varão Arantes ; Tarouca; Superintendente 
-83019767; Ariana Queiroga ; Torre De Moncorvo; Mecânicos e Ajustadores de Veículos a Motor 
-80316189; Michael Mortágua ; Évora; Outros Operadores de Máquinas de Produção e Refinação de Açúcar 
-65277637; Conceição Celina Monteiro Foquiço ; Campo Maior; Porteiros, Guardas e Trabalhadores Similares 
-15876833; Bianca Ediberto Sequeira Carvalhais ; Montemor-O-Novo; Arqueólogo 
-75635931; Gilberta Alencar ; Ponte De Sor; Cablador 
-46722725; Alan Sebastião Rico Reino ; Amadora; Magistrado do Ministério Público 
-63131710; Capitolino Brandão Oleiro ; Évora; Maquinista de Transportador por Cabo Aéreo (Teleferista) 
-90911841; Mário Tadeu Moraes ; Oliveira Do Bairro; Cardador 
-85915071; Caetana Caio Colares ; Vila Flor; Marceneiros, Carpinteiros e Trabalhadores Similares 
-29847331; Thays/Taís Estefânia Lisboa ; Monchique; Geólogos e Geofísicos 
-09059410; Susana Reinaldo Alvim ; Povoação; Outros Operadores de Tratamento Térmico de Metais 
-87480671; Ademir Angelina Nolasco ; Arronches; Secretário de Administração 
-52136204; Rafael Júlio Bernardes ; Vendas Novas; Revisor de Bilhetes – Caminhos de Ferro 
-65973354; Albertina Rosmaninho ; Montemor-O-Velho; Costureira Manual – Encadernação 
-99253687; Marieta Celestina Beça ; Cascais; Profissionais da Criação Artística, do Espectáculo e do Desporto 
-56577653; Marlene Valério Barrocas ; Castro Marim; Operador de Câmara 
-41905368; Benvinda Estevão Assunção Rebotim ; Évora; Acupunctor – Naturologista 
-78029578; Lúcio Margarete Sacadura ; Alfândega Da Fé; Marcador Oficinal 
-63148353; Martina Guedes Noite ; Tomar; Outros Operadores de Máquinas para Trabalhar Madeira e Cortiça 
-38759407; Elias Ricarda Fraga ; Soure; Professor de Gimno e Desportiva 
-10267741; Delfina Aarão Dantas Villena ; Valongo; Agente da Policia Judiciária 
-16130183; Clemente Dória Capucho Estrela ; Santiago Do Cacém; Revistador – Enrolador de Feltro 
-30357782; Júlia Adelmiro Quintal Espargosa ; Lamego; Técnico Profissional – Administração Pública 
-54285283; Tarcísio Flores ; Penamacor; Outro Pessoal de Limpeza de Escritórios, Hotéis e Trabalhadores Similares 
-01784637; Vanda Salomão ; Penalva Do Castelo; Outros Programadores de Informática e Trabalhadores Similares 
-39389269; Isilda Péricles Fogaça ; Amares; Engenheiro Civil – Geotécnico 
-52825744; Urraca Cavaco Quintana ; Estremoz; Criadores de Animais e Produtores de Leite 
-38677849; Misael Nei Lustosa Negrão ; Estremoz; Operador de Máquina de Fabrico de Abrasivos 
-21440957; Jandira Valentina Lara Torcato ; Beja; Operador de Máquinas de Fabricar Arame Farpado 
-78384483; Efigênia Anlicoara Vilaverde ; Seia; Operador de Sala de Fermentação – Cerveja 
-93958632; Vanderley Cisneiros ; Oliveira Do Hospital; Operadores de Instalações de Produção de Energia 
-00172349; Helena Viegas Varejão ; Azambuja; Farmacologista 
-51667661; Nélson Cícero Capucho ; Ovar; Magarefe 
-64774451; Clara Hernandes Torcuato ; Ponte De Lima; Telefonista – Recepção e Emissão de Telegramas 
-04239637; Jocelina Venâncio Leão ; Palmela; Pintor – Superfícies Metálicas 
-50992485; Florbela Fernandes ; Alter Do Chão; Bandarilheiro (Peão de Brega) 
-62273411; Filomena Sobral ; Lamego; Outros Veterinários 
-66437048; Wilma Soto Mayor  Doutiz ; Coimbra; Operador de Crivagem e Branqueamento – Pasta para Papel
-65868488; Dora Dirce Torres Barreiros ; São João Da Pesqueira; Técnico de Investigação e Desenvolvimento – Electrónica 
-12654224; Hermínia Leiria Bouça ; Sardoal; Maquetista 
-60154376; Kirina Amilcar Dorneles ; Odivelas; Enfardador 
-70697013; Manuela Rebelo Castelo Branco ; Elvas; Outras Lavadeiras e Engomadores de Roupa 
-90568359; João Aquino Teves ; São Brás De Alportel; Caixas de Estabelecimentos Bancários 
-17720656; Calebe Sacramento ; Espinho; Locutor 
-96167062; Sabino Rebocho ; Arouca; Operador de Concentração – Leite 
-07719036; Aldino Tatiana Grilo Mondragão ; Sever Do Vouga; Armador de Ferro 
-07355007; Ernesto Rijo ; Mealhada; Heliógrafo 
-09931201; Frederica Cleide Urias ; Lamego; Serralheiro Civil 
-01889628; Jó Rebouças Vilaverde ; Monção; Outros Mecânicos de Motores de Avião 
-01413492; Telmo Albina Bastos Resende ; Mêda; Operador de Pantógrafo – Metais 
-47852466; Albertina Naves ; Mogadouro; Outros Trefiladores e Estiradores 
-05352224; Assunção Andreia Borba Prada ; Palmela; Operador de Instalação de Fabrico – Azeite 
-58890665; Roberto Cândida Parafita Sacramento ; Murça; Heliógrafo 
-18660856; Helena Mirandela ; Penela; Canteiro de Escultura 
-20908510; Fernanda Leopoldo Fogaça ; Ponte De Sor; Motorista de Veículos Pesados – Passageiros 
-41763328; Lourival Dourado ; Silves; Arquivistas e Conservadores de Museus 
-03734279; Vilma Theo Neres ; Penedono; Montador de Refractários (Assentador de Refractários) 
-70163971; Filipe Secadura Pais ; Porto Santo; Maquinistas de Locomotivas 
-22962476; Helga Lia Bivar ; Sintra; Operador de Centrífuga – Açúcar 
-97680742; Clementino Albernaz ; Vila Franca Do Campo; Dealer 
-08716053; Márcio Caparica ; Mora; Costureiro 
-56670317; Reginaldo Elza Tomé Aleixo ; Santa Cruz Da Graciosa; Polidor (Operador de Máquina de Polir) – Aglomerados de Cimento 
-16859441; Fabíola Álvares Matta ; Fafe; Trabalhadores do Fabrico de Produtos Lácteos 
-81221774; Isa Melancia ; Anadia; Engenheiro Técnico Civil – Hidráulico 
-12613401; Gerson Aurélio Alcântara Pamplona ; Velas; Outros Controladores de Salas de Jogos e Trabalhadores Similares 
-21753586; Marco Félix Martinho ; Monchique; Chefe de Movimento – Transportes Rodoviários 
-32473843; Nívia Frade Silva ; Cinfães; Preparador de Tintas – Peles 
-34915459; Petra Dirce Regueira Ourique ; Bombarral; Operador de Soprador 
-03074869; Carmo Ivan Valido Bulhão ; São João Da Madeira; Atarraxador Mecânico – Trabalho em Série dos Metais 
-23536968; Albertina Miranda Borba ; Alcácer Do Sal; Especialistas das Ciências da Vida e Profissionais da Saúde 
-05347670; Gisela Freire ; Marco De Canaveses; Contabilista 
-64810732; Judith Abílio Pires ; Vila De Rei; Modelador – Malas e Marroquinaria 
-42592608; Alana Yara Vieira Quintão ; Miranda Do Douro; Enfermeiro – Especialista em Saúde Infantil e Pediátrica 
-46325410; Josefina Alencastre ; Lousã; Revistador de Cones de Feltro 
-08500361; Yasmine Silvana Fagundes Luz ; Calheta; Maçariqueiro 
-10192261; Mira Atanásio Milheirão ; Sines; Analista de Sistemas – Informática 
-03383708; Nélia Consuela Pino ; Mértola; Condutor de Empilhador 
-61722644; Marisela Boeira Rufino ; Ovar; Operador de Torrefacção de Malte 
-90487476; Ermínia Leonardo Inês Póvoas ; Alpiarça; Outros Directores Gerais 
-18969602; Nadir Granjeiro Nobre ; Arouca; Oficial Comissário – Marinha Mercante 
-18790293; Catarina Júdice Cachoeira ; Mértola; Director Geral – Administração Pública 
-75061456; Emília Ronaldo Meirelles ; Vila Nova De Gaia; Director e Gerente da Indústria Extractiva 
-96755129; Bernarda Artur Quintela Fontoura ; Lisboa; Professor do Ensino Superior 
-45247815; Marlene Solange Perdigão ; Pedrógão Grande; Empregado de Mesa 
-13829248; Fernanda Carla Passos ; Sever Do Vouga; Outros Lavadores de Vidros, de Veículos e Colocadores de Anúncios 
-18068126; Francelina Ondina Meneses Sampaio ; Arruda Dos Vinhos; Outros Serralheiros Mecânicos e Trabalhadores Similares 
-73944427; Abigail Martínez ; Calheta; Operador de Compressor 
-01018485; Esaú Cremilde Candeias Alvarenga ; Freixo De Espada À Cinta; Carpinteiro de Moldes
-45808123; Cícero Lira Dantas ; Esposende; Governanta de Andares – Indústria Hoteleira 
-49581497; Bryan Botelho Maltez ; Almodôvar; Encarregado – Cartonageiros e Operadores de Máquinas de Cartonagem 
-43930845; Adauto Pinho ; Alenquer; Empilhador de Tecidos 
-37875693; Ladislau Aurora Lancastre Serralheiro ; Peso Da Régua; Faroleiro 
-73689196; Eutímio César Rangel ; Porto; Colhedor de Vidro 
-29122423; Hermínia Luz Esteves ; Vila Nova De Cerveira; Manipulador de fósforos 
-18436791; Humberto Brião Quirino ; Mora; Operadores de Instalações de Tratamentos Químicos 
-05101384; Nádia Garcez Brás ; Horta; Dourador de Folhas – Encadernação 
-43476254; Firmina Damasceno Ávila ; Porto Santo; Operador de Máquina de Fabricar Tabaco Expandido 
-87584619; Ofélia Carolina Carlos Secadura ; Lagos; Cenógrafo 
-78898310; Diego Talita Cesário Holanda ; Porto Santo; Fotocopista 
-58797195; Ramiro Cerveira ; Póvoa De Varzim; Outros Mediadores Oficiais 
-72185597; Timóteo Nélson Rufino Mourinho ; Faro; Chefe de Banca (Fiscal de Banca) – Casinos 
-62529537; Melinda Agnes Hollanda Alvim ; Albufeira; Operador de Torno 
-53816024; Quitéria Sobral ; Grândola; Montador de Isolamentos 
-13886752; Carmen Amilcar Monteiro ; Santarém; Assistente de Congressos 
-22275789; Jacy Bernardes Lameiras ; Trancoso; Operador de Centrífuga – Açúcar 
-64334374; Renato Aldeia ; Gavião; Médico Imunohemoterapeuta 
-71287547; Martina Josélia Pacheco ; Penafiel; Engraxadores e Trabalhadores Similares 
-82142587; Francisco Eulália Milheiriço Granjeiro ; Matosinhos; Cozedor – Açúcar 
-03624121; Geraldo Moura Aranha ; Marco De Canaveses; Operador (Electromecânico) de Turbinas a Gás 
-84671542; Andreia Valdemar Telles ; Miranda Do Corvo; Operador de Sala de Fermentação – Cerveja 
-42004185; Alfredo Alexander Martínez Chaves ; Celorico De Basto; Outros Inspectores das Finanças 
-39995361; Yuri Natália Talhão ; Mêda; Gravador com Roda – Vidro 
-07326402; Ifigénia Meneses Granja ; Póvoa De Lanhoso; Maquinistas de Locomotivas 
-21583174; Vera Osório Jorge ; Santana; Fiscal de Rega 
-65362525; Paulo Douglas Aires ; Seixal; Mineiros, Trabalhadores de Pedreiras e Trabalhadores Similares 
-78999991; Alzira Ramiro Clementino Lira ; Castro Marim; Operador de Máquina de Descasque de Cacau 
-04188847; Ramiro Irina Sintra ; Ribeira Grande; Aplainador – Trabalho em Série dos Metais 
-44543163; Violante Esparteiro ; Arraiolos; Vigilante de Crianças 
-82082181; Serafim Florência Casalinho ; Terras De Bouro; Cartonageiros e Operadores de Máquinas de Cartonagem 
-11027987; Dagmar Urias Quintella ; Bragança; Aderecista 
-00471664; Dirce Barateiro Mourão ; Nelas; Sapateiro – Calçado Ortopédico 
-30241217; Magda Ângelo Doutel ; Mesão Frio; Apontador de Cardas 
-23166944; Carmelinda Peres  Barroso ; Castro Daire; Arameiro 
-53535506; Ricardina Matos ; Porto; Médico Anestesista 
-31979685; Fabíola Urbano Avelar Marmou ; Santana; Director e Gerente de Pensão ou de Residencial 
-07348288; Israel Pino ; Cartaxo; Outros Carvoeiros e Trabalhadores Similares 
-34708466; Firmina Pessoa ; Santa Cruz Das Flores; Trabalhador Rural 
-41545416; Hipólito Guerra Damasceno ; Vizela; Pintor por Imersão – Cerâmica 
-10960633; Célia Douglas Farinha ; Santiago Do Cacém; Operador de Máquina de Dobrar – Encadernação 
-75654651; Josefa Padilha Negreiros ; Vidigueira; Vendedor Ambulante – Produtos Comestíveis 
-94138204; Antónia Anjos Sosa ; Cartaxo; Especialistas da Informática 
-26499319; Golias Anastácia Torquato Aguiar ; Rio Maior; Cônsul 
-01546758; Énio Jacinto Amado ; Ponte Da Barca; Operador de Máquinas de Fabricar Pregos 
-20644397; Luciano Luana Rabelo Vilarim ; Reguengos De Monsaraz; Chefe de Movimento – Transportes Rodoviários 
-17790214; Cleusa Domingues ; Vila Verde; Operador de Máquinas-Ferramentas, em Geral – Trabalho em Série dos Metais 
-61319203; Ludovico Valido Leite ; Porto De Mós; Mestres, Marinheiros e Trabalhadores Similares 
-25631282; Jessé Guilherme Belém ; Golegã; Tratador de Animais – Investigação Experimental e Biológica 
-01257422; Élio Candeias Lencastre ; Mira; Rectificador – Trabalho em Série dos Metais 
-12784768; Rômulo Elda Carvalhal Botica ; Barreiro; Condutores de Máquinas de Escavação e Terraplanagem 
-56789901; Isaura Leão ; Sines; Soldador a Arco em Atmosfera de Gases Inertes ou de Anidrido Carbónico 
-50248466; Agnes Nilda Veiga Loio ; Borba; Outros Mediadores Oficiais 
-33060984; Aparecida Castilhos ; Valença; Marinheiro de Tráfego Local 
-26791899; Lilian Úrsula Vilarinho ; Ílhavo; Operador de Combustível 
-52467035; Dário Acácia Almeida ; Ribeira Grande; Cozinheiros e Trabalhadores Similares 
-57395187; Aguinaldo Anderson Noronha Sacramento ; Alcochete; Condutor de Máquina Arrastadora "Dragline" 
-56888250; Miguel Edgar Torrado Frade ; Nazaré; Técnico de Prevenção e Segurança 
-59109106; Eunice Paula Boeira ; Figueira De Castelo Rodrigo; Operador de Máquinas de Acabamentos – Produtos Têxteis 
-62916301; Edgar Passos Casalinho ; Marvão; Ministros de Culto e Membros de Ordens Religiosas 
-10429500; Ingrid Quaresma Cachão ; Paredes; Mecânicos e Ajustadores de Máquinas 
-60411523; Cecília Jacy Pederneiras Martínez ; Macedo De Cavaleiros; Preparador de Amianto – Fibrocimento 
-50690439; Asdrúbal Coelho ; Vendas Novas; Outros Quadros Superiores da Administração Pública 
-79035436; Mafalda Lurdes Vilaça Thomé ; Celorico Da Beira; Montador de Máquinas 
-02225701; Disa Quintal Goulart ; Valpaços; Dirigente de Organização Humanitária e Outras 
-35751613; Neusa Beatriz Pinto ; Redondo; Factor – Metropolitano 
-91110812; Bebiana Isaura Vilhena ; Covilhã; Outros Operadores de Máquinas de Imprimir – Artes Gráficas 
-75322892; Leticia Jaime Amaro ; Vimioso; Operador de Instalação de Fabrico de Placas Acrílicas 
-56523002; Neli Vasconcelos Castelo Branco ; Arraiolos; Floricultor 
-80594464; Estela Covinha ; Olhão; Dobrador Manual – Encadernação 
-64233671; Lia Amado Cedraz ; Vila Viçosa; Fiscal de Exploração – Metropolitano 
-20344175; Quirina Sá ; Castro Daire; Operador de Moinho – Especiarias 
-49435393; Dúnia Aguinaldo Matos ; Cinfães; Maquinista de Poço de Extracção 
-35601836; Bartolomeu Marmou ; Carregal Do Sal; Operador de Instalação de Depuração de Sucos – Beterraba 
-77721163; Dores Alexandrina Horta ; Alijó; Operador de Máquina para Fabricar Machos (Macheiro Mecânico) 
-56705611; Nilda Ricardino Moreno ; Lajes Das Flores; Mariscador 
-35039381; Eulália Cardoso Boaventura ; Seia; Socorrista 
-36510815; Darlene Violeta Ribas Godoi ; Aguiar Da Beira; Engraxador 
-75769901; Ulisses Léia Carrilho ; Sever Do Vouga; Outros Pedreiros e Calceteiros 
-99982131; Naum Negrão Canto ; Espinho; Operador de Concentrados – Rações para Animais 
-40124731; Sérgio Novaes ; Praia Da Vitória; Auxiliar de Limpeza (Servente de limpeza) 
-78595545; Esmeralda Lages ; Ponta Delgada; Outros Caldeireiros, Latoeiros e Bate-Chapas 
-69575779; Judite Calvin Costa ; Figueira De Castelo Rodrigo; Topógrafo 
-08567107; Benito Fagundes ; Resende; Alimentador (Recolhedor) – Cigarros 
-13107011; Ilídio Cambezes ; Portel; Técnico de Contas (Guarda-Livros) 
-52948202; Octávia Gil ; Rio Maior; Operador de Máquina de Cortar Pêlo – Veludo "Cotelé" 
-00447293; Atanásio Hilário Mirandela ; Freixo De Espada À Cinta; Cesteiros, Pinceleiros e Trabalhadores Similares 
-92293294; Emídio Priscilo Frias ; Lamego; Montador de Estores (Instalador de Estores) 
-84806227; Adelaide Maranhão Castelhano ; Murça; Outros Inspectores da Segurança Social 
-92015300; Aldino Inácio Prada Moita ; Alvaiázere; Oficial Vidreiro 
-71198206; Luciano Pastana Malafaia ; Vidigueira; Outros Canalizadores 
-23443202; Bernardo Odair Frota Parente ; Espinho; Reveladores e Impressores em Câmara Escura 
-58903564; Herculano Acácia Bicudo ; Évora; Maquinista de Cinema 
-36438621; Malvina Rosário Carvalhoso ; Terras De Bouro; Outros Carregadores e Descarregadores de Mercadorias 
-96536507; Eugénio Milheiriço ; Ribeira Brava; Secretário de Administração 
-53102971; Alzira Neves ; Benavente; Azulejador 
-15626048; Dória Félix ; Redondo; Criadores de Animais e Produtores de Leite 
-12705661; Elizeu Fedra Vilariça Bethecourt ; Alfândega Da Fé; Impressor em Talhe-Doce (Operador de Máquina de Timbragem em Relevo) 
-90248616; Tomé Palos Godinho ; Palmela; Enfermeiro – Especialista em Saúde Pública
-82494782; Kevin Flávia Azenha Frota ; Viana Do Castelo; Resineiro (Resinador) 
-75310820; Arménio Virgínia Barbosa ; Braga; Mecânico – Reparador de Motociclos e Velocípedes 
-57264010; Herculano Lourdes Lóio ; Marco De Canaveses; Assentador de Refractários 
-95816829; Gilda Santiago ; Amares; Outros Médicos 
-30564103; Alana Valdemar Marroquim ; Sardoal; Engenheiro de Minas – Hidrologia Subterrânea 
-35343571; Amândio Curvelo ; Cadaval; Impressor Tipográfico 
-80234727; Clementina Omar Quinteiro Paixão ; Cadaval; Crítico 
-10878751; Ferdinanda Ademar Camacho Valadares ; Coimbra; Operador de Silos 
-23229721; Renato Mascarenhas Cachoeira ; Ourém; Trabalhador Avícola 
-45981381; Jade Cassilda Sacadura Villaverde ; Tábua; Artesãos de Artigos em Madeira e Materiais Similares 
-17091080; Cassandra Nataniel Mora ; Vila Velha De Ródão; Mestre de Redes – Pesca do Largo 
-50885311; Urbino Lúcia Reis ; Bombarral; Decapador por Processos Químicos 
-18014351; Margarida Marreiro ; Estremoz; Operador de Filtração – Cerveja 
-16984660; Adérito Capucho Azambuja ; Braga; Pintores da Construção Civil e Colocadores de Revestimentos 
-39525584; Wilson Félix Carvalho Fortunato ; Castanheira De Pêra; Lixador 
-42809454; Walter Onofre ; Lisboa; Técnicos e Assistentes Veterinários 
-74088500; Neli Alfredo Gago Medeiros ; Santo Tirso; Impressor Serígrafo 
-26490468; Dúlio Sousa de Arronches Cascais ; Montemor-O-Velho; Montador de Peças ou Órgãos Mecânicos, em Série 
-26223056; Marília Mateus Reino ; Celorico Da Beira; Operador de Montagem de Relógios 
-12176203; Samuel Delfim Quintana ; Abrantes; Prensador Manual – Vidro 
-89197639; Cristiano Freitas Ximenes ; Lagos; Instrutor de Voo 
-25163653; Michael Carmen Lima ; Pampilhosa Da Serra; Jornalista 
-03221387; Júlio Flora Cerveira Ferraço ; Arouca; Médico Imunohemoterapeuta 
-43423639; Aníbal Edelina Souto Maior ; Alcochete; Condutor de Draga 
-62887685; Sabina Joyce Arruda Bicalho ; Santa Marta De Penaguião; Técnicos e profissionais de Nível Intermédio 
-56976123; Nazaré Douglas Guedelha Bettencourt ; Paredes; Telefonista – Central Telefónica Pública 
-84262342; Dário Teófilo Casado ; Idanha-A-Nova; Estafetas, Distribuidores, Bagageiros e Trabalhadores Similares 
-16836317; Alma Estefânia Serpa ; Arronches; Piloto de Barra 
-44739655; Márcio Disa Quintanilla Bouça ; Setúbal; Engraxadores e Trabalhadores Similares 
-64231416; Pamela Sobral Campelo ; Mação; Empregados Administrativos dos Serviços Financeiros e Trabalhadores Similares 
-08489436; Talita Laurentina Teles ; Vila Nova Da Barquinha; Escanção (Chefe de Vinhos, "Sommelier") 
-80757064; Heitor Carla Candeias Camelo ; Cantanhede; Operadores de Máquinas de Revelação 
-64606185; Clóvis Bouças ; Sátão; Operador de Prensa de Extrudar 
-80982551; Belinda Cristiano Rico ; Odemira; Outros Agentes Concessionários 
-61344550; Belisa Caldas Quintais ; Santo Tirso; Operador de Tanque de Imersão 
-70741572; Ludovico Pinhal ; Gondomar; Instrumentista de Banda ou Grupo 
-25372651; Alana Pires Mederos ; Crato; Filólogo 
-18732360; Kelvin Fábio Peixoto ; Montalegre; Tintureiro – Produtos Têxteis 
-18115136; Sílvia Agnes Ouro ; Ponte Da Barca; Impregnador – Madeira 
-78426841; Jerônimo Magda Bezerra Guterres ; Sabugal; Outros Arquivistas e Conservadores de Museus 
-81875102; Kevin Valdo Nobre ; Constância; Inspectores de Educação 
-98404940; Rita Thays/Taís Rijo ; Loures; Tirador (Pregador) de Teias 
-47466576; Pascoal Peçanha ; Silves; Soldador a Arco Eléctrico 
-37953241; Nídia Palha ; Ponte Da Barca; Cordoeiro (Operador de Máquina de Fazer Cordão) – Sirgaria 
-12981491; Helga Rios Alves ; Ílhavo; Médico – Saúde Pública 
-59523875; Graziela Magalhães Mendes ; Campo Maior; Desenhador Modelista Industrial 
-62753164; Constança Paulina Medina Madureira ; Vila Do Conde; Cortador de Pelaria – Malas e Marroquinaria 
-38744456; Ieda Carvalhoso Silva ; Albufeira; Outros Farmacêuticos 
-29694316; Eutímio Negromonte ; Lajes Das Flores; Outros Inspectores e Técnicos Agrários e Florestais 
-15551487; Alfredo Máxima Loureiro Onofre ; Terras De Bouro; Empregados de Mesa e Trabalhadores Similares 
-12159788; Sandro Lobato ; Ponte De Lima; Estaticistas 
-27858037; Aldina Olímpio Martins ; Tarouca; Operador de Máquinas de Fazer Rede 
-41783631; Odair Tânia Sotomayor ; Boticas; Operador de Electroerosão 
-54422178; Benedita Alfredo Belém ; Valpaços; Caixa de Serviços Financeiros 
-17494818; Catarina Afonso Estrela Prates ; Vila Nova Da Barquinha; Operador de Extrusora 
-39248392; Mariete Belo ; Gouveia; Condutores de Veículos Pesados de Mercadorias 
-28127331; Agnes Sónia Cedraz ; Penela; Motorista de Automóveis Ligeiros – Passageiros 
-88361833; Victor Timóteo Capucho Prado ; Santa Comba Dão; Director Financeiro 
-41381718; Armindo Vianna ; Aveiro; Feitor, Encarregado 
-68796887; Nicole Paulo Mesquita ; Ribeira Grande; Engenheiro Técnico Agrário – Produção Animal 
-52135324; Batista Janes Bonilha ; Almodôvar; Soldador a Arco Eléctrico 
-99945997; Jasmim Vera Magalhães Falcão ; Mondim De Basto; Patologista 
-10788889; Luciana Valentim ; Vila Nova Da Barquinha; Físico – Especialista em Física dos Plasmas 
-57705019; Ângela Hermes Esteves ; Vieira Do Minho; Operador de Instalação de Torrefacção de Cacau (Torrador de Cacau) 
-81100481; Vera Meneses ; Silves; Operador de Atomizador – Cerâmica 
-77451221; Caio Nélson Moutinho ; Angra Do Heroísmo; Encarregado de Armazém 
-06211269; Alba Abasto ; Viana Do Castelo; Operador de Colheita de Águas 
-38614253; Liane Nei Aquino ; Sobral De Monte Agraço; Operador de Máquina de Rebobinar (Rebobinador) – Papel 
-52992508; Magali Angelina Covinha ; Horta; Especialista das Ciências Políticas 
-51015889; Raimunda Helga Tigre ; Sines; Outros Geólogos e Geofísicos 
-01326837; Guilhermina Valentim Menna ; Santarém; Radiotécnico 
-57218544; Berenice Pena ; Castelo De Paiva; Cobrador-Leitor (Agente de Cobrança e Leitura) 
-68298078; António Arménio Caires Lemos ; Mesão Frio; Agente Administrativo (Inspector Administrativo) – Administração Pública 
-89582935; Índia Castelo Sousa do Prado ; Vila Franca De Xira; Esfarrapador 
-59331648; Ezequias Mónica Cunha ; Baião; Chefe de Estação – Caminhos de Ferro 
-84618832; Rodolfo Manuelina Saltão ; Caldas Da Rainha; Abatjoureiro 
-16955276; David Armanda Farias ; Santa Marta De Penaguião; Operador de Máquina de Bordar 
-60763694; Lia Baptista Álvaro ; Sátão; Serrador de Diamantes 
-59167527; Benvinda Sabala Rios ; Aljustrel; Estaticista 
-96172278; Ludovico Carromeu ; Castro Verde; Director e Gerente de Pensão ou de Residencial 
-81020197; Georgina Belisa Coito Ramalho ; Odemira; Inspector do Ambiente 
-55703763; Marcela Ademar Olivera ; Gavião; Dourador de Folhas – Encadernação 
-40905757; Américo Clóvis Picanço Calçada ; Guimarães; Outros Mineiros, Trabalhadores de Pedreiras e Trabalhadores Similares 
-60656159; Rosa Faustina Fragoso ; Lajes Das Flores; Copeiro 
-90282298; Elisabete Ania Quintal Trigueiro ; Murtosa; Conserveiro de Peixe 
-46595277; Jasmim Joel Ouro ; Montalegre; Operador de Misturador – Indústria Química 
-13054588; Tito Vicente Zambujal ; Azambuja; Serralheiro de Chaves e Fechaduras 
-60696765; Ivete Sampaio Carvalhal ; Vale De Cambra; Operador de Instalação de Fermentação e Tratamento – Cerveja 
-88356428; Rubina Luca Bencatel Keil do Amaral ; Miranda Do Douro; Operador de Penteadeira – Linho e Cânhamo 
-61994553; Ivete Jácome ; Rio Maior; Encarregado – Produção e Refinação de Açúcar 
-60833988; Neandro Jasmim Regodeiro ; Camara De Lobos; Outros Artistas de Circo 
-31912684; Lissa Geraldino Queirós ; Nisa; Médico Cirurgião – Cirurgia Plástica e Reconstrutiva 
-97861956; Berenice Cinara Carvalhais ; Oliveira De Frades; Operador de Registo de Dados 
-80679239; Anacleto Janes Horta ; Marco De Canaveses; Outros Mergulhadores 
-68768977; Nilda Ferdinanda Mansilha Goulart ; São João Da Madeira; Piloto de Barra 
-19782359; Moacir Caio Ramallo Maranhão ; Vila Real De Santo António; Encarregado de Refeitório 
-79184272; Evelina Raimundo Belém Macieira ; Tavira; Oficiais da Marinha, Pilotos de Aviões e Técnicos dos Transportes Marítimos e Aéreos 
-89625780; Adonirã Geralda Vilalobos ; Castelo Branco; Operador de Instalação Automática de Preparação de Pasta – Cerâmica 
-62984421; Rodrigo Aires ; Covilhã; Outros Empregados de Aprovisionamento 
-24408345; Albertina Borba ; Tábua; Operador de Instalação de Preparação – Tabaco 
-21426580; Ezequias Carmona ; Leiria; Outros Operadores de Máquinas de Tratamento de Produtos Têxteis 
-99617232; Rogério Tarcísio Castelhano Pinheiro ; São Brás De Alportel; Director – Construção Civil e Obras Públicas 
-86194268; Carmen Lilian Bogalho Arouca ; Leiria; Mecatrónico 
-33150904; Estrela Marques Rodovalho ; Porto; Ciclista Profissional 
-01789414; Jaime Rêgo Azeredo ; Monção; Facetador de Diamantes 
-48342511; Sílvia Pena ; Santana; Picador de Pentes 
-28191258; Nadine Lucas Frota Oliveira ; Mirandela; Director e Gerente – Comércio Retalhista 
-31332686; Íris Melancia ; Castro Verde; Inspector – Ministério da Agricultura 
-32941849; Anabela Mondragão Viegas ; Alvito; Outros Ajudantes Familiares 
-17910752; Marisela Jonathan Silva ; Batalha; Fotogrametrista (Operador Fotogramétrico) 
-74218116; Bernardo Olinda Macedo ; Esposende; Outros Telhadores 
-75033924; Leda Raul Palha ; São João Da Madeira; Guia-Intérprete 
-84518362; Odair Foquiço ; Santo Tirso; Mergulhadores 
-27417546; Humberto Lauro Barra ; Espinho; Montador de Andaimes 
-28285185; Teresa Bivar ; Alcobaça; Electromecânico de Instrumentos de Precisão 
-02590768; Olívio Sesimbra ; Nazaré; Modelador – Malas e Marroquinaria 
-86222398; Thays/Taís Aníbal Castanho ; Pampilhosa Da Serra; Supervisor de Contas – Publicidade 
-29462057; Manuelina Vanderlei Lameiras ; Benavente; Agentes Funerários e Trabalhadores Similares 
-52062793; Delfim Miguel Aldeia ; Trofa; Crítico 
-13631268; Marília Olímpia Granja Abasto ; Salvaterra De Magos; Operador de Câmara 
-93880290; Amador Belarmina Ferrão Bettencourt ; Seixal; Contactologista 
-63065779; Tânia Dúnia Palha Lessa ; Alcobaça; Folheador 
-17116997; Israel Goulart Reis ; Fafe; Operador de Instalação Automática de Fabrico de Chapa – Fibrocimento 
-94026442; Alícia Caeira ; Castelo De Vide; Operador de Prensa – Açúcar 
-76103439; Ieda Valquíria Dias ; Amarante; Preparador de Colas – Borracha 
-89483769; Patrícia Ariela Ximenes Remígio ; Aljustrel; Outros Oceanógrafos 
-72125130; Alva Cíntia Terra ; Lajes Das Flores; Técnico – Administração Pública 
-55568757; Clemente Meireles Vasques ; Aljustrel; Pintores da Construção Civil e Colocadores de Revestimentos 
-44331373; Humberto Aleixo ; Sátão; Electricista Auto 
-81662695; Ingrid Gouveia Soto ; Pombal; Operador de Telecinema 
-31658345; Aurora Sales Lagos ; Benavente; Médico – Saúde Pública 
-37600049; Carol Sabrina Ventura ; Pampilhosa Da Serra; Desenhador Projectista 
-06937405; Rosa Quezado Mainha ; Mértola; Operador de Clarificação e Arrefecimento do Mosto – Cerveja 
-96000980; Alan Cangueiro Roriz ; Vila Nova De Paiva; Técnicos das Ciências da Vida e da Saúde 
-63451495; Jessé Genoveva Domingues Regueira ; Santo Tirso; Corretores de Mercadorias 
-44589510; Vitória Hildefonso Gonçalves ; Setúbal; Raspador Mecânico (Operador de Máquina de Raspar e Rebaixar Pêlo) 
-17005924; Gregório Ermínia Mayor Alves ; Almeirim; Guarda-Livros 
-13725666; Laila Celina Calheiros Noronha ; Valpaços; Vendedor Ambulante – Produtos Não Comestíveis 
-17474417; Gabriela Fontoura ; Santa Cruz; Encarregado – Equipamento Emissor e Receptor de Rádio e TV 
-32590847; Vágner Danilo Duarte ; Aguiar Da Beira; Operador de Máquina de Fabricar Papel ou Cartão – Secagem 
-31040140; Fabiana Castelão ; Tabuaço; Vigilantes de Crianças 
-15965773; Edmundo Canela Mourinho ; Valença; Preparador de Vinhos 
-46130041; Pablo Mont'Alverne ; São Vicente; Retorcedor 
-53715883; Dolores Torcato Torcato ; Aljezur; Montador de Anúncios 
-24934497; Fabiana Lisboa ; Cinfães; Gestor de Sinistros (Regularizador de Sinistros) – Seguros 
-00322237; Plácida Negreiros Feitosa ; Monforte; Trabalhadores dos Têxteis e Confecções e Trabalhadores Similares 
-00205883; Júlio Hernandes Fontoura ; Ferreira Do Zêzere; Director e Gerente – Construção Civil 
-50292823; Belmiro Muxagata ; Guarda; Operador de Banda de Sinterização 
-40891848; Júlio Violante Parafita ; Mortágua; Rebarbador Mecânico 
-32793795; Jacy Belinda Barcelos ; Almeirim; Assistente Social 
-67447383; Magali Énio Covilhã Soverosa ; Oliveira De Azeméis; Vendedores por Telefone e ao Domicílio 
-22253356; Magda Maurícia Neiva Antas ; Sobral De Monte Agraço; Cabeleireiros, Esteticistas, Massagistas e Trabalhadores Similares 
-50766987; Nero Brandon Cavadas ; Nelas; Picador de Cartões de Debuxo – Malhas Tubulares 
-16871354; Cecília Ouro ; Barreiro; Mineiros, Trabalhadores de Pedreiras e Trabalhadores Similares 
-11912190; Cassilda Fitas ; Lourinhã; Directores e Gerentes da Produção Industrial 
-13256941; Telma Constantino Aquino ; Mêda; Outros Filólogos, Tradutores e Intérpretes 
-47553280; Yolanda Vasco Maranhão ; Mondim De Basto; Mecânicos e Ajustadores de Máquinas Industriais e Trabalhadores Similares 
-55017016; Lília Cotrim Bandeira ; Moita; Costureira, Trabalho em Série 
-53360639; Hélio Foquiço Farinha ; Oleiros; Trabalhadores da Preparação do Tabaco 
-02941646; Vanusa Leonardo Teles Galindo ; Miranda Do Corvo; Matador de Criação 
-67708278; Urraca Alexandre Valadares Correia ; Ansião; Cobrador-Leitor (Agente de Cobrança e Leitura) 
-04367843; Adelaide Rêgo Trindade ; Portel; Mediadores Oficiais 
-79290278; Lília Norões Castilho ; Almeirim; Operador de Filtro Rotativo – Açúcar 
-96490691; Ifigénia Alzira Britto Caldas ; São Roque Do Pico; Conservador do Registo Civil 
-79125536; Edelina Coelho ; Aveiro; Visagista 
-71746519; Norma Iolanda Pires ; Nisa; Operadores de Máquinas de Encadernação 
-15626598; Cíntia Anita Rosa Lage ; Armamar; Engenheiro Electrotécnico– Automação, Controlo, Instrumentação 
-40946666; Amândio Machado ; Penamacor; Outros Vendedores Ambulantes – Produtos Não Comestíveis 
-34962888; Manuela Madeira Pasos ; Azambuja; Empregados de Aprovisionamento, de Planeamento e dos Transportes 
-37558253; Simone Garrido Corvelo ; Viseu; Oficial de Tráfego – Transportes Aéreos 
-54569054; Raul Débora Montenegro ; Odivelas; Seleccionador de Peles 
-34902687; Renan Adalberto Noguera ; Sintra; Montador de Construções Navais – Estaleiro 
-90364030; Silvana Quirino Chaves ; Vila Franca Do Campo; Operador de Máquina de Fabricar Papel ou Cartão 
-08906957; Carina Verónica Rabello Carmona ; Fundão; Cantor 
-42047251; Adosindo Reis Quintas ; Santa Comba Dão; Operador de Encoladeira – Cartão Micro-Canelado 
-16790238; Bonifácio Patrício ; Guimarães; Condutores de Máquinas de Escavação e Terraplanagem 
-30187862; Ofélia Leila Varão ; Castelo Branco; Outros Montadores de Aparelhagem Eléctrica e Electrónica 
-72662496; Evelise Lessa ; Mértola; Outros Técnicos Intermédios de Química Industrial 
-97952691; Calvino Frade Vilariça ; Bragança; Físico Teórico 
-01888691; Naomi Rêgo ; Camara De Lobos; Operadores de Cadeias de Montagem Automatizadas e de "Robots" Industriais 
-65704986; Diana Amilcar Rufino Gorjão ; Terras De Bouro; Empregados de Mesa e Trabalhadores Similares 
-47517580; Flaviano Ferreira ; Guimarães; Toureiro 
-89613312; Brígido Macena Macena ; Ourique; Planeador de Meios – Publicidade 
-58619131; Lilian Ariana Gouveia ; Constância; Instrumentista de Banda ou Grupo 
-27969283; Esdras Clotilde Peres  Parreira ; Alcoutim; Recepcionistas e Trabalhadores Similares 
-68187727; Telma Lameirinhas Carmo ; Ourém; Bordador à Máquina 
-79491325; Dânia Francelina Osorio ; Lousã; Operador de Máquina de Revelar Películas 
-98803023; Cassilda Adelino Açores ; Vouzela; Outros Trabalhadores dos Explosivos 
-35823308; Kevin Cabreira ; Tabuaço; Marceneiros, Carpinteiros e Trabalhadores Similares 
-71740882; Sheila Valim ; Nisa; Enceradores e Trabalhadores Similares da Construção Civil 
-77784607; Naomi Renata Marcondes ; Albufeira; Batedor de Ouro em Folha 
-36356505; Ataliba Fragoso ; Pinhel; Electricista-Montador de Anúncios Luminosos 
-45319304; Cecília Gameiro Valério ; Chaves; Outros Inspectores e Técnicos Agrários e Florestais 
-91218322; Elizeu Frota ; Alfândega Da Fé; Operador de Sistema de Pesagem e de Mistura – Açúcar 
-11988119; Tristão Nicolau Mascareñas ; Freixo De Espada À Cinta; Outros Atletas, Desportistas e Trabalhadores Similares 
-32283770; Sílvia Nídia Luz ; Albergaria-A-Velha; Vigilante de Instalação Automática de Estirar Vidro 
-83371075; Bryan Keil do Amaral ; Mirandela; Pintor – Decorador à Pistola – Vidro e Cerâmica 
-28308368; Emília Raimunda Vilaverde ; Fornos De Algodres; Encarregado – Tratamento Térmico de Metais 
-42747355; Damiana Deolinda Mascarenhas Franco ; Lourinhã; Outros Inspectores e Técnicos das Alfândegas e Fronteiras 
-44794215; Clementino Cristiano Fernandes Pinheiro ; Bombarral; Costureira Manual – Encadernação 
-75825926; Amélia Morgana Monte Castanheira ; Vila Nova De Paiva; Oleiro Enchedor 
-81124137; Tomé Canedo Doutel ; Praia Da Vitória; Outros Directores de Restauração e Hotelaria 
-77250074; Arlindo Ribas Canedo ; Vieira Do Minho; Agente de Polícia Marítima 
-09808852; Ariana Eli Betancour ; Grândola; Canteiro de Acabamentos – Construção Civil 
-57276106; Atanásio Mirandela Lameira ; Angra Do Heroísmo; Operador de Prensa de Forjar 
-59608697; Leónidas Vanusa Igrejas Bicudo ; Faro; Encarregado – Tratamento e Preparação de Madeiras e Cortiças 
-61290136; Priscila Carol Medina ; Vila Velha De Ródão; Médico Oftalmologista 
-67148199; Cristiano Marina Nazário Caniça ; Vila Nova De Paiva; Vaporizador de Meias 
-76493343; Raul Rabelo ; Odemira; Dobrador Manual – Encadernação 
-76748532; Ademar Cristiana Cunha Teodoro ; Pedrógão Grande; Agente de Navegação 
-41214722; Pablo Serralheiro Paixão ; Elvas; Especialistas da Informática 
-07080140; Fernanda Pamplona ; Vendas Novas; Encarregado – Montagem de Equipamentos Eléctricos e Electrónicos 
-57921576; Rita Hipólito Lucena ; Covilhã; Operador de Instalação de Preparação – Tabaco 
-50902357; Reinaldo Monjardim ; Santiago Do Cacém; Agricultor – Floricultura (Floricultor) 
-87780929; Estefânia Matos ; Gondomar; Mecânico de Motores de Aeronaves 
-76622308; Renata Fagundes ; Viana Do Alentejo; Semussador de Feltro de Lã – Chapelaria 
-25855454; Liana Carvalhosa ; Condeixa-A-Nova; Impressor de "Offset" 
-36546538; Edson Emília Canário ; Ponte De Lima; Técnicos Sanitários e Trabalhadores Similares 
-25165866; Altino Vânia Baldaia ; Castelo Branco; Agricultores e Pescadores – Agricultura e Pesca de Subsistência 
-65744068; Xavier Caetano Pêcego ; Soure; Operador de Máquina de Ensacar 
-79248382; Úrsula Susete Conde Lameiras ; Palmela; Outros Empregados Administrativos de Contabilidade e Trabalhadores Similares 
-47857778; Venâncio Boga Malheiros ; Porto Santo; Pregador 
-36200301; Ermínia Nelma Granja Meireles ; Pombal; Forjador Mecânico (Operador de Prensa de Forjar) 
-03196903; Dinarte Damasceno ; Reguengos De Monsaraz; Acabador de Pratas 
-40714177; Albano Coitinho Rosmaninho ; Vila Do Conde; Farmacêutico 
-22134012; Humberto Anaísa Negromonte Bugalho ; Mesão Frio; Telefonista – Central Telefónica Pública 
-75952772; Samuel Nascimento Torrado ; Campo Maior; Padeiros, Pasteleiros e Confeiteiros 
-14375592; Aníbal Carvalhais Lustosa ; Penalva Do Castelo; Directores de Empresas de Mediação e Prestação de Serviços 
-52438470; Junia Carvalhosa Souza ; Covilhã; Oficial de Martelo 
-64933921; Georgina Dina Villalobos ; Porto; Dietista 
-07042067; Núria Teresa Feijó Palma ; Lisboa; Intérprete 
-69176936; Fernanda Lira ; Paços De Ferreira; Operador de Máquina de Betumar – Aglomerados de Cimento 
-86138110; Ema Sónia Padilla ; Miranda Do Corvo; Bombeiro Marítimo (Bombeador) 
-06807185; Nara Manuelina Villalobos ; Mora; Operador de Triturador 
-77892458; Nélida Quirino ; Matosinhos; Operador de Extracção – Óleos Alimentares 
-65603574; Claudino Semedo ; Rio Maior; Operador do Acabamento de Lixas 
-19470526; Wilson Marmou Vilaverde ; Angra Do Heroísmo; Outros Técnicos e Profissionais de Nível Intermédio
-90198930; Octávio Olivier Saraiva ; Sertã; Oficial Comissário – Marinha Mercante 
-99499083; Irene Nadine Feijó ; Chamusca; Tecelões de Teares Manuais e Trabalhadores Similares 
-79968369; Douglas Luana Mondragão Gonçalves ; Penela; Operador de Limpeza de Café 
-97498380; Batista Nazário ; Porto Santo; Dobrador Manual – Encadernação 
-65439911; Greta Balsemão ; Mértola; Outros Operadores de Instalações para Trabalhar Madeiras e Cortiça 
-16567657; Quitéria Fragoso ; Valença; Enformador – Lâminas Termoplásticas 
-09187829; Natércia Nataniel Cesário ; Vieira Do Minho; Decorador de Espaços Comerciais 
-28586889; Túlio Dúnia Aguiar Damascena ; Vila Real; Gazeador 
-81950031; Vital Paredes ; Tondela; Rebarbador Mecânico 
-08047837; Bruna Calheiros ; Aveiro; Compositores e Montadores de Artes Gráficas 
-23807841; Levi Quinterno ; Fronteira; Construtor de Pneus 
-51423210; Ricardina Azevedo Caiado ; Nordeste; Cravador-Joalheiro 
-66862382; Nazaré Leandro Villaverde ; Melgaço; Acabador – Malas e Marroquinaria 
-74079794; Cristina Clarissa Maltez ; Vila De Rei; Médico Cirurgião – Cirurgia Pediátrica 
-80483994; Delfino Moura ; Monchique; Motorista – Pesca Local e Costeira 
-62951261; Jessé Motta ; Sabrosa; Vendedor de Mercado 
-55216246; Nestor Telmo Bicudo ; Belmonte; Maquinista de Caminho de Ferro
-75826809; Leôncio Sheila Cisneiros Orriça ; Manteigas; Fogueteiro (Trabalhador do Fabrico de Foguetes) 
-83307081; Violeta Graça Palha ; Penela; Biólogo – Especialista em Botânica 
-54329191; Agostinha Eduarda Pegado ; Arraiolos; Manobradores de Estação e Trabalhadores Similares 
-86868256; Cássio Adorinda Rebimbas Bogado ; Palmela; Confeccionador de Bonecas 
-27239555; Ariana Nilton Brás ; São Roque Do Pico; Outros Mestres, Marinheiros e Trabalhadores Similares 
-57772820; Ilda Tabosa Filgueiras ; Marco De Canaveses; Técnico Profissional – Administração Pública 
-72630482; Cristela Raposo Valverde ; Cascais; Enformador de "Pré-Fabricados" – Alvenaria 
-01660952; Ada Salvador Quintal Freitas ; Sertã; Director – Empresas de Serviços Pessoais, de Limpeza e Similares 
-73916351; Jacinta Darcy Setúbal ; Carrazeda De Ansiães; Montador-Reparador de Instalações Telefónicas e Telegráficas 
-89974664; Elda Theo Serralheiro ; Esposende; Chefe de Cozinha 
-83294240; Adalberto Jorge Torres ; Redondo; Outros Artesãos de Artigos em Madeira e Materiais Similares 
-59630579; Petra Fernando Macedo ; Portimão; Outros Montadores e Reparadores de Instalações Telefónicas e Telegráficas 
-72274927; Batista Espargosa ; Santa Cruz Das Flores; Assistentes Dentários e Trabalhadores Similares 
-79258149; Samanta Ferro Dutra ; Santana; Afinador de Máquinas – Preparação e Fiação 
-92074183; Joviano Atanásio Fraga ; Sousel; Electromecânico de Refrigeração e Climatização (Electromecânico de Frio) 
-10462957; Olegário Quaresma ; Vagos; Chefe de Secção 
-53929093; Aura Semedo Matta ; Figueira Da Foz; Empregada Doméstica – Casas Particulares 
-39243340; Teresa Salvador Carvalho Pequeno ; Alcanena; Encarregado – Gravação e Fotogravação – Artes Gráficas 
-57999827; Cinira Pegado ; Ponta Do Sol; Urdidor Mecânico 
-17201810; Bernarda Graça Duarte Damazio ; Belmonte; Anatomista 
-54814873; Cesário Fagundes ; Vila Nova De Paiva; Operador de Instalação de Moldagem de Plásticos 
-40518050; Tarcísio Valdemar Lobo Zarco ; Horta; Operador de Telecinema 
-86642442; Djalma Dário Cerveira ; Vila De Rei; Operador de Máquinas – Ferramentas de Comando Numérico 
-20642567; Carmelinda Firmina Villalobos Vasques ; Mirandela; Outros Trabalhadores dos Explosivos 
-05495206; Valentino Elvis Bernardes Setúbal ; Loures; Engenheiro Técnico Civil – Vias de Comunicação 
-37538966; Aldara Sandra Corte-Real Angelim ; Felgueiras; Afagador – Madeiras 
-33705598; Josefina Jeremias Gabeira Portela ; Barreiro; Preparador de Penteação e Fiação 
-54349332; Lisandra Volney Baptista ; Vouzela; Traçador Mecânico 
-40447956; Adelino Nilton Belchiorinho ; Ourém; Educador Social 
-72738370; Túlio Virgolina Damascena ; Figueiró Dos Vinhos; Oficial Piloto 
-99910869; Abílio Lourdes Lustosa Monte ; Gavião; Operador de Instalação de Preparação – Tabaco 
-86315033; Lisandro Capitolino Carvalho ; Freixo De Espada À Cinta; Vendedor ao Domicílio 
-53659790; Acácia Carneiro ; Barrancos; Outros Escritores, Jornalistas e Similares 
-39465643; Iracema Fedra Vilaverde ; Mafra; Visagista 
-68521115; Firmino Silvana Guedes ; Avis; Operador (de Moinho) de Triturador – Indústria Química 
-76539814; Hermínia Mantas ; Sesimbra; Operador de Máquina de Moldar 
-45742696; Arlete Roberta Vilaverde Nunes ; Mação; Caixa Fixo, Caixa Privativo 
-49700740; Belisa Wilton Correia Costa ; Ourém; Montador de Cabos 
-16776934; Jussara Açores Lousado ; Constância; Directores do Comércio Grossista e Retalhista 
-92561993; Calvino Laranjeira Valente ; Lamego; Governanta, em Geral 
-53482361; Ermengarda Valim ; Borba; Homeopata – Naturologista 
-18774651; Juvelina Élio Eiró Villas Boas ; Castanheira De Pêra; Reconhecedor Cartógrafo 
-83518627; Abigail Basílio ; Aljezur; Outros Arquitectos e Urbanistas 
-74465451; Bárbara Tarcísio Almada ; Vimioso; Traçador 
-16202094; Virgolino Ricarda Galante Beça ; Baião; Forjadores, Estampadores e Operadores de Prensas de Forjar 
-34362588; Anaísa Octávio Chagas Freixo ; Montemor-O-Velho; Gaspeador (Cravador) – Calçado 
-10915046; Cosme Caetana Areosa Secadura ; Redondo; Outros Vendedores de Quiosque e de Mercados 
-71670473; Ricardino Gomes ; Madalena; Serrador de Diamantes 
-53932618; Urraca Anastácia Passos Maior ; Figueiró Dos Vinhos; Electromecânico de Electrodomésticos 
-41591707; Rosana Januário Alcaide ; Montemor-O-Velho; Bate-Chapas de Veículos Automóveis 
-47518823; Cloe Torres ; Borba; Gomador (Carregador) de Seda 
-36683654; Gil Ximenes Bicudo ; Cabeceiras De Basto; Despenseiro – Indústria Hoteleira 
-49862271; Jaime Evelina Lagos ; Cinfães; Operador de Imagem 
-39989032; Caetana Mourinho ; Seia; Electricista de Redes – Distribuição de Energia Eléctrica 
-49104884; Juvelina Sintra Olivares ; Figueira De Castelo Rodrigo; Outros Especialistas do Trabalho Social 
-85323804; Mara Flávio Rodríguez ; Moura; Mecânico de Automóveis 
-47793237; Íris Corte-Real ; Miranda Do Douro; Filigraneiro (Filigranista) 
-23154843; Ariela Maura Almada ; Lagos; Confeccionador – Gelados 
-92895669; Katia Carmo Machado Moreira ; Horta; Profissionais da Criação Artística, do Espectáculo e do Desporto 
-71630458; Vanessa Azevedo ; Chamusca; Animador Turístico – Tempos Livres e Desportos 
-89518238; Eva Abílio Flores ; Ílhavo; Engenheiro Técnico Civil – Hidráulico 
-80503780; Plácida Lígia Monsanto ; Castanheira De Pêra; Guias-Intérpretes e Trabalhadores Similares 
-93208206; Jonas Lemos Baião ; Lagos; Operador de Máquina de Montar Divisórias – Cartonagem 
-61484643; Adelina Lourenço Paz Maltez ; Vila Nova De Foz Côa; Impressor Tipográfico 
-85391238; Jó Olivera Dâmaso ; Oliveira De Azeméis; Operador de Extrusora de Talões 
-58102524; Anselmo Outeiro ; Cartaxo; Operador de Máquina de Imprimir Fotografias 
-02060288; Mónica Belchior Alencar ; Carrazeda De Ansiães; Pintores da Construção Civil e Colocadores de Revestimentos 
-44079965; Martinho Vilar ; Coimbra; Engenheiro Técnico Agrário – Engenharia Agrícola 
-76902352; Olegário Flávio Paiva Lamego ; Povoação; Retocador Manual 
-83322586; Violeta Negrão ; Esposende; Preparador de Montagem – Calçado 
-53197182; Salomé Quinta Rabello ; Castro Verde; Técnico de Voo 
-14005908; Edelina Lúcio Azevedo ; Calheta De São Jorge; Curtidores, Preparadores e Acabadores de Peles e Trabalhadores Similares 
-73606386; Joel Gomes Dutra ; Mafra; Provadores e Seleccionadores de Produtos Alimentares e Bebidas 
-82071767; António Rui Caeira Patrício ; Miranda Do Douro; Operador de Instalação de Tratamento Químico 
-96779090; Martina Pêcego ; Moimenta Da Beira; Operador de Registo de Dados 
-89199536; Keila Quintanilla Robalo ; Valpaços; Montador de Andaimes 
-95654166; Basílio Rosário ; Santa Marta De Penaguião; Estaticistas 
-83756147; Sónia Ondina Figueiredo ; Madalena; Encarregado – Preparação de Chá, Café e Cacau 
-96106773; Lucinda Máxima Palha ; Coruche; Afiador de Ferramentas 
-35328633; Luca Sarmento ; Moimenta Da Beira; Massagista de Estética 
-09795994; Obede Deolinda Valadares ; Ílhavo; Porteiros, Guardas e Trabalhadores Similares 
-00339950; Eugénia Bencatel Torreiro ; Aljustrel; Outros Operadores de Máquinas da Preparação de Chá, Café e Cacau 
-31224019; Rúbia Tigre Quintais ; Alpiarça; Electricistas da Construção Civil e Trabalhadores Similares 
-24906473; Clóvis Beiriz Barbalho ; Vila Pouca De Aguiar; Ourives da Prata 
-94392801; Serafim Micaela Álvares Lustosa ; Fundão; Médico do Trabalho 
-23277695; Nélia Caetana Martínez Valle ; Nordeste; Outros Directores de Serviços Administrativos e Financeiros 
-46238232; Samuel António Gorjão Talhão ; Penedono; Operador de Desmoldadora – Cartão Canelado 
-54694319; Ofélia Bastos ; Guimarães; Amestrador de Animais 
-74433374; Lívia Virgínia Alencar ; Baião; Fiscal de Exploração – Metropolitano 
-98142438; Plácido Ciro Casado ; Sines; Urdidor Manual 
-06314659; Nicia Lucas Cortesão ; Terras De Bouro; Profissionais Técnicos da Medicina – à Excepção dos Enfermeiros 
-69421848; Karen Bethecourt Serralheiro ; Vila Nova De Paiva; Guarda-Nocturno 
-92096597; Virgolina Alves Cotrim ; Povoação; Assistente de Congressos 
-04877104; Jerônimo Israel Barroso ; Lajes Das Flores; Outros Atletas, Desportistas e Trabalhadores Similares 
-03019961; Benjamim Farinha ; Vila Do Bispo; Ajudante de Operador de Silos 
-50732827; Margarida Tomás Balsemão Barreiros ; Portalegre; Medidor Mecânico – Peles 
-56912885; Luana Ladislau Damazio Sabrosa ; Braga; Operador do Fabrico de Lixas Circulares 
-91456802; Maísa Quezado ; Braga; Agentes de Polícia 
-05201083; Caetano Raposo ; Ribeira Grande; Docentes do Ensino Universitário e de Estabelecimentos de Ensino Superior 
-05668030; Leila Balsemão ; Figueira De Castelo Rodrigo; Outros Trabalhadores da Preparação do Tabaco 
-97028618; Ercília Argeu Matta Remígio ; Cadaval; Ecónomo 
-58123625; Efigênia Mafalda Lameiras Olaio ; Calheta De São Jorge; Operadores de Máquinas e Trabalhadores da Montagem 
-72797010; Octávio Lousado Thomé ; Salvaterra De Magos; Estufeiro – Produtos Alimentares 
-86339753; Eunice Guilhermina Belchiorinho Medina ; Horta; Separador de Material Tipográfico 
-73777028; Joaquina Luana Zarco ; Sabrosa; Técnico Sanitário 
-62005863; Vágner Evandro Cortesão Leite ; Redondo; Outros Montadores de Construções Mecânicas 
-09228511; Evelise Murtinho Pinheiro ; Tábua; Electromecânico de Máquinas Eléctricas 
-15550804; Dinis Valverde Antas ; Mogadouro; Electromecânico 
-23934319; Edite Natanael Pacheco Nazário ; Mogadouro; Director de Recursos Humanos 
-97281725; Orlanda Abraão Rufino Lousado ; Sintra; Imediato 
-83877388; Félix Pedro Soares Fagundes ; Vale De Cambra; Operador de Máquina de Formatar – Pasta para Papel 
-36671236; Lorena Salles Carvalheira ; Vinhais; Professor de Gimno e Desportiva 
-07298998; Rúben Arcelino Valido ; Alcanena; Acabador 
-35805484; Carmelinda Veloso ; Beja; Electricista Auto 
-26513352; Gabriela Isolina Bonilha Girão ; Mora; Operador de Instalação de Secagem – Café Solúvel 
-56238167; Leandra Clementino Diniz ; Santo Tirso; Gomador (Carregador) de Seda 
-00635983; Kevin Horácio Liberato ; Vila Real De Santo António; Resineiro (Resinador) 
-21169981; Marcelo Alice Domingues Colares ; Ponta Delgada; Escriturário – Seguros 
-12133915; Flaviano Moreno ; Amadora; Outros Gravadores e Fotogravadores de Artes Gráficas 
-92101367; Elisa Augusta Amaral ; Condeixa-A-Nova; Outros Mineiros, Trabalhadores de Pedreiras e Trabalhadores Similares 
-64070861; Estela Miera Negreiros ; Alter Do Chão; Preparador de Montagem – Calçado 
-37051047; Romana Ifigénia Fiães Caldas ; Funchal; Ajudante Familiar 
-93092865; Sílvio Ilídio Infante Veríssimo ; Tondela; Trabalhadores da Pesca – Pesca Local e Costeira 
-45253194; Alda Vanda Lustosa Paes  ; Penela; Forjador Mecânico (Operador de Prensa de Forjar) 
-20705748; Tâmara Damásio ; Vila Nova De Foz Côa; Outros Ministros de Culto e Membros de Ordens Religiosas 
-73616465; Laís Idalécio Café Macieira ; Ponte De Lima; Vigilantes, Assistentes Médicos e Trabalhadores Similares 
-38848446; Junia Toledo Tabosa ; Camara De Lobos; Juntador 
-29464975; Cloe Monteiro Barra ; Portimão; Operador de Extracção – Óleos Alimentares 
-33965345; Dolores Alancastre ; Torres Novas; Traçador 
-62664882; Alana Cleusa Souto ; Gouveia; Operador de Máquina de Cortar Bastões (Cortador de Bastões) 
-58789732; Mira Correia Quintero ; Ferreira Do Alentejo; Outros Carpinteiros 
-92037027; Dejanira Capitolino Neres ; Santa Marta De Penaguião; Broquista 
-48816959; Rui Hermínia Alcoforado ; Idanha-A-Nova; Assistentes de Medicina Dentária 
-30169958; Luciano Veríssimo Ornelas ; Tondela; Penteador 
-47283453; Arnaldo Esmeralda Cachão Eanes ; Lagoa; Costureiras, Bordadores e Trabalhadores Similares 
-34327657; Silvana Moura Lustosa ; Sertã; Correspondente 
-30529094; Albino Paixão ; Setúbal; Modista de Chapéus 
-43233887; Salvador Cirne Lagos ; Mondim De Basto; Magistrados Judiciais 
-42808008; Martim Semedo ; Oliveira De Frades; Contactologista 
-18666957; Adrião Fedra Regalado ; Viana Do Castelo; Traçador 
-35485099; Anita Adelina Padilha ; Paços De Ferreira; Operador de Soprador 
-34956787; Heloísa Marroquim ; Santa Maria Da Feira; Electricista da Construção Civil 
-31875161; Roberta Sosa Secadura ; Arronches; Operador de Forno Intermitente – Cerâmica 
-16469216; Olga Ataliba Granjeiro ; Penacova; Operadores de Instalações de Produção de Energia e Trabalhadores Similares 
-82595869; Lucrécia Bouça ; São Roque Do Pico; Enformador de Cones de Feltro – Chapelaria 
-91215376; Vanessa Silva Milheiro ; Matosinhos; Escatelador – Trabalho em Série dos Metais 
-85214597; Wagner Guerra ; Póvoa De Lanhoso; Carregador (Gomador de Seda) 
-57349725; Lourenço Rosinha Bezerra Covinha ; Arraiolos; Desinfectador (Agente Sanitário) 
-12309692; Moisés Agostinha Calheiros Severiano ; Ponta Delgada; Reenrolador de Envolturas 
-09333985; Soraia Walter Brum ; Madalena; Operadores de Máquinas de Tratamento de Produtos Têxteis 
-53638503; Quirino Alves ; Almeirim; Matemáticos, Estaticistas e Especialistas Similares 
-21802336; Sandra Malafaia ; Sintra; Fundidor de Alto-Forno 
-39502025; Perceu Portela Lins ; Guimarães; Directores de Serviços de Investigação e Desenvolvimento 
-89988505; Kelly Belinda Barroso ; Aguiar Da Beira; Cortador de Luvas – Prensa 
-29495127; Julieta Setúbal Figueiredo ; Entroncamento; Disk-Jockey 
-25460207; Miriam Prudente Ferreira ; São Roque Do Pico; Montadores de Construções Mecânicas 
-21494330; Lucília Lucília Mangueira Quirino ; Porto De Mós; Estofador de Viaturas 
-79225032; Lourdes Avelina Lacerda Miranda ; Torre De Moncorvo; Outros Guias-Intérpretes e Trabalhadores Similares 
-27394081; Olímpio Dorotéia Frota Carvalheira ; Alijó; Outros Educadores de Infância 
-66820806; Mariana Olivier Salomão ; Mortágua; Outros Trabalhadores da Pesca – Pesca Local e Costeira 
-15164750; Aura Soto Arruda ; Ponta Do Sol; Outros Operadores "Robots" Industriais 
-77068169; Daniela Amilcar Corvelo Pais ; Seixal; Experimentador – Explosivos 
-06314321; Xavier Álvaro ; Moita; Operador de Autoclave de Vulcanização 
-81177203; Venceslau Marins Oleiro ; Ovar; Operador de Instalação de Fabrico – Sumos de Frutas 
-19278273; Plácida Neres Albuquerque ; Barreiro; Secretário Geral 
-67289348; Salvador Vasconcelos Gonçalves ; Valpaços; Operador de Prensa Mecânica – Metais 
-22897409; Anita Walter Godoi Vianna ; Vila Nova De Cerveira; Outros Maquinistas de Locomotivas 
-06255786; Cláudia Vital Conde ; Ponte De Lima; Outros Empregados de Mesa e Trabalhadores Similares 
-79812507; Delores Cordélia Hipólito ; Monção; Sapateiro – Calçado Ortopédico 
-98176894; Arcelino Simas Horta ; Tarouca; Especialistas das Ciências Físicas, Matemáticas e Engenharia 
-79573097; Januário Renata Bastos ; Aljustrel; Assistentes Dentários e Trabalhadores Similares 
-48939666; Dejanira Cibelli Cesário ; Boticas; Operadores de Máquinas do Fabrico de Produtos Químicos 
-91882848; Abigail Monforte Keil ; Golegã; Operador do Fabrico de Lixas Circulares 
-93302311; Alan Caires Sardinha ; Mealhada; Operadores de Máquinas de Tratamento de Produtos Têxteis 
-20478978; Dora Carlos Gois Lisboa ; Marvão; Jogador Profissional de Ténis 
-82161261; Elizabeth Damascena ; Fafe; Provador de Vinhos 
-06075275; Evaldo Baía Canela ; Amadora; Operador de Instalação de Preparação de Nervuras – Tabaco 
-32123465; Francisco Castelão Ornelas ; Oliveira De Azeméis; Operador de Instalações de Transporte e Manuseamento de Carvão 
-11203463; Kirina Érica Espargosa ; Castelo De Paiva; Assessor (Consultor) 
-34954083; Priscila Malafaia Simas ; Valpaços; Técnico de Gás 
-10455369; Renata Tristão ; Alijó; Outros Encadernadores e Trabalhadores Similares 
-77134835; Ofélia Damásio ; Guimarães; Moldador de Plásticos por Vazamento 
-31289215; Calvino Vilhena Cerqueira ; Torre De Moncorvo; Carpinteiro de Selas 
-06236675; Fátima Paes ; Póvoa De Varzim; Feitor, Encarregado 
-27505826; Afonso Jade Meirelles Aldeia ; Trancoso; Artesãos de Artigos em Tecido, Couro e Materiais Similares 
-79792426; Hugo Azeredo Falcão ; Baião; Outros Empregados da Banca de Casinos e Similares 
-73454843; Jessé Cavadas Nolasco ; Guarda; Operador de Máquina de Moer Açúcar – "Icing Sugar" 
-24222522; Ivete Bicudo Rua ; Santa Cruz Da Graciosa; Broquista 
-94292588; Renata Yasmine Botelho Falcão ; Vidigueira; Pagador – Casinos 
-06677020; Hélia Lia Alancastro ; Machico; Médico Radiologista 
-69749293; Berenice Arminda Afonso Tabosa ; Alijó; Operadores de Máquinas de Tratamento de Frutas e Legumes 
-23403666; Laila Clélia Castelo Goulart ; Monchique; Mestre de Pesca 
-57515207; Angélica Alberta Travassos Ferrão ; Vila Verde; Serralheiro Civil 
-48639920; Janaína Mourão ; Moita; Oficiais da Marinha, Pilotos de Aviões e Técnicos dos Transportes Marítimos e Aéreos 
-97409179; Rosário Milheirão Roriz ; Paços De Ferreira; Director de Empresa de Pescas 
-04911562; João Cirne ; Cinfães; Condutor de Máquina "Espalhadora" 
-84619965; Adauto Bento Rosário ; Vizela; Moto-Serrista 
-41772087; Dácio Chaves ; Fafe; Operador de Máquina de Empacotar 
-53216151; Getúlio Jade Fiães Grillo ; Porto Santo; Engomador Manual 
-31361991; Felicidade Leitão ; Ferreira Do Alentejo; Ilusionista 
-35718630; Diva Baltasar Keil do Amaral Bouças ; Ponta Delgada; Outros Especialistas do Trabalho Social 
-26138176; Serena Hamilton Rebimbas Cirne ; Trofa; Apicultor 
-52354275; Apolinário Cesário Cesário ; Montijo; Operador de Instalação de Preparação – Tabaco 
-33236420; Heidi Mattos Leitão ; Alter Do Chão; Outros Agentes Funerários e Trabalhadores Similares 
-03696336; Ângelo Monteiro ; Vila De Rei; Carteiro 
-47066973; Esdras Renata Varejão Carmona ; Proença-A-Nova; Desinfectador (Agente Sanitário) 
-14063504; Gildo Franco Nascimento ; Braga; Joalheiro (Ourives) 
-31141565; Ronaldo Rudolfo Pinheiro Cidreira ; Reguengos De Monsaraz; Engraxador 
-97962451; Anacleto Bento Valadão ; Chaves; Governanta de Andares – Indústria Hoteleira 
-85830743; Leopoldina Nogueira Soto Mayor  ; Mealhada; Operador de Tanque de Colmatagem – Fibrocimento 
-11596007; Cristóvão Leal Taveira ; Vila Pouca De Aguiar; Montador de Estores (Instalador de Estores) 
-27269194; Serafim Moutinho ; Fronteira; Bioquímico 
-29416891; Sílvio Olivier Cavalheiro ; Barcelos; Pintor – Decorador à Pistola – Vidro e Cerâmica 
-90690777; Celina Maristela Gorjão ; Fafe; Operador de Serragem – Chapa de Pedra 
-48520842; Agostinho Aparecida Penteado Rodríguez ; Praia Da Vitória; Macheiro Manual 
-75102141; Simone Madureira Castelão ; Fornos De Algodres; Outros Estafetas, Distribuidores, Bagageiros e Trabalhadores Similares 
-43430176; Maristela Volney Lucas Vilaça ; Sabugal; Branqueador de Produtos Têxteis 
-44219816; Altina Nádia Inácio Boeira ; Castelo De Vide; Outros Técnicos da Área do Emprego 
-00794893; Melinda Gonçalves ; Porto Moniz; Peleiro – Vestuário 
-48120359; Perceu Cassilda Valgueiro ; Torre De Moncorvo; Torneiro de Unheta (Torneiro de Peito) 
-26488686; Laura Fátima Castanheda Rosário ; Vila Real De Santo António; Fresador Mecânico 
-78238504; Alírio Ricardina Cabral ; Calheta De São Jorge; Outros Técnicos de Electrónica e Telecomunicações 
-74312311; Firmino Antónia Fagundes ; Sintra; Técnico de Voo 
-76761849; Caetano Barcelos ; Mértola; Oceanógrafos 
-96353026; Lucrécia Galante Cruz ; Arronches; Outros Operadores de Máquinas de Imprimir – Artes Gráficas 
-82164899; Daniela Cunha Casqueira ; Ílhavo; Operador de Máquina de Escolha Óptica – Vidro 
-58682712; Amadeu Araújo ; Cartaxo; Bengaleiro (Guarda de Vestiário) 
-84616525; Adorinda Alexandrina Avelar Negreiros ; Moimenta Da Beira; Lavadores de Vidros, de Veículos e Colocadores de Anúncios 
-84891521; Avelina Castello ; Santa Marta De Penaguião; Outros Médicos 
-11269642; Salvador Quinzeiro ; Ponta Delgada; Auxiliar de Naturologista 
-99323446; Dália Diniz Bezerra ; Belmonte; Técnico de Fiscalização Radioeléctrica 
-24280409; Carmelinda Queiroga ; Pombal; Docentes do Ensino Básico, Primário e Pré-Primário 
-14408385; Ermengarda Cruz Fiães ; São João Da Madeira; Costureiras, Bordadores e Trabalhadores Similares 
-28750755; Altina Maria Farinha ; Penedono; Médico Anátomo – Patologista 
-37272084; Agostinha Paes  Laranjeira ; Miranda Do Douro; Trabalhadores da Preparação do Tabaco 
-71284122; Eugénio Sequeira Mattozo ; Calheta; Prensador (Gravador) – Peles 
-97119358; Vasco Miguel Aveiro Zagallo ; Arronches; Electromecânico de Frio (Electromecânico de Refrigeração e Climatização) 
-80228472; Jorge Pamela Valido Carvalhoso ; Vieira Do Minho; Ficheiro Fixo (Caixa Fixo, Caixa Privativo) – Casinos 
-47218854; Aurélio Mesquita ; Vila Do Porto; Docentes do Ensino Universitário e de Estabelecimentos de Ensino Superior 
-43431206; Gisela Esaú Rivero Casqueira ; Vinhais; Comissário de Bordo (Assistente de Bordo) 
-36960280; Ari Vilas-Boas Caeira ; Mesão Frio; Cambista ("Dealer") 
-19362561; Cristela Olegário Ramírez ; Ferreira Do Alentejo; Outros Trabalhadores de Artigos de Pirotecnia 
-07494794; Anderson Faro Aleixo ; Setúbal; Engenheiro de Minas 
-67569405; Walter Jó Nolasco Padilla ; Santarém; Caldeireiros, Latoeiros e Bate-Chapas 
-26585277; Américo Belmiro Álvares ; Arronches; Desenhadores e Trabalhadores Similares 
-42137980; Soraia Mara Gusmão Semedo ; Avis; Apontador 
-03225121; Hilton Florinda Espargosa Laranjeira ; Mortágua; Médico Cirurgião – Cirurgia Maxilo-Facial 
-75168061; Amadeu Carmelinda Banha ; Alcobaça; Montador de Tubagem – Fibrocimento 
-42174663; Flora Hildefonso Monjardim ; Oliveira De Frades; Professor do Ensino Vocacional Artístico 
-43418059; Yuri Sabina Teles ; Arruda Dos Vinhos; Cartonageiros e Operadores de Máquinas de Cartonagem 
-74294347; Asdrúbal Ezequiel Girão Keil ; Boticas; Operador de Fabrico de Forros para Saltos 
-72276295; Beatriz Edgar Olivera ; Bragança; Operador de Máquina de Montar Divisórias – Cartonagem 
-74369586; Inês Silva ; Arruda Dos Vinhos; Electromecânico, em Geral 
-23437274; Marcos Rodolfo Guerreiro ; Salvaterra De Magos; Assentador de Manilhas de Grés e Cimento 
-04869894; Evelina Alvim ; Vale De Cambra; Outros Mecânicos de Instrumentos de Precisão 
-48136820; Luis Vilmar Leal Lucena ; Guimarães; Corretores de Bolsa, Cambistas e de Outros Serviços Financeiros 
-03971878; Ubiratã Torcuato Vilarim ; Vila Franca De Xira; Recepcionista, em Geral 
-44461307; Reinaldo Laureano Prada ; Porto Moniz; Batedor de Lã 
-52281804; Núria Eiró Vilalobos ; Vila Flor; Inspectores de Educação 
-61703411; Solange Azevedo ; Santana; Colador de Lentes – Vidro de Óptica 
-49222739; Olivier Cedro Filipe ; Serpa; Outros Operadores de Máquinas de Preparação de Carne e Peixe 
-76414057; Cândido Andreia Carvalheiro Quesado ; Valpaços; Biólogo – Especialista em Genética 
-70010405; Susana Leopoldina Beça ; Vila Flor; Avaliador de Madeira na Mata 
-18874780; Dalva Madruga ; Santa Cruz Das Flores; Carregador 
-44674656; Bernardo Barrocas ; Mourão; Pregador 
-25498134; Rodrigo Simão ; Murça; Regularizador de Sinistros 
-93991350; Filomena Hipólito Mendes ; Óbidos; Outros Operadores de Máquinas de Fiar, Torcer e Bobinar 
-77213481; Cesário Elisabete Ouro Ferreira ; Guimarães; Retorcedor 
-89981126; Dúlio Ginjeira ; Celorico Da Beira; Cardador 
-49451175; Belisa Quintal ; Aljustrel; Operador de Crivagem e Branqueamento – Pasta para Papel
-85065144; Leticia Máxima Graça ; Paços De Ferreira; Físico – Especialista em Electricidade e Magnetismo 
-13172375; Fabiano Lisboa ; Sernancelhe; Outros Inspectores da Segurança Social 
-83598365; Alírio Aldeia ; Boticas; Pessoal dos Serviços e Vendedores 
-97425447; Felisberto Frade ; Angra Do Heroísmo; Restaurador de Tapeçarias 
-52384816; Dolores Ivan Portugal Chamusca ; Ourém; Carregador de Fogo 
-93708646; Ângela Orlanda Caeiro Moita ; Oliveira De Frades; Outros Montadores de Cabos 
-66581303; Noélia Leiria Dias ; Castelo De Vide; Operador de Encoladeira – Cartão Micro-Canelado 
-35670182; Victor Diogo Espargosa Quintais ; Arruda Dos Vinhos; Envernizador – Artes Gráficas 
-00616790; Máxima Lino Bettencourt ; Pedrógão Grande; Estendedor Manual 
-87613961; Honório Bessa ; Oliveira Do Hospital; Chefe de Mesa 
-09306556; Kevin Firmina Paião Carromeu ; Aljustrel; Estampador 
-32936086; Sofia Perceu Paião ; Redondo; Impregnador – Madeira 
-07495452; Elisabete Motta ; Mesão Frio; Outros Operadores de Máquinas de Fiar, Torcer e Bobinar 
-20769155; Elda Rodríguez Lago ; Penacova; Químicos 
-23223330; Talita Carrasco ; Freixo De Espada À Cinta; Profissionais de Nível Intermédio das Ciências da Vida e da Saúde 
-80222337; George Milene Montenegro ; Vila Real De Santo António; Outros Directores e Gerentes da Construção Civil 
-85893463; Belarmino Érica Santos ; Alandroal; Caldeireiro 
-77275936; Aldina Olívia Salles ; Calheta De São Jorge; Fulista Mecânico 
-64232140; Deolinda Amália Mafra ; Alcoutim; Decapador por Processos Químicos 
-70840598; Lilian Gameiro ; Covilhã; Governanta, em Geral 
-40103620; Luisa Telmo Rebello ; Serpa; Técnicos das Ciências da Vida e da Saúde 
-51518759; Ernesto Boga ; Ferreira Do Zêzere; Chefe de Linha de Enchimento– Bebidas 
-51518537; Adonirã Altair Chamusca ; Oeiras; Caracterizador 
-26613126; Elvira Caires Vianna ; Viseu; Encarregado – Fornos de Minerais e Fornos de Primeira Fusão de Metais 
-26444229; Natanael David Gonçalves Espartero ; Castelo Branco; Desbastador de Diamantes 
-03165096; Eurico Prudente ; Ribeira Brava; Gravador 
-23322485; Hermes Santarém ; Valongo; Inspector da Polícia Judiciária 
-22262883; Angélica Belisa Conceição ; Azambuja; Operador de Forno Crematório (Operador de Incinerador) 
-22102889; Brígida Clementino Simões ; Alcochete; Outros Trabalhadores do Fabrico de Produtos Lácteos 
-62872238; André Leda Moniz ; Vila Nova De Famalicão; Costureira Mecânica – Encadernação 
-58920694; Alberto Lourival Coelho Bensaúde ; Monforte; Vidraceiro – Cortador de Bancada 
-29503487; Máxima Carromeu Garrau ; Sabrosa; Reenrolador de Envolturas 
-12445081; Wilian Belisa Bicudo Cordeiro ; Manteigas; Torneiro Mecânico 
-93594906; Cândido Clementina Robalinho Pimenta ; Alvito; Operador de Subprodutos – Antibióticos 
-42105686; Conceição Abreu Malho ; Águeda; Director Financeiro 
-15594879; Jesabel Daniela Moreira Curvelo ; Ourique; Bibliotecários e Documentalistas 
-12524082; Belinda Júlio Rua ; São João Da Madeira; Caixa de Banco 
-45475134; Jonathan Vilanova ; Marco De Canaveses; Ciclista Profissional 
-37064883; Ilda Vigário Minho ; Ovar; Empregado de Mesa 
-15233810; Honório Paranhos ; Castelo Branco; Agulhador 
-72540212; Caetana Alexandre Leiria ; Ferreira Do Zêzere; Teclista-Monotipista 
-13129199; Célia Florival Távora Cascais ; Coimbra; Engenheiro Naval 
-16939423; Noélia Mederos ; Arronches; Outros Engenheiros Agrónomos e Engenheiros Técnico Agrários 
-43499108; Margarida Velasco ; Penamacor; Operador de Máquina Automática de Polir Pedra 
-41640196; Ifigénia Florência Santiago Gravato ; Setúbal; Ecónomo 
-37432896; Raquel Carmo Tavares Vilaverde ; Machico; Trabalhadores da Preparação do Tabaco 
-55966098; Nélida Peres  ; Gavião; Cafeteiro 
-13982655; Esmeralda Ania Vidigal ; Portimão; Encarregado – Forjadores, Estampadores e Operadores de Prensas de Forjar 
-07720805; Joviano Lourdes Castanheda ; Aveiro; Contactologista 
-36179815; Libânia Távora ; Figueira Da Foz; Condutores de Veículos Pesados de Mercadorias 
-61153273; Venceslau Alberta Aguiar Melo ; Matosinhos; Instalador de Estores 
-95604303; Damiana Rua Fartaria ; Amares; Engenheiro Civil – Hidráulico 
-77339907; Carolina Rita Saloio Amado ; Águeda; Operador de Máquina de Colmatagem 
-77903830; Carmen Terra Villela ; Benavente; Laminador 
-38368740; Amadeu Felicia Baía ; Maia; Encarregado – Marceneiros, Carpinteiros e Trabalhadores Similares 
-38922135; Bebiana Graça Gentil ; Évora; Lapisador – Lápis de Lousa 
-45706310; Hélio Esmeralda Pequeno ; Viana Do Castelo; Fiscal Municipal 
-06618231; Israel Cláudio Saraiva ; Mondim De Basto; Cozinheiros e Trabalhadores Similares 
-92898093; Jasmim Bezerra Mainha ; Póvoa De Varzim; Administrador Hospitalar 
-15582666; Isaura Neide Júdice ; Trancoso; Serralheiro de Chaves e Fechaduras 
-85163915; Teresa Larissa Leão ; Mação; Macheiro Manual 
-84196218; Belarmino Raul Salles Avelar ; Celorico Da Beira; Serrador 
-22922557; Ofélia Durval Beltrão Rivero ; Santa Cruz Da Graciosa; Lavador – Artigos de Cortiça 
-35938137; Lucas Abraão Gil Seabra ; Belmonte; Outros Agricultores e Pescadores – Agricultura e Pesca de Subsistência 
-65350054; Dácio Altair Neiva ; Vila Verde; Carregador 
-80310266; Urraca Geraldo Cortês Ramos ; Ferreira Do Alentejo; Técnicos de Farmácia 
-73786740; Perceu Severiano Gouveia ; Fornos De Algodres; Coveiro 
-47190133; Nataniel Ludovico Batata Veloso ; Almeida; Empregados do Planeamento e Apoio à Produção 
-91527340; Ingrid Estrela Talhão ; Elvas; Outros Farmacêuticos 
-82061134; Lucrécia Camacho Aveiro ; Oliveira Do Bairro; Chocolateiro, em Geral 
-13983352; Vinicios Maranhão ; Odivelas; Outros Limpadores de Fachadas e Limpa-Chaminés 
-47871322; Ercília Máximo Santarém ; Santa Cruz Da Graciosa; Ajuntador (Juntador) 
-03808909; Aldina Deolinda Medina ; Cabeceiras De Basto; Desenhadores e Trabalhadores Similares 
-60870536; Samuel Vilela Teles ; Nelas; Roupeiro 
-49463432; Jasmim Padilha Rosário ; Vinhais; Operador de Triturador 
-79062227; Kirina Rodrigo Feijó ; Viana Do Castelo; Agricultor – Culturas Arvenses 
-25084131; Olegário Judith Méndez Teixeira ; Castanheira De Pêra; Contramestre Pescador – Pesca Local e Costeira 
-90742404; Jonas Natália Bogado ; Ponta Do Sol; Controladores de Tráfego Aéreo 
-02634939; Anastácio Madalena Silveira  Pêssego ; Ferreira Do Zêzere; Envernizador 
-61472019; Fernando Tomé ; Barrancos; Oleiro (Formista) de Lambugem 
-90461261; Sueli Arcelino Vila-Chã ; Miranda Do Douro; Calista 
-89514563; Tasha Canhão ; Tabuaço; Montadores de Artigos em Madeira 
-85047940; Avelino Baptista Carreiro ; Melgaço; Director Financeiro 
-84574324; Ifigénia Jerônimo Quintella ; Caminha; Directores e Gerentes de Pequenas Empresas 
-53716492; Elisabete Fernanda Figueiró ; Aljustrel; Operador de Recuperação e Injecção de Leveduras – Cerveja 
-32487138; Adauto Afonso Rocha ; Terras De Bouro; Encadernadores e Trabalhadores Similares 
-27688558; Vilela Alcântara ; Salvaterra De Magos; Actores, Encenadores e Realizadores 
-98079771; Romualdo Cangueiro ; Penela; Costureiro 
-05383893; Rudolfo Azenha Cortês ; Portalegre; Outros Inspectores da Segurança Social 
-53676130; Elza Lurdes Camacho ; Penafiel; Empregados de Recepção, Caixas, Bilheteiros e Similares 
-43095202; Luca Dias Fontes ; Porto Santo; Alisador Mecânico – Peles 
-89696547; Nabal Ana Cangueiro Valente ; Caldas Da Rainha; Talhador Manual 
-21550446; Brenda Hernandes Távora ; Albufeira; Engenheiro Mecânico – Produção 
-15527450; Léia Rebotim Moura ; Esposende; Cavaleiro Tauromáquico 
-85255034; Martina Marieta Vieira Liberato ; Cantanhede; Maquinistas de Locomotivas 
-25107074; Nadina Graça Ferraço ; Monchique; Outros Especialistas da Medicina Tradicional 
-76404870; Tarcísio Martins ; Ribeira Grande; Correio Turístico (Acompanhante-Turismo) 
-98012365; Ubiratã Cesária Queirós ; Vidigueira; Rectificador Mecânico 
-79979611; Eunice Mederos ; Peso Da Régua; Outros Trabalhadores Não Qualificados da Indústria Transformadora 
-88583411; Conceição Florência Galante ; Maia; Intérprete de Língua Gestual 
-50244179; Narciso Macedo ; Lisboa; Trabalhador Agrícola (Trabalhador Rural) – Apicultura 
-61679460; Cleusa Lamego Inês ; Vila Nova De Cerveira; Técnicos e profissionais de Nível Intermédio 
-80845031; Calebe Cidália Simões Ferraz ; Crato; Operador de Máquina de Preparar Massas – Rebuçados e Caramelos 
-50095610; Agnes Esaú Santiago ; Sobral De Monte Agraço; Recepcionista, em Geral 
-84900673; Vanda Sebastião Seixas Abranches ; Seia; Médico – Radioterapia 
-14910615; Joana Medina ; Paredes De Coura; Codificadores, Revisores de Provas e Similares 
-60819074; Irene Mendonça ; Tondela; Director de Empresas de Mediação e Serviços 
-23370726; Lis Carneiro ; Santa Cruz Da Graciosa; Anatomista 
-44159855; Violante Guerreiro ; Oleiros; Outros Assistentes de Medicina Dentária 
-09275159; Norma Misael Bulhões Peseiro ; Ponte De Sor; Operador de Desmoldadora – Cartão Canelado 
-52924626; Maísa Uchoa ; Seia; Outros Trabalhadores Não Qualificados das Minas 
-14874929; Samara Abigail Nascimento ; Mêda; Impressor Tipográfico 
-51106278; Sabrina Carrilho ; Figueiró Dos Vinhos; Operadores de Veículos e Equipamentos de Elevação 
-94148954; Márcio Rogério Cachão ; Pampilhosa Da Serra; Operador de Instalação de Acabamentos – Redes de Pesca 
-86521766; Rute Dulcineia Botelho ; Sabrosa; Fisioterapeuta 
-43271984; Ezequiel Flávio Quaresma Santiago ; Murtosa; Outros Bombeiros 
-28775520; Arminda Lousã ; Aljustrel; Serralheiro Mecânico 
-75789330; Estela Francisca Fogaça ; Santa Marta De Penaguião; Dietistas 
-09331051; Celeste Liane Rebimbas Salomão ; Marvão; Operador de Concentração – Leite 
-04382273; Edson Girão ; Almada; Outros Especialistas de Ensino 
-84774550; Juliano Altino Raposo Feitosa ; Belmonte; Outros Directores de Empresas 
-48568627; César Marreiro ; Santa Maria Da Feira; Assistente de Congressos 
-62602939; Sandra Boga Lagos ; Águeda; Fotógrafo – Artes Gráficas 
-34817909; Janaína Valadão ; Alvito; Operador de Moinho – Especiarias 
-76799151; Flaviano Odair Noite ; Salvaterra De Magos; Operador de Instalação de Pintura – Peles 
-88974807; Nestor Veloso ; Paredes De Coura; Operador de Moldagem – Gelados 
-20212303; Joel Luciana Damazio ; Baião; Outros Directores de Produção, Exploração Agrícola e Similares 
-48220508; Agnete Aragão ; Covilhã; Outros Operadores de Instalações do Fabrico de Papel 
-24341633; Victor Baía Silvestre ; Viseu; Ligador de Fibras (Assedador de Fibras) 
-70379421; Obede Salgado Vides ; Aguiar Da Beira; Tecelão – Tecidos e Produtos Similares; 
-60849756; Violante Mariz Granjeiro ; Mirandela; Engenheiro Civil – Instalações de Higiene e Salubridade 
-48034251; Nara Mantas Mourinho ; Marinha Grande; Condutor de Cilindro 
-95556415; Vilma Porto ; Lagos; Operador de Máquinas do Fabrico de Molas – Estofos e Colchões 
-26837811; Ezequiel Adosindo Pederneiras ; Alvito; Serventes da Construção Civil e Obras Públicas, Porta Miras e Trabalhadores Similares 
-71222616; Darcy Hirondina Castel-Branco ; Lagos; Assistente de Bordo 
-63180467; António Dana Horta ; Alcoutim; Operador de Máquina de Empacotar 
-91677483; Carla Brião Pardo ; São Vicente; Outros Escritores, Jornalistas e Similares 
-97030610; Vera Valdemiro Granjeia Vilela ; Nisa; Condutores de Máquinas de Extracção – Minas e Pedreiras 
-25184494; Lancelote Freiria ; Torres Novas; Clivador 
-70303799; Ieda Avelar ; Salvaterra De Magos; Agente da Brigada de Trânsito da Guarda Nacional Republicana 
-97664050; Aline Sidney Cartaxo ; Arganil; Psicólogo 
-02619224; Barnabé Neandro Calheiros ; Marco De Canaveses; Professor do Ensino Superior 
-70118724; José Malheiros ; Torre De Moncorvo; Operador de Instalação de Acabamentos – Redes de Pesca 
-94441716; Iracema Lopes Cardoso ; Santiago Do Cacém; Técnico Superior – Administração Pública 
-02009617; Evandro Benedita Alancastre ; Alcochete; Médico Cirurgião – Cirurgia Geral 
-88019694; Eleutério Peixoto Silvestre ; Vila Franca De Xira; Outros Trabalhadores da Construção Civil e Obras Públicas-Betão Armado 
-13698725; Martinho Villena ; Torres Novas; Clivador 
-30977749; Arlindo Lena Faia Mattos ; Barcelos; Colador de Lentes – Vidro de Óptica 
-70898512; Pilar Gentil Santana ; Oliveira Do Bairro; Mergulhador (Escafandrista) 
-20277482; Olívia Carmen Feitosa ; Paredes; Motorista de Veículos Pesados – Mercadorias 
-56287726; Francisca Paulos ; Moura; Operador de Instalações Frigoríficas 
-38720834; Marisela Prada Sarmento ; Monção; Soldador a Arco em Atmosfera de Gases Inertes ou de Anidrido Carbónico 
-73163014; Carmen Carrasco Moniz ; Cadaval; Inspector da Polícia Judiciária 
-86433740; Joaquina Moacir Cipriano Canejo ; Alfândega Da Fé; Caixa de Banco 
-70382541; Iolanda Felipe Lagos ; Arraiolos; Vigilante de Instalação Automática de Estirar Vidro 
-84578267; Flávia Marisela Ouro Belém ; Almeirim; Empregados do Planeamento e Apoio à Produção 
-99497530; Eugénia Lins ; Braga; Operador de Subprodutos – Antibióticos 
-91397331; Cássia Semedo ; Póvoa De Varzim; Técnico de Prevenção e Segurança – Seguros 
-31357906; Januário Odair Sabala Sacramento ; Avis; Farmacologista 
-19541124; Calisto Abrantes Valladares ; Cinfães; Meteorologistas 
-03751312; Graça Barreiros Mora ; Cinfães; Afinador de Máquinas – Malhas 
-56803813; Jessica Dinora Espírito Santo ; Vizela; Operador de Estufa (Operador de Câmara) 
-94033477; Cláudio Pallos Covinha ; Borba; Produtor Cinematográfico 
-59121763; Júlia Márcio Barateiro ; Vimioso; Percheiro (Cardador de Tecidos) 
-15112114; Urraca Moutinho Águeda ; Fornos De Algodres; Agricultor – Agricultura de Subsistência 
-15295868; Pablo Eduardo Cidreira ; Oliveira Do Bairro; Maquinista Prático (Motorista Marítimo) 
-45003266; Nestor Rebouças ; Penalva Do Castelo; Operador de Concentração – Leite 
-53456326; Sabina Cunha Quintão ; Batalha; Editor 
-54568203; Elisabete Alan Alancastre ; Torre De Moncorvo; Topógrafo – Geómetra 
+28896286; Clementina Laurinda Alancastro ; Valença; Espalhador de Betuminosos 
+48155006; Martim Natal ; Loulé; Óptico-Optometrista 
+93483473; Cléber Modesto Padilla ; Crato; Superintendente 
+38497745; Isilda Djamila Galindo ; Porto Santo; Preparador de Linóleo 
+09603887; Iracema Aparecida Almeida ; Sardoal; Retorcedor 
+31989027; Irene Adão Sousa Rocha ; Évora; Figurinista 
+27755769; Eustácia Martínez ; Maia; Operador de Máquina de Ensacar 
+60249012; Patrício Olegário Landim Franca ; Corvo; Espelhador à Pistola – Vidro 
+64061429; André Nicia Tavares ; Vizela; Gravador de Fotogravura 
+27153075; Cremilde Caniça Flores ; Celorico Da Beira; Alfaiate – Vestuário por Medida 
+31985468; Serena Mendes Rebocho ; Paredes; Operador de Calandra – Plásticos 
+01940148; Andreia Rosinha Fonseca ; Manteigas; Inspectores da Polícia Judiciária e Detectives 
+99072910; Sara Salles Pequeno ; Penamacor; Operador de Instalação Automática de Preparação de Pasta – Fibrocimento 
+60045693; Igor Ademir Rios ; Montemor-O-Velho; Operador de Máquinas do Fabrico de Armaduras para Colchões 
+94888555; Péricles Lívio Carromeu ; Trofa; Operador de Robot Industrial 
+66812491; Edmundo Homem Moreno ; Moimenta Da Beira; Meadeiro (Sarilheiro) 
+26489259; Esaú Carromeu ; Calheta De São Jorge; Encarregado – Tratamento de Frutas e Legumes 
+06609771; Nazaré Garrau Rolim ; Odivelas; Forjadores, Estampadores e Operadores de Prensas de Forjar 
+43346677; Alan Carqueijeiro ; Águeda; Dourador Mecânico – Encadernação 
+23573011; Carmo Queirós Guterres ; Montemor-O-Novo; Vazador à Máquina 
+89942197; Albino Zagalo ; Ílhavo; Director Financeiro 
+12574028; Alcione Queirós Bugalho ; São João Da Pesqueira; Fotocompositor (Operador de Fotocompositora) 
+96390642; Mauro Antero Canário ; Vila Nova De Paiva; Corretores de Mercadorias 
+29321473; Ariana Virgolino Correia ; Murça; Outros Maquinistas de Locomotivas 
+55764965; Durval Liberato Estrada ; Povoação; Engenheiros Geógrafos e Hidrógrafos 
+15116197; Alzira Rodolfo Castanheira Dias ; Oliveira Do Hospital; Montadores de Artigos em Metal, Borracha e Materiais Plásticos 
+66659741; Arlete Tavares ; Vila Nova De Foz Côa; Telegrafista (Operador Telegrafista) 
+43428401; Hirondina Prada Ximenes ; Alcanena; Operador de Bolsa 
+09532377; Dinorah Lara ; Sousel; Outros Representantes Comerciais e Técnicos de Vendas 
+75453851; Bárbara Castelhano Batata ; Figueira Da Foz; Montador de Blindagem de Querena 
+55175797; Arcelino Valentina Telinhos ; Mogadouro; Alfaiate – Vestuário por Medida 
+28185728; Vidigal Vasconcellos ; Cabeceiras De Basto; Serígrafo 
+14922356; Pedro Coitinho Candeias ; Cinfães; Técnico de Estatística 
+57128049; Belisa Jorge Sales ; Setúbal; Encarregado – Tratamento de Produtos Têxteis 
+38210247; Lígia Lígia Pastana ; Marinha Grande; Canalizadores 
+25378974; Nara Xavier Onofre ; Alcochete; Apicultor 
+68225456; Jonathan Malta Brum ; Arouca; Operador de Máquina de Vaporizar Fios 
+25887201; Carol Quintão ; Aljustrel; Operador de Filtro – Indústria Química 
+43410168; Augusto Ribas Camacho ; Viseu; Fiscal de Exploração – Metropolitano 
+57635069; Américo Figueiroa Ataíde ; Barcelos; Caricaturista 
+62681924; Lia Alzira Torcato Rebelo ; Batalha; Condutor de Empilhador 
+95664551; Tânia Benedita Varella Cardim ; Vila Do Porto; Outros Enceradores e Trabalhadores Similares da Construção Civil 
+50724516; Angélica Milheiriço ; Vila Franca De Xira; Operador de Misturador – Cosméticos 
+37140955; Domingos Anlicoara Cordeiro ; Vila Nova De Gaia; Empregada Doméstica – Casas Particulares 
+37453175; Armando Humberto Benevides Pontes ; Faro; Outros Trabalhadores Agrícolas Não Qualificados 
+34317578; Arlete Mirandela ; Covilhã; Produtor Cinematográfico 
+80026905; Isis Dione Ferrão ; Esposende; Directores de Produção e Exploração Agrícola e Similares 
+34086296; Rômulo Sarmento Cruz ; Santa Maria Da Feira; Outros Tecelões de Teares Manuais e Trabalhadores Similares 
+11537301; Nicolau Soto Mayor  Severo ; Redondo; Operador de Máquinas de Vincar Arame 
+03203123; Mara Ermínio Maranhão Fontes ; Horta; Mandarete – Hotelaria 
+46583124; Linda Elizabeth Cachão ; São Brás De Alportel; Encarregado – Galvanoplastia 
+64803850; Dinora Flores ; Castelo De Paiva; Operador de Máquinas – Ferramentas, em geral – Trabalho em Série dos Metais 
+33297553; Lucília Távora Flores ; Almada; Trabalhadores Não Qualificados das Minas 
+56059479; Mateus Olivier Rabelo ; Penedono; Outros Trabalhadores Florestais 
+05498234; Durval Amália Bacelar ; Sardoal; Chefe de Cozinha 
+38504130; Urraca Nilson Baía ; Sever Do Vouga; Inspector de Revisão de Bilhetes – Caminhos de Ferro 
+79890356; Rebeca Sandro Azenha Varanda ; Oeiras; Acabador – Malas e Marroquinaria 
+97515832; Ania Cinara Vidal ; Portimão; Bombeador 
+66332689; Cíntia Valentim Castro ; São Roque Do Pico; Operador de Destilação – Rectificação – Bebidas 
+90555432; Sidónio Salomão ; Alijó; Engenheiros Químicos e Engenheiros Técnicos Químicos 
+71217404; Vicente Lídia Coelho ; Machico; Carpinteiro de Tosco 
+07462451; Elisabete Josué Rebouças Prada ; Sardoal; Outros Atletas, Desportistas e Trabalhadores Similares 
+34184538; Roberta Ferrão ; Montalegre; Arquivistas e Conservadores de Museus 
+13138542; Adriano Marisa Bogado ; Nelas; Técnico de Emprego 
+13004126; Gregório Hilton Correia ; Barrancos; Afinador-Reparador de Pianos 
+98512374; Gaspar Daniela Alcoforado ; Celorico De Basto; Fotógrafo – Artes Gráficas 
+01320670; Célia Leme ; Benavente; Directores de Empresas de Serviços Pessoais, Limpeza e Similares 
+30015276; Gregório Rosinha Gameiro ; Caldas Da Rainha; Operador de Máquina de Fabricar Tabaco Expandido 
+95044842; Benvinda Dirce Jordão ; Oeiras; Operadores de Máquinas de Tratamento de Frutas e Legumes 
+32456489; Paula Dutra ; Caminha; Outros Reparadores de Aparelhos Receptores de Rádio e TV 
+46524037; Firmina Priscila Jordão ; Tomar; Outros Cartonageiros e Operadores de Máquinas de Cartonagem 
+61432656; Joaquina Cândida Estrela ; Figueiró Dos Vinhos; Demonstrador 
+97361094; Conceição Dutra ; Gouveia; Operador de Instalações de Transporte e Manuseamento de Carvão 
+38719465; Humberto Nobre ; Vila Nova De Poiares; Massagista de Estética 
+36587823; Marcelo Maurícia Estrela ; Mira; Mecânicos de Motores de Avião 
+70189363; Calvin Ulisses Lousã Garrau ; Mondim De Basto; Amaciador Mecânico – Peles 
+47970416; Roberta Adelino Patrício Ouro ; Viana Do Castelo; Massagista de Estética 
+54365956; Melissa Naomi Quintela ; Calheta De São Jorge; Encarregado – Trabalhadores da Preparação de Minérios 
+99352353; Francisca Jacinto Silvestre ; São João Da Pesqueira; Ajudante de Cozinha 
+88702210; Eli Vitorino Rezende Capistrano ; Torres Vedras; Profissionais de Nível Intermédio dos Serviços Estatísticos, Matemáticos e Outros 
+85653904; Raimundo Mattos ; Mogadouro; Revelador de Películas a Preto e Branco 
+96503251; Vanessa Camilo ; Povoação; Santeiro 
+50086992; Natálio Dirce Melancia Gameiro ; Vila Velha De Ródão; Outros Carteiros e Trabalhadores Similares 
+32263232; Luisa Núria Carqueijeiro ; Mêda; Apontador de Cardas 
+14616766; Quixote Sequeira ; Resende; Carregador, Descarregador 
+68338322; Dário Cantanhede ; Sever Do Vouga; Educadores de Infância 
+40738286; Yara Amanda Bicudo ; Moimenta Da Beira; Operador de Máquina de Fabricar Cordão 
+51223547; Manuel Caldeira Lamego ; Sardoal; Assistente de Realização – Cinema 
+28960212; Hirondina Asdrúbal Baldaia ; Funchal; Percheiro (Cardador de Tecidos) 
+16752991; Érica Bouça ; Pedrógão Grande; Serralheiro de Chaves e Fechaduras 
+45603355; Lília Valdemiro Carrilho Galante ; Ribeira Brava; Dirigentes e Quadros Superiores de Organizações Especializadas 
+88046804; Áurea Homem ; Viana Do Castelo; Operador de Computador 
+39206467; Sara Lena Sintra ; Soure; Telegrafista (Operador Telegrafista) 
+89063856; Augusta Soto Mayor  Camelo ; Vidigueira; Operadores de Máquinas do Fabrico de Calçado e Artigos de Couro 
+05918154; Juvelina Celso Rosário Tristão ; Vouzela; Correio Turístico (Acompanhante-Turismo) 
+26740887; Alana Alberta Saldanha Fortunato ; Resende; Preparador de Pintura – Estruturas Metálicas 
+67176444; Amilcar Ramírez ; Alenquer; Encarregado – Fabrico de Produtos Lácteos 
+12166809; Cristóvão Cloe Júdice ; Vinhais; Manipulador de fósforos 
+30256445; Raimundo Alzira Picanço Penha ; Proença-A-Nova; Outros Operadores de Registo de Dados 
+53853282; Iolanda Capistrano ; Batalha; Picador de Pentes 
+98420408; Dorisse Duarte Escobar Gaspar ; Oliveira De Frades; Pescador – Pesca Local e Costeira 
+00006688; Hildegarda Altino Tabosa ; Cascais; Compositor Mecânico-Linotipista 
+18881396; Consuela Damascena Alencastre ; Anadia; Controlador de Tráfego Aéreo 
+09114685; Vicente Adrião Macena ; Sátão; Operador de Combustível 
+13457632; Tomás Justina Mora Gago ; Castro Daire; Charuteiro Manual 
+24142744; Edna Kevin Semedo Rabello ; Aveiro; Dactilógrafo 
+88874442; Sílvia Britto ; Borba; Agente Administrativo (Inspector Administrativo) – Administração Pública 
+01336791; Alba Cremilda Mont'Alverne Xavier ; Trancoso; Operador de Calandra – Plásticos 
+32819346; Guilhermina Antas ; Trofa; Técnico de Manutenção – Informática 
+87678240; Josafá Coronel Nolasco ; Ponte De Lima; Outros Montadores de Estruturas Metálicas e Trabalhadores Similares 
+42447202; Madalena Botica Setúbal ; Lagoa; Operador de Moinho – Desperdícios de Massas Alimentícias 
+78742920; Quitéria Camargo ; Ovar; Arboricultores – Árvores e Arbustos 
+81648828; Neiva Octávio Cesário Cidreira ; Oliveira De Azeméis; Montador de Gravuras 
+20904126; Xavier Luzia Berenguer Uchoa ; Braga; Caixas e Bilheteiros 
+98174233; Firmina Martínez Caldas ; Lagos; Operadores de Instalações de Fabricação de Vidro, Cerâmica e Trabalhadores Similares 
+83205317; Irina Tasha Carreira Lima ; Mação; Técnico de Cardiopneumografia 
+38999303; Susana Isilda Ximenes ; Tabuaço; Operador de Máquina de Colmatagem 
+72361189; Maitê Mariete Vigário Garrido ; Castanheira De Pêra; Encarregado – Condução de Centrais Termoeléctricas 
+59020856; Vanda Grangeia ; Cartaxo; Imediato 
+82932196; Élia Natanael Varela ; Fundão; Caixa de Banco 
+21099824; Élia Valladares Varela ; Velas; Encarregado – Montadores de Estruturas Metálicas e Trabalhadores Similares 
+21361990; Brandon Nina Motta ; Mourão; Ministro de Culto 
+17946310; Arminda Valdir Ribeiro ; Mortágua; Pregoeiro 
+74662112; Ubiratã Lemes ; Pedrógão Grande; Educador de Estabelecimento (Monitor, Perceptor) 
+18902319; Laila Keil do Amaral Ximenes ; Praia Da Vitória; Reparador de Instrumentos Musicais de Sopro em Madeira ou Massa 
+69308486; Estevão Ramom Nascimento Festas ; Miranda Do Corvo; Operador de Máquina de Manipular – Matérias Plásticas 
+75365088; Virgílio Tigre ; Gouveia; Inspectores da Polícia Judiciária e Detectives 
+53997707; Felicidade Augusto Fitas Rebimbas ; Sabrosa; Carregadores e Descarregadores de Mercadorias 
+69608851; Belarmino Menezes Canto ; Ponte Da Barca; Assentador de Refractários 
+16554947; Florinda Lobo Ornelas ; Amares; Director e Gerente da Indústria Extractiva 
+11723433; Nair Freiria ; Coimbra; Outros Assistentes, Comissários e Trabalhadores Similares 
+64345273; Vitória Celestina Monforte Maltez ; Nazaré; Outros Operadores de Fibras de Laminagem 
+97200213; Durval Jacinta Coitinho ; Góis; Escriturário – Instituições Financeiras 
+43092064; Dulce Águeda ; Sever Do Vouga; Quebrador 
+87687998; Loide Nazaré Salles ; Campo Maior; Outros Inspectores da Segurança Social 
+08313030; Delores Bentes Loio ; Aljezur; Alfaiate (Modista) 
+89628588; Ariana Juliano Olaio Araújo ; Póvoa De Lanhoso; Trabalhadores Florestais e Similares 
+66176169; Cibelli Tarcísio Muxagata ; Azambuja; Bandarilheiro (Peão de Brega) 
+40383205; Gideão Heitor Villaça ; Machico; Geólogos e Geofísicos 
+55832296; Hércules Bessa Garrido ; Felgueiras; Espalhador de Betuminosos 
+94954710; Juliana Godinho Lamego ; Lamego; Outros Técnicos de Segurança Aérea 
+71753330; Leôncio Cedraz Souza ; Oliveira Do Bairro; Albardeiro 
+76484603; Tarcísio Ediberto Varão Simão ; Pombal; Trabalhadores das Pescas Não Qualificados 
+46162196; Roberta Castelhano ; Lajes Das Flores; Percheiro (Cardador de Tecidos) 
+25359412; Silvéria Castelo Branco ; Gouveia; Outros Operadores de Instalações de Produção de Energia 
+67685393; Azaléia Martins Alvim ; Montemor-O-Novo; Modista de Chapéus 
+61595319; Geraldo Pontes Gravato ; Albufeira; Engenheiro Civil – Construção de Edifícios 
+67102945; David Brandão Brum ; Arouca; Cambista ("Dealer") 
+48830319; Valdemiro Ângelo Rêgo Britto ; Tábua; Analista de Laboratório – Análises Químicas 
+28028412; Elvis Gideão Braga ; São Pedro Do Sul; Agricultor 
+09340439; Clotilde Afonso Câmara Capistrano ; Sardoal; Outros Engenheiros Civis e Engenheiros Técnicos Civis 
+99147931; Priscilo Olegário Sacramento ; Cascais; Visagista 
+75682928; Damiana Amador César Villela ; Vila Viçosa; Chefe de Estação – Metropolitano 
+90740647; Jasmim Aires Faia ; Idanha-A-Nova; Carteiro 
+60967678; Ilídio Muriel Morais ; Sardoal; Revistador de Cones de Feltro 
+43556170; Valentina Malafaia Serralheiro ; Fornos De Algodres; Encarregado – Cartonageiros e Operadores de Máquinas de Cartonagem 
+92365145; Cristóvão Rebello Costa ; Guarda; Encarregado – Montagem de Máquinas Electrónicas 
+14908272; Érica Daniel Mourato Aires ; Alandroal; Outros Especialistas de Ensino 
+61613940; Gervásio Licínio Castanheira Caeiro ; Póvoa De Lanhoso; Trabalhadores Florestais Não Qualificados 
+23325141; Yasmine Quitéria Pereira ; Vizela; Imediato 
+55936623; Nazário Mont'Alverne Bezerra ; Porto De Mós; Advogados e Consultores Jurídicos 
+13436308; Liliana Aguinaldo Doutel Soeiro ; Mira; Enformador (Operador de Vaporizador de Abas) 
+50349604; Adérito Covinha ; Penela; Psicólogo 
+78283204; Camilo Gago Mangueira ; Póvoa De Lanhoso; Técnicos Intermédios de Química Industrial 
+02222656; Manuel Felgueiras ; Trancoso; Operador de Instalação de Fabrico – Leite em Pó 
+88999469; Levina Rebouças ; Machico; Caseiro (Feitor, Encarregado) – Exploração Agro-Pecuária 
+17151454; Adosinda Dagmar Arantes Reis ; Sertã; Outras Lavadeiras e Engomadores de Roupa 
+11808133; Cremilde Aveiro ; Marco De Canaveses; Afinador de Teares 
+00042404; Florêncio Alexandrina Girão Bentes ; Ovar; Cozedor (Caldeireiro) Cortiça 
+16658586; Adriana Honória Cartaxo ; Setúbal; Director e Gerente de Telecomunicações 
+03762274; Leandro Lucas ; Olhão; Operador de Instalação Automática de Estirar Vidro 
+23204048; Wilton Sintra Pimentel ; Santarém; Operador de Secador e Aromatizador – Tabaco 
+61765953; Gilberta Henrique Moniz Figueiroa ; Batalha; Operador de Central Telex – Rede Internacional 
+72909662; Pilar Marcos Ramires Remígio ; Mira; Corretores de Bolsa, Cambistas e de Outros Serviços Financeiros 
+63647276; Normando Solange Arantes Barbalho ; Barreiro; Remetedor (Repassador) 
+49830063; Malvina Lina Lamego ; Guarda; Maquinista de Comboio 
+11600799; Ricardina Simão Flores ; Constância; Representantes Comerciais e Técnicos de Vendas 
+46572920; Emídio Lage ; Ponte De Sor; Directores de Produção, Exploração e Similares 
+33746966; Valentim Mário Noronha ; Vila Do Bispo; Operador de Máquina de Serrar (Serrador) – Peles 
+05331095; Venâncio Domingues ; Sertã; Lavadeiras e Engomadores de Roupa 
+11298624; Jonata Ilha Dantas ; Vizela; Calista 
+03980989; Rodolfo Quezado ; Praia Da Vitória; Músicos, Cantores e Bailarinos de Espectáculos de Variedades e Artistas Similares 
+91114733; Cândida Anastácia Cipriano ; Covilhã; Maleiro 
+32167660; Leôncio Vilas Boas Mascarenhas ; Esposende; Resineiro (Resinador) 
+39069037; Eulália Avelar Gameiro ; Montijo; Impressor em Talhe-Doce (Operador de Máquina de Timbragem em Relevo) 
+70470564; Victor Conceição Fontoura ; Lisboa; Químicos 
+61809427; Volney Norberto Monteiro ; Vila Nova De Cerveira; Operador de Central Telex – Rede Internacional 
+50686246; Delfino Cardim ; Marinha Grande; Outros Técnicos de Contabilidade e Trabalhadores Similares 
+81426770; Glória Teixeira ; Alandroal; Lavador de Diamantes 
+38237590; Adelaide Cássia Forte Pires ; Cadaval; Outros Engenheiros Civis e Engenheiros Técnicos Civis 
+53893362; Joviano Tomás Orriça ; Alijó; Pintor Electrostático 
+05857900; Vanda Angelina Severiano Vasques ; Lisboa; Montador de Isolamentos 
+68879424; Carla Alzira Rodrigues Abranches ; Mealhada; Outros Inspectores da Segurança Social 
+11334802; Aarão Abelho Paixão ; Tábua; Impermeabilizador de Construções 
+73229637; Acácio Valcanaia Canela ; Águeda; Parteiras 
+52701288; Osmar Dóris Baptista Osório ; Alcobaça; Operador de Máquina de Encasar – Encadernação 
+59102027; Nuno Amado Lagoa Arruda ; São João Da Madeira; Engenheiro Técnico de Minas 
+91384697; Valadares Rolim ; Mira; Hidrometrista 
+10990371; Natércia Juvelina Castelão ; Seia; Operador de Prensa Granuladora - Rações para Animais 
+95404211; Hércules Velasco Viana ; Machico; Operador de Tratamento de Imagem – Televisão 
+82229760; Silvano Rosa Palmeira ; Mondim De Basto; Abridor – Amaciador de Juta e Lã 
+81039238; Joel Aleixo ; Bragança; Afiador de Ferramentas 
+69675143; Erasmo Manuel Tabosa Matos ; Alcochete; Outros Codificadores, Revisores de Provas e Similares 
+32811334; Vidigal Anhaia ; Beja; Vendedores Ambulantes de Produtos Não Comestíveis 
+70697556; Horácio Quintanilha ; Torres Vedras; Pagador – Casinos 
+52378210; Lourdes Assunção Meirelles ; Espinho; Montador de Gravuras 
+81023983; Bruno Madruga Seixas ; Mangualde; Profissionais de Nível Intermédio das Ciências da Vida e da Saúde 
+42462703; Alexandra Sheila Parafita ; Oeiras; Operador de Sala de Fermentação – Cerveja 
+24583429; Joaquim Janes ; Lousã; Enfermeiro 
+84270863; Jesabel Caetano Portela ; Trancoso; Encarregado – Equipamento Emissor e Receptor de Rádio e TV 
+42924715; Brígido Bernardo Avelar ; Barcelos; Empregado de Serviços de Expedição e Recepção de Mercadorias 
+66818549; Alírio Camargo ; Castro Daire; Mestre de Redes – Pesca Local e Costeira 
+40756377; Custódio Sá ; Fornos De Algodres; Preparador de Palmilhas Internas 
+49866964; Adelina Diná Carvalheiro Tristão ; Alijó; Professor de Educação Especial – Área da Deficiência Auditiva 
+98197147; Cristina Cachoeira ; Santa Marta De Penaguião; Comprador de Espaço e Tempo – Publicidade 
+51471496; Raquel Nestor Madruga ; Vila Nova De Famalicão; Outros Engenheiros Electrotécnicos e Engenheiros Técnicos Electrotécnicos 
+82112587; Urbino Pedroso Bouças ; Velas; Músicos, Cantores e Bailarinos de Espectáculos de Variedades e Artistas Similares 
+71874502; Telma Marisol Negromonte ; Almeida; Terapeuta Ocupacional 
+11786947; Abel Quintanilha ; Vila Pouca De Aguiar; Confeccionador de Tubos – Borracha 
+25124603; Sebastião Felismina Gago ; Marinha Grande; Operador de Branqueamento – Óleos Alimentares 
+92069568; Heloísa Carvalhal Parafita ; Braga; Salineiros 
+41615253; Abílio Amilcar Piteira Dutra ; Seixal; Operador de Máquinas de Fabricar Arame Farpado 
+91813392; Cátia Castello Martinho ; Castro Daire; Director Geral – Administração Pública 
+20595143; Vitorino Vidal ; Murtosa; Outros Artesãos de Artigos em Madeira e Materiais Similares 
+99266885; Mário Esparteiro Britto ; Vila Nova De Cerveira; Engraxador 
+60610247; Flaviano Amorim Natal ; Albergaria-A-Velha; Assentador de Manilhas de Grés e Cimento 
+36890023; Emanuela Campelo ; Maia; Outros Empregados de Aprovisionamento 
+30289546; Denise Lagoa ; Sesimbra; Físicos e Astrónomos 
+19519516; Fabiana Florência Paião ; Tomar; Trabalhadores da Construção Civil e Obras Públicas – Betão Armado 
+99130120; Benjamim Nancy Faia ; São João Da Madeira; Outros Trabalhadores Florestais Não Qualificados 
+61343491; Lucília Garcez Lucena ; Valongo; Oficial de Martelo 
+70362504; Calvin Amélia Lages ; Amares; Pintor – Superfícies Metálicas 
+00145937; Marisa Violante Belo ; Sever Do Vouga; Operadores de Máquinas do Tratamento das Superfícies dos Metais 
+04301812; Leila Vera Bicudo ; Figueiró Dos Vinhos; Operadores de Máquinas para Trabalhar Madeira e Cortiça 
+80957293; Bernardete Ferreira ; Anadia; Preparador de Amianto – Fibrocimento 
+17173854; Fedra Quintal ; Alenquer; Outros Agentes de Seguros 
+94834019; Élia Quental ; Évora; Operadores de Máquinas de Tratamento de Produtos Têxteis 
+78607367; Moisés Acúrcio Anhaia ; Lagos; Soldadores e Maçariqueiros 
+71213153; Altina Castel-Branco Telles ; Castelo De Paiva; Preparador de Amianto – Fibrocimento 
+44542386; Lília Palhares ; Anadia; Técnico de Frio 
+11339197; Bianca Marina Figueiroa Vilarinho ; Coruche; Engenheiros Agrónomos e Engenheiros Técnicos Agrários 
+91687507; Adelino Rúbia Abelho Gusmão ; Alcochete; Fotógrafo 
+59677076; Tasha Mascarenhas Bezerra ; Rio Maior; Outros Cesteiros, Pinceleiros e Trabalhadores Similares 
+65191348; Eleutério Evelise Caetano ; Barrancos; Operador Radiotelegrafista 
+80112825; Lita Mainha Rivero ; Arraiolos; Conserveiro – Molhos e Condimentos 
+16253746; Agostinho Estevão Frade Mourato ; Monchique; Engenheiro Electrotécnico – Sistemas de Energia 
+92515095; Maristela Mora ; Vale De Cambra; Enformador de Chapéu de Feltro 
+67761205; Olga Ferro Lóio ; Lagos; Médico – Clínica Geral 
+82706325; Evelise Vaz ; Pampilhosa Da Serra; Outros Trabalhadores da Pesca – Pesca do Largo 
+31691222; Delores Evandro Pires Casado ; Esposende; Montadores de Artigos em Madeira 
+03751390; Raquel Dalva Álvares ; Montemor-O-Velho; Lavador de Fazenda 
+15228573; Ricardo Lagos ; Estremoz; Cableador 
+96640431; Conceição Neusa Prado ; Figueira De Castelo Rodrigo; Operador de Britadeira 
+03562478; Damião Rijo Miguel ; Alcanena; Contramestre Pescador – Pesca Local e Costeira 
+86822191; Hildefonso Alexandra Mont'Alverne ; Serpa; Montadores de Construções Mecânicas 
+38548201; Ludovico Alexandrina Olaio Gago ; Marco De Canaveses; Caneleiro 
+14827280; Isa Jacinto Souto Maior ; Torre De Moncorvo; Encarregado – Pintores e Decoradores de Vidro, Cerâmica e Similares 
+29911132; Hipólito Cardoso Silva ; Porto; Directores Gerais 
+99083930; Aldina Lima ; Mafra; Maleiro, Caixa Auxiliar Volante 
+97558047; Maurícia Libânia Mont'Alverne Cachoeira ; Montijo; Engenheiro Civil – Geotécnico 
+14740595; Rúbia Adão Esparteiro ; Torres Vedras; Esmerilador 
+60471404; Benvinda Domingues ; Corvo; Operador de Moldagem – Gelados 
+28740335; Lívia Filgueiras Caldas ; Belmonte; Montador de Ensaios de Caudal 
+76179322; Thays/Taís Gameiro ; Vidigueira; Físico Teórico 
+50465877; Clara Luca Chousa ; Velas; Trabalhadores da Montagem 
+96276197; Romualdo Assunta Cedro Henriques ; Mondim De Basto; Disk-Jockey 
+63088602; Artur Tadeu Bragança Rebouças ; Santa Cruz Da Graciosa; Engenheiro Civil – Hidráulico 
+23222602; Pablo Calheiros ; Anadia; Pessoal Administrativo e Similares 
+44328781; Adélia Henriqueta Pinho Candeias ; Constância; Boletineiro 
+61001654; Asdrúbal Serpa ; Amadora; Oleiro Rodista 
+26733949; Guilhermina Lobo Berenguer ; Lamego; Operador de Robot Industrial 
+39709190; Urraca Ferro Valadares ; Barreiro; Operadores de Maquinaria Agrícola Móvel e de Outras Máquinas Móveis 
+51549589; Herodes Silvana Pestana  Salles ; Sesimbra; Montador de Peças ou Órgãos Mecânicos, em Série 
+94735466; Altino Setúbal Rico ; Leiria; Médico do Trabalho 
+01950703; Adelinda Curado Cortês ; Marco De Canaveses; Biólogo – Especialista em Botânica 
+50361420; Amália Muniz Chousa ; Ovar; Operador de Máquina de Bate-Estacas 
+77542020; Agnete Plácido Picão ; Guarda; Outros Operadores de Instalações de Moagem e Trabalhadores Similares 
+88233335; Jonathan Estevão Sanches ; Penacova; Jornalista 
+51912956; Osvaldo Severo ; Vila Nova De Paiva; Trabalhadores da Montagem 
+00392272; Ubiratã Raminhos ; Crato; Técnico de Emprego 
+12918730; Isolda Sérgio Lousado Candal ; Figueiró Dos Vinhos; Escolhedor 
+55177535; Elen Góis ; Gavião; Outros Directores de Produção, Exploração Agrícola e Similares 
+67674424; Vicente Magda Novais ; Moura; Operador de Máquina de Moer Açúcar – "Icing Sugar" 
+28497266; Filipe Vieira Laranjeira Brites ; Marinha Grande; Agente Técnico Agrícola 
+24637565; Melinda Sales ; Campo Maior; Astrólogos e Trabalhadores Similares 
+81415119; Tatiana Cláudio Jardim ; Nelas; Afinador de Teares 
+52233509; Leandro Douglas Covilhã ; Carregal Do Sal; Directores de Serviços de Investigação e Desenvolvimento 
+99063658; Adrião Olavo Palma ; Almada; Operador de Máquina de Enrolar Folhas de Chá 
+64356575; Custódio Godofredo Lencastre Feitosa ; Silves; Outros Mediadores Oficiais 
+13555879; Judite Marisa Fernandes ; Alfândega Da Fé; Piloto de Outras Aeronaves 
+90171192; Juliana Serafim Lage Dotel ; Santa Cruz Das Flores; Outros Directores de Produção das Indústrias Transformadora e Extractiva 
+06679003; Sérgio Álvaro ; Loulé; Operador de Máquina Semi-Automática de Soldadura e Isolamento – Cablagens 
+90862426; Genoveva Óscar Brandão ; Santana; Cravador 
+53298446; Valéria Marcela Sosa ; Arronches; Encarregado – Preparação de Fibras 
+31182860; Claudino Gilberto Pardo Gouveia ; Redondo; Técnicos de Contabilidade e Trabalhadores Similares 
+23933745; Norberto Quinzeiro Norões ; Ourique; Trabalhadores Similares 
+51898762; Ermelinda Martinho Foquiço Távora ; São Brás De Alportel; Preparador de Montagem – Calçado 
+50113206; Ermínia Juvelina Viana Franca ; Murça; Electricista-Montador de Instalações de Alta Tensão 
+82047405; Darlene Vanderlei Lemos Noronha ; Sertã; Outros Enceradores e Trabalhadores Similares da Construção Civil 
+70462419; Waldemar Dorotéia Miera ; Portalegre; Docentes do Ensino Universitário e de Estabelecimentos de Ensino Superior 
+44600301; Juliano Valdir Saloio ; Oeiras; Operador de Máquinas – Ferramentas de Comando Numérico 
+50388538; Dina Frederico Bugalho ; Bragança; Operadores de Instalações de Tratamentos Químicos 
+48750122; Óscar Arlete Travassos ; Penalva Do Castelo; Operador de Ensaque – Rações para Animais 
+71553988; Bernardete Gois ; Ourique; Vigilante de Máquinas 
+40985281; Benito Cotrim ; Vila Franca De Xira; Modelista – Vestuário 
+13063768; Nivalda Guimarães ; Santiago Do Cacém; Serrador Manual 
+08678712; Graciete Pacheco Paixão ; Amadora; Gomador de Fios (Operador de Máquina de Gomar Fios) 
+42626705; Nabal Isaura Caminha Nobre ; Murça; Chefe de Divisão– Administração Pública 
+76124178; Azaléia Prado ; Penafiel; Operadores de Veículos e Equipamentos de Elevação 
+19643339; Josué Maísa Belmonte Custódio ; Santa Maria Da Feira; Outros Vendedores de Quiosque e de Mercados 
+06699243; Adelaide Ramos ; Coimbra; Engomador Manual 
+60380019; Nívea Alcaide ; Vila Flor; Trabalhadores da Construção Civil e Similares – Acabamentos 
+41594382; Guida Salomão Quintais Pais ; Sousel; Mestre de Redes – Pesca Local e Costeira 
+72063957; Leandra Rubina Doutiz ; Sobral De Monte Agraço; Operador de Forno Crematório (Operador de Incinerador) 
+49518039; Amado Cassandra Corte-Real Coimbra ; Vila De Rei; Palhaço 
+35015651; Quitéria Plácido Cartaxo Ruela ; Póvoa De Varzim; Encadernador 
+90723080; Raul Greta Toscano Cedro ; Amares; Montador de Estores (Instalador de Estores) 
+29538509; Marcos Imperial ; Belmonte; Gravador Manual de Matrizes 
+05008042; Bryan Lemos Camarinho ; Campo Maior; Torcedor (Retorcedor) 
+42131778; Ingrid Linhares ; Benavente; Técnico de Voo 
+33285347; Carolina Edmundo Camargo ; Amares; Arqueólogo 
+38879563; Geraldina Sales ; Camara De Lobos; Engenheiro Electrotécnico 
+59693419; Leopoldo Norões ; Madalena; Outros Economistas 
+09943046; Délia Chaves ; Matosinhos; Operador de Produção Térmica 
+79296577; Genoveva Célia Saloio ; Setúbal; Médico Oftalmologista 
+76194648; Cornélio Corte-Real Leal ; Nelas; Montador de Aparelhos Eléctricos e Electrónicos 
+74669865; Carmen Paredes Nóbrega ; Vila Real De Santo António; Operadores de Máquinas de Tratamento de Produtos Têxteis 
+49489828; Naum Borja ; Figueira De Castelo Rodrigo; Estaticista 
+11062482; Adriana Foquiço Vasques ; Grândola; Engenheiro Agro-Industrial 
+42821745; Licínio Malta Mont'Alverne ; Figueira Da Foz; Vigilante de Instalação Automática de Estirar Vidro 
+11697605; Bruno Nestor Castilho ; Trofa; Pintor – Decorador à Pistola – Vidro e Cerâmica 
+84990534; Alexandra Paulos Boeira ; Nazaré; Electricista de Manutenção de Equipamentos Industriais 
+37595745; Volney Acúrcio Parracho ; Sever Do Vouga; Operador de Recuperação e Injecção de Leveduras – Cerveja 
+87660839; Belinda Seixas ; Velas; Maleiro, Caixa Auxiliar Volante 
+28161620; Natálio Serpa ; Povoação; Técnicos de Ciências Físico-Químicas 
+47682766; Pelágio Denise Alancastre Canadas ; Funchal; Técnico Aduaneiro 
+88457529; Apolinário Magalhães Marinho ; Lousada; Outros Directores de Serviços de Investigação e Desenvolvimento 
+88114401; Damião Luz ; Sabrosa; Director de Relações Públicas 
+47369044; Nivaldo Nicolas Montenegro ; Tondela; Operador de Instalação de Moldagem de Plásticos 
+80117072; Ricarda Bragança Moura ; Lajes Do Pico; Dourador Manual – Encadernação 
+32036978; Atílio Natanael Colares ; Elvas; Cardador de Feltro 
+35818368; Lígia Gil Domingues ; Fundão; Charuteiro Manual 
+46640354; Ofélia Rômulo Simões ; Marco De Canaveses; Outros Directores de Serviços Administrativos e Financeiros 
+79200625; Azaléia Cátia Coelho ; Ílhavo; Cardador 
+97720462; Adelaide Mirandela ; Penamacor; Outros Controladores de Salas de Jogos e Trabalhadores Similares 
+86816760; Lília Sosa Bettencourt ; Fornos De Algodres; Técnico de Instalações Eléctricas 
+72237145; Andreia Martinho Lessa ; Vila Do Porto; Outros Operadores de Instalações para Trabalhar Madeiras e Cortiça 
+13830707; Manuela Edelina Rego ; Torres Vedras; Operador de Desnatagem e Pasteurização – Produtos Lácteos 
+88461546; Cinara Carina Macena Peçanha ; Gouveia; Outros Montadores de Estruturas Metálicas e Trabalhadores Similares 
+39267202; Melinda Marroquim Boaventura ; Guarda; Operador de Bolsa 
+28011246; Elaine Rebello ; Santana; Técnico de Reeducação 
+55221749; Nívia Adelaide Sant'Anna ; Carregal Do Sal; Chefe de Mesa 
+44371827; Hildefonso Lacerda Veríssimo ; Évora; Condutores de Máquinas de Extracção – Minas e Pedreiras 
+81451261; Caetano Tibúrcio Milheiro Trindade ; Oleiros; Topógrafo – Geómetra 
+40306186; Branca Lins Caparica ; Lajes Das Flores; Operador de Electroerosão 
+87677729; Lourival Óscar Amado ; São Brás De Alportel; Técnicos de Engenharia Civil 
+62736171; Serafim Castelo ; Gondomar; Condutor de Comboio – Caminhos de Ferro 
+41047152; Ezequiel Rubina Talhão ; Angra Do Heroísmo; Mediadores Oficiais 
+13710496; Guilherme Felicia Albuquerque ; Mafra; Advogado 
+35242879; Laura Álvaro Bulhosa ; Penedono; Operador de Máquina de Vaporizar Fios 
+19024106; Leonardo Ricarda Castelo Branco Caldeira ; Cadaval; Outros Directores de Empresas de Serviços Pessoais, Limpeza e Similares 
+96628831; Elza Adalberto Landim Quinzeiro ; Freixo De Espada À Cinta; Outros Operadores "Robots" Industriais 
+45291528; Idalinda Aragão ; Castro Daire; Condutor de Máquina de Escavação 
+47089664; Eutímio Vanda Chousa Uchoa ; Oliveira De Frades; Verificador – Abrasivos 
+20943369; Martinho Petra Palha ; Reguengos De Monsaraz; Preparador de Montagem – Calçado 
+82297684; Dorotéia Gustavo Valcanaia Barbalho ; Ovar; Empregada Doméstica – Casas Particulares 
+49840394; Virgolina Nancy Vargas ; Torres Vedras; Encarregado – Preparação de Fibras 
+39832004; Misael Pontes Urias ; Carrazeda De Ansiães; Outros Empregados Administrativos de Contabilidade e Trabalhadores Similares 
+12047061; Rodrigo Robalo Café ; Montemor-O-Novo; Veterinário 
+19969685; Ubiratã Máximo Caparica Castilho ; Vila Nova Da Barquinha; Montador de Construções Navais – Estaleiro 
+76922552; Felicidade Fiães Rivero ; Trancoso; Agente Técnico Agrícola 
+22470911; Carlos Vanda Fartaria ; Trancoso; Marinheiro – Pescador 
+57839601; Clara Filipe ; Celorico De Basto; Vendedores Ambulantes de Produtos Não Comestíveis 
+23792796; Urbano Mexia ; Alvaiázere; Aplainador – Trabalho em Série dos Metais 
+41149690; Walter Mendonça Lagos ; Arraiolos; Outros Locutores e Apresentadores de Rádio, de Televisão e de Espectáculos 
+71699453; Amália Moreira Menezes ; Oliveira Do Hospital; Motorista de Veículos Pesados – Mercadorias 
+42665749; Nivaldo Helena Chagas Varanda ; São João Da Pesqueira; Tecelão Manual – Tapeçarias 
+42791918; Normando Filipe Couto ; Proença-A-Nova; Quadros Superiores da Administração Pública 
+84116093; Álvaro Bencatel Póvoas ; Fundão; Azulejador 
+71488585; Anderson Monforte Alancastre ; Freixo De Espada À Cinta; Alfaiates, Costureiros e Chapeleiros 
+91630446; Florbela Almeida ; Ponta Do Sol; Operador – Telegrafista 
+23492109; Isa Renata Carmona ; Sintra; Médico Pneumologista 
+10130742; Benvinda Quintais ; Aveiro; Reconhecedor Cartógrafo 
+29838561; Caio Neiva ; Faro; Impressor de Flexografia 
+84290616; Martina Carneiro ; Mourão; Ajudante de Padaria 
+18042420; Joyce Regueira Remígio ; Aguiar Da Beira; Percheiro (Cardador de Tecidos) 
+80710270; Delfina Talita Lameiras ; Mealhada; Batedor de Ouro em Folha 
+17056566; Octávia Castello ; Figueira De Castelo Rodrigo; Ilusionista 
+84683385; Nilton Ilda Beça ; Madalena; Outros Engenheiros Mecânicos e Engenheiros Técnicos Mecânicos 
+82650292; Junia Dulcineia Parente Vergueiro ; Corvo; Outros Engenheiros Mecânicos e Engenheiros Técnicos Mecânicos 
+56879994; Ivete Amarante Capucho ; Maia; Recepcionista de Hotel 
+42870013; Aura Evaldo Garrido Quintais ; Sines; Técnico de Restauro e Conservação 
+59588401; Silvestre Linda Vilhena ; Elvas; Limpa-Chaminés 
+32141316; Isaías Violante Marroquim ; Mourão; Directores e Gerentes da Construção Civil 
+54035622; Romeu Edelmiro Olivares ; Santo Tirso; Engenheiro Técnico Civil – Construção de Aeródromos 
+82984982; Salomão Morais ; Aljustrel; Outros Guardas dos Serviços Prisionais 
+86611571; Márcio Calisto Aires Lancastre ; Vizela; Docentes do Ensino Básico, Primário e Pré-Primário 
+48507683; Susete Miguel ; Batalha; Operador de Máquina de Alcear – Encadernação 
+51966484; Antonieta Faro ; Mértola; Outros Psicólogos 
+42799332; Sara Sant'Anna Ávila ; Alpiarça; Anatomista 
+27673119; Arminda Peseiro ; Torres Novas; Criadores e Trabalhadores Qualificados do Tratamento de Animais 
+70370889; Lisandra Josefina Ginjeira ; Alcácer Do Sal; Ajudante de Motorista – Marinha Mercante 
+82686811; Jacob Godofredo Lancastre Rosmaninho ; Torres Vedras; Secador de Peles 
+73364877; Isis Cristina Salgado ; Monção; Alfaiates, Costureiros e Chapeleiros 
+78980422; Evandro Saldanha Abrantes ; Mora; Encarregado – Trabalhadores da Preparação de Minérios 
+08725385; Paulino Belmonte Inácio ; Mora; Limpa-Chaminés 
+44927817; Benvinda Fabiano Barreiros Franca ; Barreiro; Operador de Instalação de Tratamento Químico 
+23363983; Juvelina Acúrcio Álvares ; Mira; Retocador de Fotografias 
+80742313; Fernando Miracema Boaventura ; Soure; Sapateiros, Trabalhadores de Calçado e de Couro. 
+82294491; Noemi Canto Palma ; Sátão; Director de Estação de Radiotelevisão 
+80601207; Hirondina Hollanda Miera ; Gouveia; Vendedores por Telefone e ao Domicílio 
+18011496; Nélson Rebeca Mendoça Barreiros ; Caldas Da Rainha; Fundidor de Convertidor 
+79020681; Guida Ferreira ; São Roque Do Pico; Outros Ajudantes Familiares 
+04125107; Cândida Eugénio Baldaia Albuquerque ; Mafra; Colador Manual 
+48549126; Neiva Florinda Lara ; Odivelas; Zincógrafo (Gravador de Fotogravura) 
+06273822; Bernardo Leão ; Sardoal; Montador – Indústria Cinematográfica 
+44026378; Rita Neiva Villela ; São João Da Pesqueira; Operadores de Instalações de Fabricação de Vidro, Cerâmica e Trabalhadores Similares 
+36022362; Morgana Meneses ; Crato; Impressor de "Offset" 
+37469471; Agnes Varella Moniz ; Felgueiras; Conserveiro de Peixe 
+72390466; Batista Mafra Dourado ; Fafe; Maleiro 
+07502981; Adélia Palmira Brandão Tristão ; São Vicente; Operador de Instalação de Prensagem e Secagem de Polpa– Beterraba 
+82199481; Antónia Valentim ; Portimão; Operador de Máquina de Parafinar – Cartão Canelado 
+57148132; Nancy Abreu Lessa ; Sines; Pessoal de Limpeza de Escritórios, Hotéis e Trabalhadores Similares 
+38569380; Acácia Miranda Pardo Bouças ; Freixo De Espada À Cinta; Outros Inspectores da Segurança Social 
+58752966; Esmeralda Patrício Vilas Boas Ruela ; Torres Novas; Enfermeiro – Especialista em Reabilitação 
+73651938; Viviana Serpa Prudente ; Resende; Director de Restaurante 
+69044045; Djamila Dejanira Quintão Farias ; Marinha Grande; Historiador 
+66993285; Carlota Ester Faustino Alencastre ; Santa Comba Dão; Farmacologistas, Patologistas e Outros Especialistas das Ciências da Vida 
+65199079; Ubiratã Coimbra Borja ; Penela; Trabalhador de Terra ou Cais (Carregador, Descarregador) 
+31231090; Marcela Silva ; Machico; Silvicultor 
+73080681; Eduardo Raminhos ; Azambuja; Outros Docentes do Ensino Básico 
+80493334; Marta Ezequiel Alencar Rolim ; Carregal Do Sal; Outros Inspectores da Segurança Social 
+36698044; Dione Apolónia Gago Melgaço ; Arruda Dos Vinhos; Professor do Ensino Básico (
+34876012; Rebeca Belisa Azevedo ; Beja; Montador de Anúncios 
+40407954; David Vilaverde ; Santa Maria Da Feira; Outros Cobradores e Trabalhadores Similares 
+04415651; Odair Madalena Leão Caniça ; Elvas; Compositores Tipográficos e Trabalhadores Similares 
+37411075; Gabriel Mariz Palmeira ; Ovar; Outros Lapidadores e Gravadores de Vidro e Cerâmica 
+80936068; Miracema Guilheiro ; Ponte Da Barca; Outros Estucadores 
+22612919; Juliano Castilhos Pardo ; Santa Comba Dão; Inspectores e Técnicos Agrários e Florestais 
+93309539; Talita Bruna Piteira ; Santa Comba Dão; Conferente Marítimo 
+45999520; Hortênsia Ivo Anjos ; Camara De Lobos; Inspector Administrativo 
+50294993; Shirley Rui Trindade ; Matosinhos; Servente Florestal 
+48365719; Valério Vilas Boas ; Oliveira Do Hospital; Atleta Profissional, em Geral 
+23795171; Roberta Varão ; Ponta Do Sol; Metalizador de Vidro de Óptica 
+71965268; Vanda Agostinho Mendonça Milheirão ; Viana Do Alentejo; Encarregado – Fiação, Torção e Bobinagem 
+50177841; Camilo Olivares Bessa ; Santa Marta De Penaguião; Operadores de Equipamento de Teleinformação e Trabalhadores Similares 
+44155614; Esdras Caetano Robalo ; Estremoz; Operador de Equipamento de Teleinformação 
+77377555; Dora Norma Brites ; Vidigueira; Estofadores, Colchoeiros e Trabalhadores Similares 
+15352595; Henrique Azambuja Tigre ; Guimarães; Guarda Fiscal 
+46569697; Aura Ari Pires Belchior ; Abrantes; Ourives 
+19314420; Álvaro Sampaio ; Celorico Da Beira; Outros Desenhadores e Trabalhadores Similares 
+61530330; Anacleto Ramires Rebimbas ; Alcoutim; Toureiro 
+89051159; Tristão Wilton Monsanto ; Lourinhã; Outros Aquacultores 
+05756792; Evaldo Joaquina Escobar Malheiros ; Batalha; Barman (Empregado do Serviço de Bebidas) 
+55305286; Martinho Joyce Canela Valadares ; Braga; Agente de Navegação 
+83563981; Inácio Cremilde Frias ; Lagoa; Destilador de Bebidas Alcoólicas 
+26956275; Bernarda Paredes ; Santa Comba Dão; Telhadores 
+85394514; Lorena Matilde Bezerril ; Proença-A-Nova; Dietistas 
+24324482; Jacinto Miera Martins ; Ponta Delgada; Tractorista Agrícola (Condutor de Máquinas Agrícolas) 
+62339696; Dóris Joaquim Aranha ; Vendas Novas; Gestor de Sinistros (Regularizador de Sinistros) – Seguros 
+32158924; Jesabel Magda Paulos Parreira ; Alcácer Do Sal; Pintor – Construção Civil 
+92113680; Manuelina Valdemar Parafita Terra ; Avis; Mineiros, Trabalhadores de Pedreiras e Trabalhadores Similares 
+83987644; Alexandre Veríssimo Varella ; Santana; Oficiais da Marinha, Pilotos de Aviões e Técnicos dos Transportes Marítimos e Aéreos 
+57372529; Mónica Sobreira Nunes ; Viseu; Bordador Manual – Artesanato 
+41510376; Telma Monte Mascareñas ; Praia Da Vitória; Cavista – Indústria Hoteleira 
+45120802; Miranda Isa Gorjão ; Alenquer; Engenheiros Agrónomos e Engenheiros Técnicos Agrários 
+56753274; Diná Dourado ; Ponte De Lima; Enformador de Cones de Feltro de Lã (Cardador de Feltro) – Chapelaria 
+15855240; Irma Abel Cunha Santos ; Moimenta Da Beira; Operador de Sistema de Encolagem – Aglomerados de Madeira e Cortiça 
+58559710; Paulino Ornellas ; Torres Vedras; Produtores de Aves 
+75402047; Vilela Custódio Osório ; Sabugal; Delegado de Informação Médica 
+37043877; Fabiano Lagoa ; São João Da Pesqueira; Engenheiro de Minas – Minérios Não Metálicos 
+24214251; Walter Magali Quintanilla Prudente ; Cascais; Empregado de Biblioteca e Documentação 
+15679478; Cremilde Liana Imperial ; Redondo; Operador de Máquina de Manipular – Matérias Plásticas 
+32553782; Gertrudes Paloma Aguiar Homem ; Mira; Operadores de Máquinas de Fabricar Produtos Farmacêuticos e Cosméticos 
+64798788; Altina Agnes Cartaxo ; Amarante; Director – Construção Civil e Obras Públicas 
+59438703; Paula Gomide ; Almeirim; Outros Compositores e Montadores de Artes Gráficas 
+31303510; Alva Amado ; Santa Cruz; Trabalhador do Fabrico de Instrumentos Musicais de Percussão 
+33183805; Tito Festas ; Porto; Bailarino 
+41542093; Vágner Pereira Dourado ; Fundão; Advogados, Magistrados e Outros Juristas 
+35088144; Neli Tabosa Morais ; Valença; Biólogo – Especialista em Ecologia 
+10229002; Mariete Abílio Meneses ; Torre De Moncorvo; Radiotelegrafista (Operador Radiotelegrafista) – Navegação Aérea 
+70950632; Xênia Abel Penha ; Proença-A-Nova; Artesãos de Madeira, Tecido, Couro e Materiais Similares 
+61992487; Silvino Pascoal Galvão ; Arouca; Inspector do Trabalho 
+98646527; Belmira Rosinha Henriques Ramalho ; Vieira Do Minho; Programador – Informática 
+19492848; Aquiles Cássia Quintanilla França ; Viana Do Alentejo; Trintanário – Hotelaria 
+75398062; Adosinda Rangel ; Grândola; Agente de Desenvolvimento 
+41226140; Erico Villalobos ; São Vicente; Porteiro – Prédios Urbanos 
+90207850; Wilma Menezes Calçada ; Alcobaça; Outros Trefiladores e Estiradores 
+61235060; Jerônimo Meneses Linares ; Santarém; Operador de Vazamento Contínuo 
+80955684; Hortênsia Parafita Jardim ; Vila Nova De Foz Côa; Magistrado do Ministério Público 
+44767443; Máxima Ivete Velasques Poças ; Oeiras; Director e Gerente de Pensão ou de Residencial 
+75816465; Ania Poças Mont'Alverne ; Porto De Mós; Operador de Combustível 
+92510250; Eutímio Calvin Arantes Flores ; Albergaria-A-Velha; Engraxador 
+02931541; Neusa Michael Alencar Rebimbas ; Almeirim; Atarraxador Mecânico – Trabalho em Série dos Metais 
+29970632; Cândida Blanco Alcântara ; Funchal; Engenheiro Técnico Civil – Construção de Pontes 
+38735617; Cátia Narciso Zarco Grangeia ; Arcos De Valdevez; Operador de Forno de Fusão – Vidro 
+78069164; Dorisse Josafá Alvim ; Alvito; Outros Directores de Produção das Indústrias Transformadora e Extractiva 
+92615697; Cornélio Telles ; Sobral De Monte Agraço; Geólogos e Geofísicos 
+93739556; Ricarda Vilas Boas ; Amares; Servente Agrícola 
+28269035; Lúcio Bulhosa Mourato ; Penela; Árbitro Desportivo 
+89014005; Cremilde Monforte ; Praia Da Vitória; Polidores de Metais e Afiadores de Ferramentas 
+50726741; Manuel Cloe Caparica Vidal ; Alcoutim; Encarregado – Trabalhadores de Minas e Pedreiras 
+34600613; Cassandra Aponino Canejo ; Valpaços; Outros Ensaiadores e Outros Trabalhadores Similares 
+48630517; Djamila Azevedo Marmou ; Silves; Outros Operadores "Robots" Industriais 
+90146414; Josué Reino Quinzeiro ; Gavião; Fiscal Municipal 
+36506721; Margarete Hilton Villas Boas Machado ; Seixal; Outros Empregados Administrativos de Contabilidade e Trabalhadores Similares 
+19239199; Vilmar Assunção Mieiro ; Carregal Do Sal; Servente Agrícola 
+76401608; Pelágio Cremilde Neiva ; Póvoa De Varzim; Encarregado – Operadores de Máquinas de Imprimir – Artes Gráficas de Transformação de Pedras 
+09165371; Leonel Eanes ; Albergaria-A-Velha; Ajuntador (Juntador) 
+32603922; Paloma Genoveva Cartaxo ; Nordeste; Afagador – Madeiras 
+30878628; Josefa Quirino Penha ; Amares; Outros Estafetas, Distribuidores, Bagageiros e Trabalhadores Similares 
+13615755; Clóvis Bogalho Salles ; Penalva Do Castelo; Trefilador Manual 
+79742138; Thays/Taís Alcântara ; São Pedro Do Sul; Chefe de Partida (Director de Partida) – Casinos 
+47055149; Rogério Sandro Damazio ; Marco De Canaveses; Caneleiro 
+75287606; Bruna Anastácia Salgado Silveira  ; Ferreira Do Alentejo; Serralheiros Mecânicos e Trabalhadores Similares 
+50058144; Eleutério Elvira Nobre ; Tabuaço; Outros Especialistas da Medicina Tradicional 
+95890776; Cássia Isaura Simas ; Penamacor; Preparador de Amianto – Fibrocimento 
+73113055; Iracema Celso Travassos Santos ; Oliveira De Azeméis; Inspector da Segurança Social 
+86495985; Eva Quintella Quezado ; Évora; Veterinários 
+86057561; Dora Wagner Souto Maior Monte ; Maia; Gestor de Conta Bancária 
+92116398; Fabíola Jonas Alencar Damazio ; Lajes Do Pico; Operador de Instalação de Torrefacção de Café (Torrador de café) 
+42775066; Aurélia Arménio Lamego Viegas ; Esposende; Impressor Tipográfico 
+65290902; Wilton Evandro Veiga ; Lousada; Operador de Forno de Reaquecimento – Laminagem 
+71371030; Fausto Pereira Távora ; Moura; Calafate 
+43416901; Anita Luca Álvaro Sacadura ; Ourique; Técnicos de Electrónica e Telecomunicações
+50576325; Franklin Negrão ; Aveiro; Redactor Publicitário 
+33490000; Nero Fidalgo ; Constância; Escriturário – Apoio à Produção 
+50207417; Daniel Cavaco Ornelas ; Espinho; Trabalhadores Não Qualificados da Agricultura e Pescas 
+35058827; Nadina Queiroga Lustosa ; Lajes Das Flores; Engenheiro Civil – Planeamento do Território 
+78975692; Jacy Edna Freixo ; Miranda Do Corvo; Sacristão 
+17386261; Nara Josefa Guilheiro ; Tábua; Operador de Instalação de Fabrico – Rações para Animais 
+92689590; Simão Rosa Valente ; Figueiró Dos Vinhos; Operador de Máquina de Fabricar Tabaco Expandido 
+10216872; Eutímio Forte ; Ourém; Engenheiro Técnico Civil – Vias de Comunicação 
+81854203; Batista Foquiço Mascareñas ; Redondo; Médicos Dentistas 
+28441723; Fábia Larissa Oleiro Melo ; Aljezur; Outros Vendedores por Telefone e ao Domicílio 
+32765065; Vital Volney Palmeira ; Ribeira Brava; Preparador de Linóleo 
+06781280; Delores Fabíola Câmara ; Amarante; Desenhador Ilustrador 
+05866965; Adolfo Lissa Aires ; Sabrosa; Engenheiro Técnico Químico 
+22962569; Vanderley Natal Varejão ; Guimarães; Operador de Forno Intermitente – Cerâmica 
+04264994; Miriam Anastácia Arouca Sobral ; Madalena; Inspector das Finanças 
+52880766; Henrique Armando Viana ; Fronteira; Outros Reveladores e Impressores em Câmara Escura 
+11035363; Ludovico Flávia Natal ; Cabeceiras De Basto; Distribuidor 
+88343561; Salema Rebouças Matos ; Torres Vedras; Gravador Manual de Matrizes 
+09836719; Cibelli Sónia Raminhos Lustosa ; Ponta Do Sol; Colocador de Revestimentos 
+98354357; Hernâni Guedelha ; Salvaterra De Magos; Enformador – Lâminas Termoplásticas 
+65502067; Adérito Villas Boas Festas ; Évora; Outros Operadores de Tratamento Térmico de Metais 
+02639638; Adriana Jacy Rezende ; Madalena; Operador de Instalação de Fabrico – Farinha de Peixe 
+37962205; Greta Jesus ; Abrantes; Electromecânico de Elevadores e Aparelhos Similares 
+13631286; Nélia Camargo ; Santa Maria Da Feira; Outros Lapidadores e Gravadores de Vidro e Cerâmica 
+78201302; Ifigénia Duarte Laureano ; Fafe; Outros Directores de Recursos Humanos e Relações de Trabalho 
+90669908; Brandon Franca Canto ; Sardoal; Directores Gerais 
+08594274; Priscila Bernardo Feitosa ; Peniche; Desencolador de Seda 
+13493994; Honório Leocádia Taborda ; Velas; Outros Operadores de Gruas e de Outros Aparelhos de Elevação e Transporte 
+89226915; Cristiana Virgolina Rodrigues ; Barreiro; Outros Profissionais de Nível Intermédio dos Serviços Jurídicos 
+17164658; Teresa Leopoldo Dinis ; Santiago Do Cacém; Ajudantes Familiares 
+13503336; Leonardo Ramírez Robalinho ; Lagos; Outros Alfaiates, Costureiros e Chapeleiros 
+12603529; José Alda Bessa ; Sousel; Outros Gravadores e Fotogravadores de Artes Gráficas 
+77377051; Godofredo Octávio Goulart Faia ; Óbidos; Electromecânicos e Electricistas 
+85843524; Ilídio Taveiros Abreu ; Ourém; Engenheiro Técnico Civil – Higiene e Salubridade 
+19368676; Miguel Magali Ferrão Paz ; Vila Nova De Poiares; Operador de Máquina de Empastar Cartão 
+19966659; Obede Monjardim ; Rio Maior; Redeiro 
+26846822; Alícia Amado ; Pedrógão Grande; Director e Gerente – Comércio Grossista 
+68979160; Elaine Úrsula Aveiro ; Mafra; Técnicos de Robots Industriais 
+48525760; Violeta Péricles Gomide ; Marinha Grande; Analista de Sistemas – Informática 
+71889547; Virgínia Valdo Vieira Rego ; Évora; Trabalhadores Não Qualificados das Minas 
+16056240; Cordélia Odair Grilo ; Carrazeda De Ansiães; Palhaço 
+81147595; Wilma Efigênia Alancastre ; Maia; Arquivistas e Conservadores de Museus 
+17664823; Mauro Arminda Rivas Lage ; Reguengos De Monsaraz; Operador de Corte e Desbandagem – Vidro 
+27846156; Jade Ubiratã Mourão ; Monção; Soldador a Metal ou Solda Forte 
+16058804; Samara Ramos Felgueiras ; Ponta Delgada; Engenheiros Químicos e Engenheiros Técnicos Químicos 
+85547178; Amado Viviana Capistrano ; Gondomar; Operador de Enfornamento e Desenfornamento de Laminagem 
+64847050; Talita Semedo Pessanha ; Lamego; Operador Radiotelegrafista 
+14173935; Alba Melanie Paz ; Ovar; Técnico de Emprego 
+19544517; Edmundo Cidália Marmou Souto Maior ; Valongo; Operadores de Máquinas de Moagem
+02903077; Fernanda Vasconcelos Luz ; Santa Marta De Penaguião; Telefonista – Recepção e Emissão de Telegramas 
+85102292; Florival Graziela Robalinho ; Vila Velha De Ródão; Outros Polidores de Metais e Afiadores de Ferramentas 
+45559494; Florência Picanço ; Vidigueira; Engenheiros Químicos e Engenheiros Técnicos Químicos 
+23072014; Constantino Jussara Arantes Curado ; Mirandela; Farmacêutico 
+71724509; Altino Mauro Hernandes ; São Vicente; Outros Fotógrafos e Operadores de Aparelhos de Registo de Imagem e de Som 
+66062911; Aurora Severiano ; Espinho; Enformador – Lâminas Termoplásticas 
+78223279; Vinicios Frederica Moutinho ; Penafiel; Engenheiros Civis e Engenheiros Técnicos Civis 
+71221389; Caetana Siqueira Sotomayor ; Camara De Lobos; Empregados de Aprovisionamento e Armazém 
+80294594; Junia Edson Lago ; Corvo; Outros Artesãos de Artigos em Tecido, Couro e Materiais Similares 
+52681068; Basílio Lima ; Murtosa; Produtores de Aves 
+97326409; Tânia Victor Penha Lago ; Arronches; Professor de Educação Especial – Área da Deficiência Auditiva 
+21419793; Irma Rosália Gonçalves ; Paredes; Físico – Especialista em Acústica 
+86758632; Martinho Genoveva Carvalhais ; Monchique; Chefe de Banda 
+22414939; Anacleto Ifigénia Amarante Mendonça ; Vila Do Bispo; Construtor de Pneus 
+21475047; Milton Amado Torrado ; Castelo De Vide; Outros Directores e Gerentes de Restauração e Hotelaria 
+69053805; Abel Cássia Laranjeira ; Vila Viçosa; Outros Farmacêuticos 
+78781991; Rodrigo Délia Beiriz ; Seixal; Restaurador (Técnico de Restauro e Conservação) 
+68801156; Mário Lívia Galindo Lancastre ; Cadaval; Cravador-Joalheiro 
+25045229; Asdrúbal Neves Seixas ; Funchal; Lavador de Diamantes 
+69650181; Roberto Vitória Gorjão ; Penela; Animador Cultural 
+70655875; Josué Quental ; Porto Santo; Barman (Empregado do Serviço de Bebidas) 
+73672649; Adauto Canadas Modesto ; Amadora; Manequins e Outros Modelos 
+89553706; Vidigal Dúnia Mansilha Castel-Branco ; Palmela; Provador de Vinhos 
+94003088; Celeste Salomão Muniz ; Abrantes; Vidraceiro – Colocador 
+40186266; Ilídio Nancy Caldas Ourique ; Óbidos; Operadores de Máquinas e Trabalhadores da Montagem 
+45914358; Déia Ramallo Correia ; Caldas Da Rainha; Moldador-Prensador de Botas de Borracha 
+82846509; Dário Capucho ; Peniche; Engenheiros Agrónomos e Engenheiros Técnicos Agrários 
+64812220; Artur Cunha ; Manteigas; Montador de Artigos em Madeira e Matérias Similares 
+19992210; Nicole Durão ; Ourém; Professor de Educação Especial – Área da Deficiência Mental 
+84629083; Ieda Cláudia Taveiros Mota ; Cinfães; Gravador Manual – Processos Químicos 
+38690025; Nélida Mafalda Marreiro Sousa do Prado ; Vila Verde; Operador de Máquina de Fabricar Sobrescritos e Sacos de Papel 
+19746884; Dorotéia Antas Brandão ; Ribeira De Pena; Electromecânico de Frio (Electromecânico de Refrigeração e Climatização) 
+78231971; Evaldo Durval Saraiva Covinha ; Maia; Pintor de Arte 
+59975658; Yara Arlete Monteiro ; Santa Comba Dão; Assentador de Manilhas de Grés e Cimento 
+03371063; Dinora Joana Anlicoara ; Amares; Electricista da Construção Civil 
+54595247; Arcelino Odete Caneira Castello ; Viana Do Alentejo; Contabilistas 
+57990848; Armando Alexandra Mendoça ; Ponta Do Sol; Redactor Técnico 
+23393921; Marisa Aguiar Robalinho ; Beja; Penhorista (Prestamista) 
+11568085; Aura Ventura ; Machico; Técnico de Reeducação 
+33281330; Aldara Victor Valentim Nogueira ; Terras De Bouro; Operador de Máquina de Facear 
+86929393; Glaucia Bernardo Nolasco ; Trofa; Técnico de Óptica Ocular 
+54708069; Rosa Berta Vilaverde ; Faro; Operadores de Instalações de Produção de Energia 
+67223365; Darcy Magali Jorge ; Santa Cruz Da Graciosa; Chefe ou Regente de Orquestra
+09307417; Conceição Roberto Fraga ; Ribeira Grande; Operador de Fabrico – Queijo Fundido 
+52782877; Fernanda Curvelo Monsanto ; Castro Daire; Motorista – Pesca do Largo 
+49872160; Leocádio George Brum Bairros ; Tondela; Operador de Produção Térmica 
+34302665; Isis Núria Cardim Sant'Anna ; Porto; Inspectores da Segurança Social 
+46397401; Lourenço Dinis Paes  Zarco ; Celorico Da Beira; Operador de Adegas de Guarda – Cerveja 
+77829471; Inês Vágner Leiria Velázquez ; Faro; Inspectores e Técnicos Agrários e Florestais 
+19459353; Cornélia Milton Chamusca Canedo ; São João Da Madeira; Forjador – Martelo Pilão 
+93274851; Alexandre Márcio Muxagata ; Anadia; Fundidor de Material Tipográfico 
+35642344; Hamilton Mattozo Naves ; Vila Verde; Outros Directores de Serviços Informáticos 
+22598004; Nélson Lorena Amaro Sobreira ; Castro Verde; Operador de "Rand-Weber" 
+62757625; Odete Amaral ; Montemor-O-Novo; Inspector de Educação 
+06715004; Lilian Cotrim ; Santiago Do Cacém; Operador de Estação de Descoloração (Filtrador de Xarope) Açúcar 
+01156285; Lucrécia Valido Cortesão ; Vila Nova De Poiares; Desinfectador (Agente Sanitário) 
+27480438; Serena Dutra ; Vila Franca De Xira; Operador de Máquina de Revestimento – Artigos de Cortiça 
+24954533; Rute Odete Remígio Barrocas ; Figueiró Dos Vinhos; Montador de Cabos 
+89154444; Gerson Alvim Vilas Boas ; Alcochete; Imunologista 
+59335512; Laurinda Belmira Loio ; Penacova; Macheiro Mecânico 
+65137239; Quixote Jonathan Vasques ; Castelo De Paiva; Encarregado – Gravação e Fotogravação – Artes Gráficas 
+57229316; Jade Cornélia Caldas Seixas ; Vale De Cambra; Físico – Especialista em Electricidade e Magnetismo 
+91651177; Áurea Ariela Rêgo Ventura ; Odivelas; Cravador-Joalheiro 
+01564629; Tomás Rogério Sarmento Vilaça ; Tarouca; Director de Publicidade 
+11927526; Hernâni Olívia Matos Oleiro ; Melgaço; Mecânico – Reparador de Aparelhos e Antenas de Rádio e TV 
+09329739; Gabriela Armanda Morão ; Lousã; Ajudante de Motorista – Marinha Mercante 
+95203640; Nídia Guilherme Mesquita Pinhal ; Oliveira Do Bairro; Outros Operadores de Máquinas de Preparação de Peles e Couro 
+62269066; Manuela Aguinaldo Fitas Villalobos ; Vila Franca De Xira; Operador de Máquinas do Fabrico de Escovas, Vassouras e Pincéis 
+78661939; Isis Freiria ; Beja; Engenheiro Electrotécnico 
+68520000; Justina Virgolino Furtado ; Vila Franca De Xira; Operários, Artífices e Trabalhadores Similares 
+59027989; Jesus Paes  Cipriano ; Oleiros; Outros Carregadores e Descarregadores de Mercadorias 
+71185050; Leôncio Anita Bencatel Santarém ; Nazaré; Outros Trefiladores e Estiradores 
+73441365; Rafael Liberato ; Marvão; Vendedores e Demonstradores 
+83728134; Juliana Magali Barateiro ; Borba; Outros Directores de Restauração e Hotelaria 
+88280589; Rosa Bicalho ; Calheta; Aquacultor 
+03343848; Lucas Florbela Vigário ; Vizela; Cabo de Varandas 
+31897233; Abraão Dinarte Castelão ; Vieira Do Minho; Técnico de Manutenção – Electricidade 
+48236977; Arminda Valadares Malta Teves ; Beja; Técnicos de Diagnóstico e Terapêutica 
+96578418; Idalécio Castilho Lousã ; Baião; Outros Condutores de Máquinas de Escavação e Terraplanagem 
+29401484; Aníbal Monteiro ; Oeiras; Operador de Equipamento Portuário 
+77468923; Leónidas Olivera Vilas-Boas ; Caminha; Modelador 
+39895618; Isilda Santos ; Monção; Médico Cirurgião – Cirurgia Maxilo-Facial 
+12357976; Alda Raul Lobato Gois ; Porto; Xerógrafo 
+86727241; Marcelo Vilma Meirelles ; Tomar; Arquitecto 
+35169562; Virgílio Carvalhosa Farias ; Portalegre; Ladrilhador (Azulejador) 
+25273104; Filomena Quinteiro ; Peso Da Régua; Outros Desenhadores e Trabalhadores Similares 
+11266394; César Madureira ; Vila De Rei; Montador de Cabos – Alta e Baixa Tensão 
+78095365; Aquiles Teves Dâmaso ; Tábua; Estaticista 
+88200676; Orlanda Macieira ; Sines; Tintureiro – Produtos Têxteis 
+74353254; Lita Priscilo Rodrigues ; Portimão; Preparadores de Fibras 
+79497971; Dóris Edelmiro Mattozo Guedelha ; Anadia; Outras Costureiras, Bordadores e Trabalhadores Similares 
+36364716; Asdrúbal Emanuela Sales ; Estremoz; Decorador de Espaços Comerciais 
+47774831; Telmo Mieiro Quintais ; Sousel; Operador de Saca-Bocados 
+83394275; Hipólito Aparecida Muniz Barros ; Lourinhã; Torneiro Mecânico 
+24591001; Melanie Viveiros ; Alijó; Operadores de "Robots" Industriais 
+38334392; Ilídio Bárbara Motta Teixeira ; Vila Velha De Ródão; Preparadores de Fibras 
+47849256; Keila Melgaço ; Albufeira; Escatelador Mecânico 
+81547500; Ania Malafaia Laureano ; Vouzela; Lapisador – Lápis de Lousa 
+62356568; Betânia Mafra Sobral ; Tabuaço; Afinadores – Operadores de Máquinas Ferramentas 
+77761659; Levina Mascarenhas Canário ; Póvoa De Varzim; Operador de Máquina de Moer Açúcar – "Icing Sugar" 
+41387813; Atanásio Monjardim Mello ; Mondim De Basto; Oficial de Tráfego – Transportes Aéreos 
+01204456; Renan Atanásio Valim Castilhos ; Leiria; Operador de Máquinas do Fabrico de Artigos – Cortiça e Madeira 
+25686427; Pamela Infante ; Corvo; Operador de Instalação Automática de Preparação de Pasta – Cerâmica 
+85492302; Adão Caetano Amarante ; Estremoz; Oleiros, Trabalhadores do Fabrico de Abrasivos e Trabalhadores Similares 
+55129718; Constantino Lília Palhares Cardim ; Arcos De Valdevez; Engenheiros Químicos e Engenheiros Técnicos Químicos 
+87041655; Ivete Pamela Zagallo Damascena ; Arraiolos; Enformador (Operador de Vaporizador de Abas) 
+66501868; Salomão Penha ; Trofa; Operador de Instalação de Estufagem – Arroz 
+90490855; Péricles Dagmar Bonilha ; Estremoz; Técnico do Ambiente 
+94320992; Júlio Brígida Guedes ; Ribeira Brava; Inspector de Turismo 
+79692998; Érica Correia ; Penacova; Escultores, Pintores e Outros Artistas Similares 
+92377073; Josélia Núria Grilo Rico ; Peso Da Régua; Pescador – Pesca de Subsistência 
+50403182; Óscar Dário Patrício ; Lisboa; Montador de Gravuras 
+42986950; Nisa Dutra ; Fafe; Trintanário – Hotelaria 
+79942188; Xavier Noémia Moreno Caiado ; Penalva Do Castelo; Operador de Britadeira 
+79386378; Douglas Alvim ; Reguengos De Monsaraz; Pessoal dos Serviços e Vendedores 
+63514938; Obede Arménio Naves Braga ; Lamego; Empregados de Biblioteca, Carteiros e Trabalhadores Similares 
+56707413; Cátia Roriz Souto Maior ; Pombal; Operador de Instalação Automática de Moldar Chapa – Fibrocimento 
+24996976; Claudino Quintela ; Alijó; Vinagreiro 
+28937531; Valentino Constança Fortunato ; Mealhada; Operador de Máquina de Gravar Cilindros – Gofragem e Impressão 
+75969840; Abigail Brandão ; Mangualde; Operador de Máquina de Fabricar Tabaco Expandido 
+93985554; Bonifácio Olivera Cipriano ; Ferreira Do Zêzere; Operador de Máquina de Cunhagem e Impregnação – Fósforos de Carteira 
+58769450; Vanda Lagos ; Beja; Técnicos de Diagnóstico e Terapêutica 
+17691061; Honória Fogaça ; Castanheira De Pêra; Inspector de Turismo 
+13065978; Aldina Daniel Ávila ; Almada; Operador de Máquina de Moer Açúcar – "Icing Sugar" 
+68891161; Adalberto Paula ; Lajes Das Flores; Arquitectos e Urbanistas 
+78197764; Márcia Granja ; Vila Nova Da Barquinha; Cantoneiro de Rega 
+38913687; Gabriela Laurentina Rangel Caldeira ; Vouzela; Figurinista 
+59293970; Nuno Capistrano ; Odivelas; Técnico de Manutenção 
+44087050; Ferdinando Silveira  ; Machico; Operador de Controlo – Refinação de Petróleo e Gás 
+37900865; Filipa Anlicoara ; Mirandela; Encarregado – Tratamento Térmico de Metais 
+95695324; Honória Lino Ramallo Keil do Amaral ; Oliveira Do Hospital; Operador de Preparação – Yogurte 
+69226978; Fausto Castello Meireles ; Alcácer Do Sal; Salsicheiro 
+83404257; Amador Curado Espargosa ; Ourique; Misturador – Perfumes 
+11534851; Heloísa Abílio Albernaz Murtinho ; Marinha Grande; Manequins, Vendedores e Demonstradores 
+54933491; Óscar Proença Brites ; Golegã; Engenheiros Geógrafos e Hidrógrafos 
+13414039; Milton Jocosa Cavadas ; Oliveira De Azeméis; Director e Gerente da Indústria Alimentar 
+04414084; Firmino Frederica Canedo Tomé ; Vila Do Porto; Maçariqueiro 
+99131642; Agnes Arminda Prates ; Vila Do Conde; Outros Fisioterapeutas e Profissionais Similares 
+12459133; Arcelino Noémia Braga ; Esposende; Toureiro 
+25218094; Batista Dalva Botelho ; Salvaterra De Magos; Outros Artesãos de Artigos em Tecido, Couro e Materiais Similares 
+52184227; Cinara Sérgio Laureano ; Campo Maior; Plissador Mecânico 
+47572280; Ângela Joel Damasceno Negrão ; Porto; Advogados, Magistrados e Outros Juristas 
+89161567; Eleutério Guilheiro Lago ; Armamar; Polidor (Operador de Máquina de Polir) – Aglomerados de Cimento 
+36376773; Caio Dagmar Assunção ; Reguengos De Monsaraz; Operador de Moinho – Desperdícios de Massas Alimentícias 
+89960222; José Pimentel ; Pedrógão Grande; Vendedores de Quiosque e de Mercados 
+85412932; Silvéria Sara Torcuato Quirino ; Portimão; Pescador – Pesca Local e Costeira 
+35210687; Sabrina Gustavo Malheiro Botica ; Barcelos; Operador de Adegas de Guarda – Cerveja 
+64930203; Inês Caetana Parreira Cedro ; Almodôvar; Impressor – Prensa de Contacto 
+80232623; Marcelo Doutel ; Terras De Bouro; Empregado de Serviços de Pesagem (Pesador) 
+92663721; Adão Orriça Prudente ; Sernancelhe; Inspector de Qualidade – Explosivos 
+40544008; Urraca Olivares Imperial ; Mêda; Prensador (Operador de Prensa Automática) – Aglomerados de Cimento 
+32587608; Blenda Olaio Granja ; Sabugal; Fundidor de Material Tipográfico 
+52461438; Hernâni Boaventura Quinzeiro ; Castro Daire; Condutor 
+21618268; Odete Jácome ; Murça; Outros Agentes de Seguros 
+13808296; Célia Quezado ; Alcoutim; Revestidor Manual 
+10385713; Salema Adérito Covinha ; Corvo; Vendedores de Quiosque e de Mercados 
+09897780; Diva Heitor Marreiro Fragoso ; Bombarral; Operador de Cabine de Comando – Laminagem 
+63875441; Lisandra Outeiro Caparica ; Elvas; Outros Inspectores da Polícia Judiciária e Detectives 
+06155886; Faustina Roriz Pimentel ; Valongo; Folheador 
+27146618; Eustácia Agnete Nazário ; São João Da Pesqueira; Condutor de Máquinas – Minas 
+73950038; Adelino Nívia Alvarenga ; Vila Verde; Operador de Máquina de Bate-Estacas 
+28600490; Viviana Paixão Pederneiras ; Palmela; Outros Directores e Gerentes de Empresas de Mediação e Prestação de Serviços 
+07754086; Ilda Pilar Afonso ; Nisa; Mecatrónico 
+82500605; Aníbal Noguera Pedro ; Oliveira Do Bairro; Empregado de Balcão 
+48104726; Roberto Covelhã ; São Vicente; Engenheiro Técnico Civil – Construção de Aeródromos 
+52082505; Rosa Talhão ; Sintra; Operador de Fabrico – Massas para Gelados 
+85403927; Orlando Solange Cidreira Britto ; Castro Verde; Peleiros e Trabalhadores Similares 
+33941098; Antenor Áurea Coitinho Carvalho ; Baião; Encarregado – Composição e Montagem – Artes Gráficas 
+96345534; Nazário Valério Paes  ; Cabeceiras De Basto; Outros Manequins e Outros Modelos 
+35233666; Antónia Veríssimo ; Estarreja; Condutor de Máquinas Agrícolas 
+98690709; Mara Miriam Fontes ; Tondela; Vigilantes, Assistentes Médicos e Trabalhadores Similares 
+53173067; Loide Amável Mena Borges ; Ourém; Provadores e Seleccionadores de Produtos Alimentares e Bebidas 
+50271225; Filomena Glória Gusmão Souto Maior ; Albufeira; Curtidores, Preparadores e Acabadores de Peles e Trabalhadores Similares 
+26978968; Helga Daniel Zagallo Rebimbas ; Lagos; Condutor de Máquinas – Minas 
+57933151; Edmundo Grande ; Arganil; Encarregado – Fabrico de Papel 
+70477291; Manuelina Reis ; Águeda; Operador de Máquina de Abrir Malha 
+64189374; Elvira Branca Grilo ; Odivelas; Maquinista de Tecelagem (Agulhador) de Feltro 
+55993370; Junia Custódio ; Vouzela; Conserveiro de Peixe 
+96378516; Alberta Macieira ; Boticas; Coreógrafo 
+18055189; Maristela Plácido Vilalobos ; Loures; Vendedores de Quiosque e de Mercados 
+62118267; Cristiana Augusta Castelo Branco Betancour ; Resende; Cabo de Varandas 
+37448966; Maurício Nogueira ; Gavião; Produtor Cinematográfico 
+53400722; Carlota Ramalho Pequeno ; Vila Nova Da Barquinha; Filtrador de Pasta – Cerâmica 
+93139707; Maura Naum Salazar ; Porto De Mós; Operador de Linha de Fabrico de Pólvora 
+30427450; Cesário Boga Curvelo ; Mação; Cavaleiro Tauromáquico 
+93743869; Dulce Vaz Vaz ; Sertã; Médico Cirurgião – Cirurgia Cardiotoráxica 
+88220257; Natércia Terra Dorneles ; Alcochete; Enformador – Lâminas Termoplásticas 
+74107283; Ifigénia Deolinda Andrade Sacramento ; Santa Comba Dão; Inspector das Actividades Económicas 
+87799896; Nilton Damião Milheiriço Mata ; Aguiar Da Beira; Operador de Instalação Automática de Estirar Vidro 
+87436834; Luisa Lampreia ; Montemor-O-Novo; Outros Engraxadores e Trabalhadores Similares 
+97445014; Hirondina Rogério Dourado ; Fundão; Técnicos de Relojoaria 
+39503971; Emanuela Berta Quinzeiro Bencatel ; Reguengos De Monsaraz; Telefonista – Central Telefónica Privada 
+44912327; Nídia Barcelos Iglesias ; Reguengos De Monsaraz; Operador de Betoneira 
+53446887; Nei Melinda Anlicoara ; Moura; Assistente de Exploração – Cinema e Televisão 
+47380478; Cleusa Fedra Quinaz ; Vale De Cambra; Operador de Máquina de Polir Ácido – Vidro 
+69049224; Dana Alves ; Tarouca; Outros Sondadores 
+60965202; Quixote Leopoldina Aguiar ; Aljezur; Recepcionista, em Geral 
+83215694; Célia Campos Dourado ; Lousada; Geofísico 
+70639112; Brígida Leonel Muniz ; Évora; Electricista de Redes – Distribuição de Energia Eléctrica 
+42953497; Cremilda Paula Sousa ; Santiago Do Cacém; Operador de Instalação de Betonagem 
+00376963; Rosana Lagos ; Miranda Do Douro; Assentador de Manilhas de Grés e Cimento 
+89552841; Timóteo Vidal Avellar ; Alfândega Da Fé; Lavador – Artigos de Cortiça 
+36191073; Neiva Custódia Grillo Guilheiro ; Torre De Moncorvo; Marcador de obra – Vidro 
+21836304; Liane Maria Landim Matta ; Figueiró Dos Vinhos; Contramestre Pescador – Pesca do Largo 
+03006964; Dúnia Evelise Vilar Betancour ; Sabrosa; Lavador de Peles 
+41798333; Ludovico Cinara Leiria Portugal ; Amadora; Outros Escultores, Pintores e Outros Artistas Similares 
+38932041; Máximo Joyce Brião ; Valença; Enformador de "Pré-Fabricados" – Alvenaria 
+22733587; Esdras Rosinha Sabala ; Torres Vedras; Montador de Peças ou Órgãos Mecânicos, em Série 
+15718795; Anderson Mata Valadão ; Ponte Da Barca; Compositor Musical 
+74754693; Nicia Dúlio Parente ; Lousada; Encarregado de Lavandaria (Roupeiro) 
+81111558; Benedito Vasco Carqueijeiro Rico ; Amares; Operador de Máquina de Descasque de Cacau 
+41171088; Lorena Fiães Campos ; Valongo; Conserveiros de Frutas, Legumes e Similares 
+65379245; Salvador Monte ; Almeirim; Engenheiro Técnico de Electrónica e Telecomunicações 
+31524904; Olavo Alancastre ; Castelo De Paiva; Condutor de Máquina Arrastadora "Dragline" 
+19796945; Eleutério Nelma Sá ; Miranda Do Douro; Embutidor 
+58490369; Álvaro Noronha ; Vila Nova De Gaia; Serrador 
+26179565; Azaléia Renata Veloso ; Vila Do Porto; Operador de Misturadora – Pudins e Fermentos 
+46777422; Acúrcio Malvina Fragoso ; Miranda Do Corvo; Cantor 
+97913387; Dória Brião ; Peniche; Conservador do Registo Predial 
+05535935; Nilda Isaías Godoi ; Lousã; Roupeiro 
+60723554; Cinara Olívio Caetano ; Proença-A-Nova; Outros Vendedores Ambulantes – Produtos Não Comestíveis 
+90466607; Rogério Neusa Azevedo Henriques ; Vila Nova De Poiares; Médico Dermatologista 
+70718844; Nilson Espargosa Barcelos ; Vila Do Conde; Directores de Construção Civil e Obras Públicas 
+38202328; Dalila Almeida Belchior ; Salvaterra De Magos; Estufeiro – Produtos Alimentares 
+57017147; Lia Silvana Amaro Avellar ; Ribeira Grande; Bagageiro 
+70738941; Rosário Boga Meneses ; Alenquer; Montador de Anúncios 
+65844891; Aníbal Elias Melancia ; Mondim De Basto; Experimentador – Explosivos 
+76435736; Teófilo Penteado ; Figueira Da Foz; Outros Directores de Publicidade e Relações Públicas 
+27212438; Calebe Telinhos ; Braga; Controlador de Qualidade – Metalomecânica 
+79228068; Kelvin Alencar Canedo ; Arruda Dos Vinhos; Codificadores, Revisores de Provas e Similares 
+67843384; Lissa Glena Bivar ; Mafra; Director de Informática 
+25182173; Mavilde Fabrício Letras ; Portel; Operador de Instalação do Fabrico de Fibras Sintéticas 
+34864682; Henrique Granjeiro ; Estarreja; Outros Tecelões de Teares Manuais e Trabalhadores Similares 
+95044885; Júlia Laureano ; Beja; Físico – Especialista em Matéria Condensada 
+34308247; Tânia Domingos Prada ; Arganil; Director de Empresa de Pescas 
+13559998; Filipe Gravato Júdice ; Paredes De Coura; Coreógrafo 
+35667704; Margarete Iglesias Sesimbra ; Fornos De Algodres; Operador de Máquina de Triturar Madeira 
+84177520; Elisabete Nei Azevedo ; Peso Da Régua; Fiscal de Instalações Eléctricas e Telefónicas 
+19882649; Heloísa Adelina Negreiros Saldanha ; Valongo; Técnico da Produção 
+10604387; Hugo Atílio Marques ; Campo Maior; Funileiro – Latoeiro 
+01125087; Salema Rijo Infante ; Paços De Ferreira; Outros Quadros Superiores da Administração Pública 
+13756072; Guilhermina Miera ; Baião; Foscador – Vidro 
+75137520; Elton Pardo ; Batalha; Trabalhador de Recepção de Tomate 
+41499742; Sandra Iolanda Rego Gentil ; Oliveira De Frades; Encenador 
+48291277; Octávio Maior Quinterno ; Lousada; Engenheiro Técnico de Informática 
+65680218; Quirina Sotomayor Silveira  ; Castro Marim; Outros Pintores e Decoradores de Vidro, Cerâmica e Similares 
+78275971; Karen Dânia Filgueiras Carqueijeiro ; Lousã; Montador de Estores (Instalador de Estores) 
+06000013; Adorinda Milheiro Baía ; Carrazeda De Ansiães; Cerzidor de Tecidos e Malhas
+03744477; Óscar Simão Rodrigues ; Mealhada; Carteiros e Trabalhadores Similares 
+57012536; Carmo Silveira  ; Pinhel; Chefe de Vinhos, "Sommelier" 
+11720760; Lisandro Resende Fragoso ; Almeida; Serrador Mecânico 
+21653877; Plácido Quintais ; Aguiar Da Beira; Radiotelegrafista (Operador Radiotelegrafista) – Instalação em Terra 
+67138805; Alessandra Joyce Delgado Mieiro ; São Roque Do Pico; Outros Carregadores de Fogo 
+02011367; Maísa Mauro Vilaverde Godoi ; Entroncamento; Plissador Mecânico 
+99837411; Valdemiro Nascimento Abrantes ; Torres Novas; Operador de Máquina de Formatar – Pasta para Papel 
+90900115; Jonathan Cascais ; Sever Do Vouga; Lavador de Fazenda 
+95028148; Cláudia Melissa Liberato ; Cinfães; Operador de Digestor e Difusor – Pasta para Papel 
+57443732; Idalina Melancia Dotel ; Alcácer Do Sal; Amolador de Cutelaria 
+92876046; Miracema Tatiana Vilariça ; Montijo; Profissionais de Nível Intermédio dos Serviços Jurídicos 
+27587253; Flávia Carmen Meireles ; Funchal; Angariador de Seguros 
+58464675; Apolónia Thomé ; Vila Nova De Poiares; Jogador Profissional de Ténis 
+10802454; Fabrício Jorge Rodríguez Quezado ; Torres Vedras; Operador de Máquina de Gravar Cilindros – Rotogravura 
+20242046; Adorinda Carmona Lins ; Macedo De Cavaleiros; Outros Cabeleireiros, Esteticistas, Massagistas e Trabalhadores Similares 
+19395604; Fabiano Monjardim Maltez ; Ribeira Grande; Operador de Destilação – Rectificação – Bebidas 
+47195657; Guilherme Feijó ; Lagoa; Operador de Máquinas – Pedreiras (Trabalhador de Pedreiras) 
+17819692; Lucília Valentina Castelão ; Oliveira Do Bairro; Prospector de Vendas 
+20170511; Énio Simão Lins Freixo ; Vila Do Bispo; Estofadores, Colchoeiros e Trabalhadores Similares 
+18175226; Daniel Valério Marins ; Almodôvar; Outros Caixas e Bilheteiros 
+54573217; Xênia Violeta Oliveira ; Almeida; Electromecânico 
+06996269; Marisa Francelina Frota Negromonte ; Vila Pouca De Aguiar; Pasteleiro 
+33424213; Elaine Grande Mora ; Arganil; Encenador 
+88900847; Ademar Castelão ; Elvas; Desenhador Criador Industrial 
+02112508; Pelágio Moacir Canedo Raposo ; Ferreira Do Zêzere; Operador de Máquina Automática de Fabrico de Ampolas – Vidro 
+81807931; Luisa Nestor Reino ; Trofa; Outros Estafetas, Distribuidores, Bagageiros e Trabalhadores Similares 
+32114566; Celso Cedraz Quinaz ; Murça; Decapador por Processos Químicos 
+13235394; Anastácio Jacy Quintanilla ; Faro; Raspador (Lixador) 
+07167538; Iara Furquim ; Gavião; Montador de Linhas Telefónicas e Telegráficas 
+76983814; Tomé Anastácio Queirós Conceição ; Serpa; Montador de Gravuras 
+84629847; Gertrudes Asdrúbal Martinho Bonilha ; Calheta; Operador de Caldeiras a Vapor (Fogueiro de Caldeiras a Vapor) 
+26665788; Flávio Nilton Mirandela Pais ; Vila Nova Da Barquinha; Outros Técnicos de Electricidade 
+42319415; Estrela Marins Galindo ; Mesão Frio; Biólogo – Especialista em Botânica 
+12049697; Honório Aveiro Vilar ; Guimarães; Inspectores da Segurança Social 
+92459653; Jesabel Serpa ; Aguiar Da Beira; Torneiro-Rectificador – Borracha 
+55440295; Daniela Melissa Infante Cesário ; Machico; Montador de Anúncios 
+66264670; Teresa Julieta Modesto Sabrosa ; Montalegre; Técnico de Emprego 
+72026928; Geraldo Café ; Vila Pouca De Aguiar; Dobrador Manual – Encadernação 
+91268659; Rômulo Sousa do Prado Barroqueiro ; Alvaiázere; Operador de Máquina de Triturar Madeira 
+92188974; Roberto Maurícia Farias Torcato ; Fornos De Algodres; Porteiro – Hotelaria 
+86099623; Luana Noite ; Montijo; Encarregado – Fabrico de Produtos Lácteos 
+30615844; Cíntia Capistrano ; Fronteira; Vidraceiro – Cortador de Bancada 
+81956432; Cibelli Luzia Silveira  ; Cantanhede; Programador – Informática 
+70478097; Azaléia Blenda Picão ; Lisboa; Operador de Máquina de Cunhagem e Impregnação – Fósforos de Carteira 
+53399526; Laura Marieta Vigário Bouça ; Alandroal; Calandrador 
+66821314; Irina Pontes Novais ; Fronteira; Carpinteiro de Selas 
+15555100; Nestor Armindo Teves Cidreira ; Calheta De São Jorge; Trabalhadores da Preparação do Tabaco 
+59809388; Clodoaldo Nadina Canedo Barroqueiro ; Cartaxo; Moleiro – Moinho de Vento ou Água 
+43679523; Gustavo Lucília Soares ; Vidigueira; Repassador 
+74001233; Noémia Irma Ximenes Prates ; Arganil; Operador de Instalação de Moldagem de Plásticos 
+00129451; Fabrício Carvalhoso Monforte ; Águeda; Operador de Cabine de Comando – Laminagem 
+15037285; Carlos Heitor Milheiriço Mendonça ; Estarreja; Trabalhador do Fabrico de Instrumentos Musicais de Percussão 
+74195161; Martina Honório Martins ; Almeirim; Entalhador 
+29367501; Agnete Canadas Gentil ; Almada; Operador de Extracção – Óleos Alimentares 
+86250258; Kelvin Matoso Vieira ; Penedono; Recepcionista de Hotel 
+00881231; Glaucia Idalina Custódio Carrasco ; Valpaços; Xerígrafo (Xerógrafo) 
+51208203; Isabel Mascarenhas ; Caldas Da Rainha; Engenheiro Civil – Planeamento do Território 
+34041289; Norma Malheiros ; Castro Marim; Engenheiro Civil – Construção de Aeródromos 
+29409404; Neide Valesca Flores ; Murtosa; Engenheiro Civil – Construção de Estradas 
+52907223; Consuela Sobral Mendoça ; Óbidos; Trabalhadores da Pesca – Pesca do Largo 
+34646707; Áurea Helena Osorio Quintella ; Almeida; Chefe de Movimento – Transportes Rodoviários 
+59932747; Heidi Avellar ; Ourém; Operador de Condicionamento de Ar 
+08239945; Rafaela Rosmaninho Farinha ; Lousã; Retocador Manual 
+93444655; Adriano Sofia Rebelo Reis ; Vila De Rei; Outros Reveladores e Impressores em Câmara Escura 
+25883914; Rebeca Getúlio Martins ; Vila Nova De Gaia; Trabalhadores da Pesca – Pesca do Largo 
+71800173; Isa Máxima Estrada ; Gondomar; Chefe de Estação – Correios 
+66042868; Augusta Florival Mata ; Vinhais; Estofador de Viaturas 
+82162540; Rômulo Dinora Blanco ; Portalegre; Cesteiro – Artesanato 
+04214723; Ezequiel Canejo Paes  ; Guarda; Físico – Especialista em Acústica 
+96395627; Graziela Maranhão Franco ; Moura; Outros Profissionais de Nível Intermédio dos Serviços Jurídicos 
+94985633; Marta Leme ; Mirandela; Operador de Extracção – Óleos Alimentares 
+11263128; Adauto Lopes ; Povoação; Tecelões de Teares Manuais e Trabalhadores Similares 
+51604388; Anaísa Virgolino Alvim Pedrozo ; Madalena; Bombeiro, em Geral 
+46349286; Vasco Anastácia Quental Pedro ; Soure; Operador de Instalação de Fabrico – Rações para Animais 
+75713101; Alva Tomé ; Setúbal; Engenheiro Técnico de Minas 
+28826009; Vágner Lucena ; Lajes Do Pico; Outros Empregados dos Serviços de Transportes 
+42491533; Délia Calisto Norões Milheiriço ; Odivelas; Enchedor de Bonecos de Pano 
+95207980; Felicia Sidónio Lencastre ; Lajes Do Pico; Contínuo (Auxiliar de Apoio Administrativo) 
+20085237; Quirino Ifigénia Viveiros Coelho ; Peniche; Outros Trabalhadores do Tratamento e Preparação de Madeiras e Cortiça 
+97986412; Edelmiro Viviana Vilas Boas Nolasco ; Guarda; Colador Manual 
+31002915; Rodrigo Pires Aquino ; Idanha-A-Nova; Bordador Manual de Tapeçaria 
+08277630; Guilhermina Caires ; Belmonte; Operador de Máquina de Embalagem – Produtos Lácteos 
+71681021; Ismael Gorjão ; Setúbal; Vendedor Ambulante – Produtos Comestíveis 
+71779447; Íris Violeta Campelo Paes  ; Idanha-A-Nova; Técnico de Vendas 
+19953120; Georgina Bouças Sintra ; Fafe; Engraxador 
+40296090; Graça Lagos Carmo ; Póvoa De Varzim; Fundidor de Convertidor 
+54428790; Sandro Anderson Ramos Lagoa ; Penedono; Profissionais de Nível Intermédio dos Serviços Jurídicos 
+86894760; Rosário Dânia Jordão Regueira ; Sines; Preparador de Montagem – Calçado 
+32250553; Ilídio Oleiro ; Vila Nova De Foz Côa; Outros Agentes Funerários e Trabalhadores Similares 
+21733094; Caetana Raposo Lage ; Mira; Operador de Tratamento Térmico de Metais 
+11369041; Cibelli Feitosa Sintra ; Borba; Estampador Manual – Têxteis 
+74882850; Lis Cinara Nascimento Porto ; Évora; Prensador Manual – Vidro 
+35334908; Alícia Olívia Félix ; Funchal; Contínuo (Auxiliar de Apoio Administrativo) 
+05790827; Consuelo Péricles Monjardim ; Arganil; Outros Trabalhadores do Fabrico de Produtos Lácteos 
+14646727; Lilian Soto ; Vila Nova De Foz Côa; Fisioterapeutas e Profissionais Similares 
+43545759; Isabel Linda Noguera Lucena ; Moimenta Da Beira; Engenheiro de Minas – Hidrologia Subterrânea 
+87405974; Cloe Alma Rijo Marques ; Condeixa-A-Nova; Polidor (Envernizador) – Madeira 
+49803733; Quirina Rebouças ; Oliveira De Frades; Motorista Marítimo 
+43822825; Francisco Frederico Regalado Vaz ; Esposende; Agricultor – Árvores de Fruto e Videiras 
+03432999; Milene Novais ; Praia Da Vitória; Reparadores de Aparelhos Receptores de Rádio e TV 
+54682446; Ubiratã Neiva ; São Roque Do Pico; Brochador Manual 
+37868041; Elton Isis Baptista Belo ; Mondim De Basto; Operador de Difusor – Beterraba 
+46621347; Diná Tabosa ; Soure; Outros Docentes de Educação Especial 
+25567133; Igor Olivares Vilaça ; Santa Cruz Da Graciosa; Acabador – Madeiras 
+14327137; Godofredo Urraca Robalinho ; Ílhavo; Piloto de Barra 
+97667207; Cassandra Blenda Robalo ; Porto Moniz; Professor do Ensino Básico Primário 
+01976244; Abel Leandra Cisneiros Nogueira ; Horta; Cantoneiro de Limpeza 
+39026600; Justino Portela Varejão ; Paredes De Coura; Operador de Forno Contínuo – Cerâmica 
+51895155; Osmar Erasmo Amorim ; Moimenta Da Beira; Secretários 
+83704533; Basílio Gabriela Furtado ; Leiria; Estofador de Viaturas 
+93416167; Abigail Valentim Martins Arruda ; Penalva Do Castelo; Outros Operadores de Máquinas de Fiar, Torcer e Bobinar 
+12778460; Dália Saltão Carreiro ; Vieira Do Minho; Trabalhadores Florestais Não Qualificados 
+17462666; Assunta Clotilde Palha Vilhena ; Praia Da Vitória; Outros Condutores de Máquinas de Extracção – Minas e Pedreiras 
+42370659; Felismina Nilson Caneira ; Vieira Do Minho; Regente de Coro 
+26512672; Karen Élio Baptista ; Águeda; Instrumentista de Banda ou Grupo 
+43025360; Paulina Rodovalho Pino ; Loulé; Pisoeiro (Bataneiro) 
+88364912; Angélica Bicudo Cabreira ; Nazaré; Operador de Sala de Fabrico de Mosto – Cerveja 
+31749141; Aurélia Banha ; Mêda; Engenheiro de Minas – Minérios Não Metálicos 
+62760504; Dória Trigueiro Salazar ; Madalena; Matemáticos, Estaticistas e Especialistas Similares 
+84656503; Lancelote Orlanda Carrasco Mora ; Soure; Mecânico de Motores de Aeronaves 
+11189758; Vilma Pimentel ; Vale De Cambra; Condutor de Máquina de Nivelamento e Terraplanagem 
+34090676; Estefânia Menezes ; Figueira Da Foz; Serralheiro Mecânico 
+88174838; Dina Amanda Paiva Lameira ; Peso Da Régua; Operador de Máquinas do Acabamento de Lápis de Madeira 
+13936189; Débora Olinda Keil ; Vagos; Empregado de Biblioteca e Documentação 
+67404296; Romana Júlia Oleiro ; Miranda Do Corvo; Operador de Máquina de Cochar Corda 
+65039880; Juca Justino Doutiz ; Ovar; Especialistas das Ciências Físicas, Matemáticas e Engenharia 
+62731217; Gildo Luciana Afonso ; Ponta Do Sol; Apicultores 
+43283837; Octávio Aragão Negrão ; Alcochete; Outros Operadores de Máquinas de Preparação de Peles e Couro 
+31929084; Cinira Domingos Alancastro ; Mogadouro; Operador de Máquinas de Acabamentos – Produtos Têxteis 
+07560107; Péricles Sílvio Milheiriço Silvestre ; Albergaria-A-Velha; Outros Inspectores e Técnicos das Alfândegas e Fronteiras 
+66840446; Caetana Valquíria Guilheiro ; Albufeira; Desembaraçador 
+88615592; Douglas Furtado ; Faro; Analista de Laboratório – Análises Químicas 
+77629604; Vidigal Thays/Taís Fortunato ; Tondela; Montador de Quadros – Serigrafia 
+19027084; Cícero Madeira Clementino ; Arronches; Empilhador de Tecidos 
+83872522; Maximiliano Portugal Matos ; Funchal; Dactilógrafo 
+43338967; Cícero Valle ; Povoação; Directores de Restauração e Hotelaria 
+82706488; Renato Lina Cortês ; Évora; Provadores e Seleccionadores de Produtos Alimentares e Bebidas 
+80485285; Élia Nilson Carvalheira Alancastre ; Mafra; Engenheiro Técnico Agrário – Tecnologia dos Produtos Alimentares 
+61588413; Arnaldo Moita Alencar ; Praia Da Vitória; Ministros de Culto e Membros de Ordens Religiosas 
+05700166; Nélson Grande Villela ; Bragança; Técnico de Relações Públicas 
+20685402; Jesabel Walter Carrilho ; Condeixa-A-Nova; Guia-Intérprete 
+51848385; Petra Cíntia Martins ; Estremoz; Outro Pessoal de Limpeza de Casas Particulares e Trabalhadores Similares 
+78535100; Lurdes Fátima Varanda ; Chaves; Operadores de Equipamento de Emissões de Rádio, TV e Telecomunicações 
+56224821; Osmar Quintanilla Quaresma ; Ponte De Sor; Aquacultores 
+12165938; Nilton Loureiro Vilalobos ; Chaves; Mecânico – Reparador de Motociclos e Velocípedes 
+26546424; Ieda Frederico Tabosa Valcanaia ; Oliveira Do Hospital; Vigia de Incêndios Florestais 
+10411601; Kelvin Gabeira ; Salvaterra De Magos; Montador de Refractários (Assentador de Refractários) 
+56700577; Tomás Paloma Freire Alancastro ; Tabuaço; Escriturário – Apoio à Produção 
+04138180; Hildefonso Benito Bouças ; Aguiar Da Beira; Piloto de Barra 
+18194584; Yuri Moreira Gonçalves ; Gavião; Director de Serviços de Saúde ou Serviço Social 
+49393562; Sueli Costa Sant'Anna ; Évora; Encolador (Engomador de Teias) 
+65206273; Alma Figueiredo ; Valongo; Outros Dietistas 
+17489863; Ulisses Alancastre Quirino ; Borba; Outros Floricultores, Horticultores e Viveristas 
+25679093; Mónica Ado Tavares Villalobos ; Loulé; Operadores de Maquinaria Agrícola Móvel e de Outras Máquinas Móveis 
+29342177; Palmira Conde Vilalobos ; Marvão; Outros Engenheiros Geógrafos e Hidrógrafos 
+45170456; Olinda Portela Candal ; Fundão; Operador de Supermercado 
+28140477; Isaías Emília Ornelas ; Sines; Operador Radiotelegrafista 
+85135763; Milene Capucho ; Castro Verde; Moldador de Plásticos – Processo Rotativo 
+55697699; Silvano Angelim Filgueiras ; Penamacor; Vidraceiro – Cortador de Bancada 
+54157062; Ezequias Quintanilha Azenha ; Penalva Do Castelo; Riscador 
+85205459; Nero Abraão Noguera Sousa de Arronches ; Almeida; Encarregado – Operadores de Máquinas para Trabalhar Madeira e Cortiça 
+23175824; Cleusa Valéria Trigueiro ; Cascais; Encarregado – Trefilagem 
+78490565; Dina Cornélia Noronha Castanho ; Gondomar; Técnicos das Ciências da Vida e da Saúde 
+37047573; Rute Escobar Faro ; Castro Marim; Operador de Instalação Automática de Pintar 
+63107759; Augusta Teles ; Mação; Outros Historiadores e Especialistas das Ciências Políticas 
+35675180; Nadine Ademar Valim ; Portalegre; Toureiros, Cavaleiros Tauromáquicos e outros Profissionais Similares 
+46248199; Ingrid Mourinho ; Portel; Operador de Combustível 
+06080906; Gertrudes Casado Bethecourt ; Nordeste; Operador de Máquina de Acolchoar 
+70550671; Nívia Neusa Lameirinhas Alcaide ; Oeiras; Enformador de Cones de Feltro – Chapelaria 
+43079739; Madalena Vitorino Monte Vasconcellos ; Mêda; Caneleiro 
+25108246; Gildo Mata Franco ; Penela; Engenheiros Técnicos Mecânicos 
+72333111; Sérgio Loide Osório ; Miranda Do Douro; Controlador da Preparação de Chá 
+15861658; Marisela Miriam Rivero ; Santarém; Médico Anátomo – Patologista 
+21943982; Irma Camila Góis ; Moura; Cartonageiros e Operadores de Máquinas de Cartonagem 
+34555370; Silvano Asdrúbal Alcaide Parreira ; Viseu; Correspondente 
+02681545; Júlio Karen Lancastre Canário ; Portimão; Cortador de Luvas – Prensa 
+88861418; Nilson Bernarda Batata ; Bombarral; Outros Produtores de Aves 
+08795435; Caio Sheila Clementino ; Boticas; Barman (Empregado do Serviço de Bebidas) 

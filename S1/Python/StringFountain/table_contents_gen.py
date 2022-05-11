@@ -56,10 +56,10 @@ def print_teste_results(person_file_name, bet_file_name, quantity):
     global already_used_cc
     already_used_cc = []
 
-    for n in range(0, quantity):
+    for n in range(quantity):
         cc, name, concelho, prof = table_contents_gen(first_name_txt, last_name_input_txt, concelho_txt, prof_txt)
         file_person_info.write(cc + "; " + name + "; " + concelho + "; " + prof + "\n")
-    for n in range(0, quantity):
+    for n in range(quantity):
         bet = random.sample(range(1, 50), 5)
         bet50 = ""
         for k in bet:
@@ -70,16 +70,16 @@ def print_teste_results(person_file_name, bet_file_name, quantity):
             bet11 += " " + str(k)
         month = random.randint(1, 12)
         year = random.randint(1900, 2021)
-        maxday = 31
+        max_day = 31
         if month == 2:
             if year/4 == 0:
-                maxday = 29
+                max_day = 29
             else:
-                maxday = 28
+                max_day = 28
         else:
             if month in [4, 6, 9, 11]:
-                maxday = 30
-        day = random.randint(1, maxday)
+                max_day = 30
+        day = random.randint(1, max_day)
         date = str(str(day) + "-" + str(month) + "-" + str(year))
         file_bet.write(already_used_cc[n] + ";" + str(bet50) + ";" + str(bet11) + "; " + date + "\n")
 

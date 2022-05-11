@@ -19,7 +19,7 @@ def alphanumeric_gen():
 
 def create_password_files(filename):
     file = open(filename + ".txt", 'w')
-    for i in range(0, 25):
+    for i in range(50):
         file.write(alphanumeric_gen() + "\n")
     file.close()
 
@@ -30,4 +30,3 @@ if __name__ == '__main__':
     create_password_files("alphanumeric3")
     create_password_files("alphanumeric4")
     create_password_files("alphanumeric5")
-    print(alphanumeric_gen())
