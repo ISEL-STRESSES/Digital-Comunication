@@ -221,7 +221,8 @@ int main()
         "cp.htm",
         "lena.bmp",
         "Person.java",
-        "progc.c"};
+        "progc.c"
+        };
 
     for (size_t i = 0; i < NUMBER_OF_FILES; i++)
     {
