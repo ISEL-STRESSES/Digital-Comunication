@@ -7,7 +7,7 @@ def vernam_cipher(file):
     plain_text = file.readlines()
     key_generated = []
     keycnt = 0
-    f = open("vernam_ciphered.txt", "w", encoding="utf-8")
+    f = open("vernam_ciphered.txt", "wb", encoding="utf-8")
     cnt = 0
     for lines in plain_text:
         cipher, key = makeVernamCypher(lines)
