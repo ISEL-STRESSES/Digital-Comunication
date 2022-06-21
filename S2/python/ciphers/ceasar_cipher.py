@@ -25,5 +25,5 @@ def ceaser_decipher(file):
 
 
 if __name__ == '__main__':
-    ceaser_cipher("test.txt")
+    ceaser_cipher("../CD_TestFiles/test.txt")
     ceaser_decipher("caeser_ciphered.txt")
