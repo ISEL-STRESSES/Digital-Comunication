@@ -1,49 +1,61 @@
 import random
+import secrets
 import string
 
 
 def vernam_cipher(file):
-    file = open(file, "r")
-    plain_text = file.readlines()
-    key_generated = []
-    keycnt = 0
-    f = open("vernam_ciphered.txt", "wb", encoding="utf-8")
-    cnt = 0
-    for lines in plain_text:
-        cipher, key = makeVernamCypher(lines)
-        print(cipher)
-        f.write(cipher)
-        key_generated[cnt] = key
-        cnt += 1
-    #for lines in plain_text:
-    #    ciphered = ""
-    #    for n in lines:
-    #        key = random.randint(0, 255)
-    #        ciphered += chr(ord(n)-key)
-    #        key_generated[keycnt] = key
-    #        keycnt+=1
-    #    f.write(ciphered)
+    file = open(file, "rb")
+    plain_text = file.read()
+    file.close()
+    key = secrets.token_bytes(len(plain_text) + secrets.randbelow(5))
+    f = open("vernam_ciphered.txt", "wb")
+    key_file = open("key.txt", "wb")
+
+    key_file.write(key)
+    key_file.close()
+    cipher = make_vernam_cypher(plain_text, key)
+    f.write(bytearray(cipher))
     f.close()
     return
 
 
-def makeVernamCypher(text):
-    key = key_gen(len(text))
-    ciphered = ""
+def make_vernam_cypher(text, key):
+    ciphered = []
     p = 0
-    for char in text:
-        ciphered += chr(ord(char) ^ key[p])
+    for n in range(len(text)):
+        ciphered.append((text[n] ^ key[p]))
         p += 1
         if p == len(key):
             p = 0
-    return ciphered, key
+    return ciphered
 
 
-def key_gen(numb):
-    keys = random.sample(range(1, 255), numb)
-    return keys
+def decipher_vernam(text, key):
+    deciphered = []
+    p = 0
+    for n in range(len(text)):
+        deciphered.append((n ^ key[p]))
+        p += 1
+        if p == len(key):
+            p = 0
+    return deciphered
+
+
+def vernam_decipher(file):
+    file = open(file, "rb")
+    cypher_text = file.read()
+    file.close()
+
+    file_key = open("key.txt", "rb")
+    key = file_key.read()
+    file_key.close()
+
+    f = open("vernam_deciphered.txt", "wb")
+    deciphered = make_vernam_cypher(cypher_text, key)
+    f.write(bytearray(deciphered))
+    f.close()
 
 
 if __name__ == '__main__':
-    print(chr(65))
-    print(vernam_cipher("test.txt"))
+    vernam_cipher("test.txt")
+    vernam_decipher("vernam_ciphered.txt")
