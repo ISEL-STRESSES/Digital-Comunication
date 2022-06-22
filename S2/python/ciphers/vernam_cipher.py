@@ -1,12 +1,11 @@
-import random
 import secrets
-local_path = "../CD_TestFiles/"
-test_path = "../Test_Output/"
+test_files_path = "../CD_TestFiles/"
+caesar_files_output_path = "vernam_output/"
 
 
 def vernam_cipher(file, key_file):
     # read plain text
-    plain_text_file = open(local_path+file, "rb")
+    plain_text_file = open(test_files_path + file, "rb")
     plain_text = plain_text_file.read()
     plain_text_file.close()
 
@@ -15,13 +14,13 @@ def vernam_cipher(file, key_file):
 
     # write key
     file_name = file.partition('.')[0]
-    get_ext = key_file.partition(".")[2]
-    key_file = open(key_file, "wb")
+    get_ext = key_file.partition('.')[2]
+    key_file = open(caesar_files_output_path + key_file, "wb")
     key_file.write(key)
     key_file.close()
 
     # cipher text and write to file
-    f = open(file_name + "_vernam_ciphered"+"."+get_ext, "wb")
+    f = open(caesar_files_output_path + file_name + "_vernam_ciphered"+"."+get_ext, "wb")
     cipher = make_vernam_cypher(plain_text, key)
     f.write(bytearray(cipher))
     f.close()
@@ -40,19 +39,19 @@ def make_vernam_cypher(text, key):
 
 def vernam_decipher(file, key_file):
     # read ciphered text
-    ciphered_text_file = open(file, "rb")
+    ciphered_text_file = open(caesar_files_output_path + file, "rb")
     cypher_text = ciphered_text_file.read()
     ciphered_text_file.close()
 
     # read key
-    file_name = key_file.partition("_vernam_key")[0]
-    get_ext = key_file.partition(".")[2]
-    file_key = open(key_file, "rb")
+    file_name = key_file.partition(caesar_files_output_path + "_vernam_key")[0]
+    get_ext = key_file.partition('.')[2]
+    file_key = open(caesar_files_output_path + key_file, "rb")
     key = file_key.read()
     file_key.close()
 
     # decipher text and write to file
-    f = open("vernam_deciphered_"+file_name+"."+get_ext, "wb")
+    f = open(caesar_files_output_path + "vernam_deciphered_"+file_name+"."+get_ext, "wb")
     deciphered = make_vernam_cypher(cypher_text, key)
     f.write(bytearray(deciphered))
     f.close()
@@ -77,7 +76,5 @@ def decipher_test_files():
 
 
 if __name__ == '__main__':
-    vernam_cipher("test.txt", "test_vernam_key.txt")
-    vernam_decipher("test_vernam_ciphered.txt", "test_vernam_key.txt")
     cipher_test_files()
     decipher_test_files()
