@@ -7,66 +7,80 @@ import shutil
 from crc import CrcCalculator, Crc8
 import random
 
+local_path = "../CD_TestFiles/"
+test_path = "./Test_Output/"
+
 
 # Uses the CRC in a file to add error control.
-def crc_file_compute(file):
-    f = open(file, "rb")
-    bytes_text = bytes(f.read())
-    f.close()
+def crc_file_compute(file_name):
+    source = local_path + file_name
+    dest = test_path + file_name.partition(".")[0] + "_crc." + file_name.partition(".")[2]
+    file = open(source, "rb")
+    bytes_text = bytes(file.read())
+    file.close()
 
     crc_calculator = CrcCalculator(Crc8.CCITT, True)
     checksum = hex(crc_calculator.calculate_checksum(bytes_text))
-    new_file_name = f.name + "_crc"
-    shutil.copyfile(f.name, new_file_name)
+    file = open(source, "r")
+    new_file = open(dest, "w")
 
-    new_file = open(new_file_name, "a")
+    for line in file:
+        new_file.write(line)
+    # shutil.copyfile(source, dest) # aint working
+
+    # new_file = open(dest, "a")  # open for appending
     new_file.write('\n' + checksum)
     new_file.close()
-
     return checksum
 
 
 # Checks if the file has any error based on the CRC technique.
-def crc_file_check(file):
-    f = open(file, 'r')
-    last_line = f.readlines()[-1]
-    f.close()
+def crc_file_check(file_name):
+    crc_file = test_path + file_name.partition(".")[0] + "_crc." + file_name.partition(".")[2]
+    file = open(crc_file, 'r', errors='ignore')
+    last_line = file.readlines()[-1]
+    file.close()
 
-    checksum = str(crc_file_compute(file))
-
+    checksum = str(crc_file_compute(file_name))
     return last_line == checksum
 
 
 # Makes random errors in a file for CRC check.
-def make_error(file, error_percentage):
-    file = open(file, 'rb')
-    content = bytearray(file.read())
+def make_error(file_name, error_percentage):
+    source = test_path + file_name.partition(".")[0] + "_crc." + file_name.partition(".")[2]
+    dest = test_path + file_name.partition(".")[0] + "_crc_error." + file_name.partition(".")[2]
+    file = open(source, 'rb')
+    byte_text = bytearray(file.read())
     file.close()
-    new_file_name = file.name + "_crc_error"
-    shutil.copyfile(file.name, new_file_name)
+    shutil.copyfile(source, dest)
 
-    error_size = int(len(content) * (error_percentage / 100))
+    error_size = int(len(byte_text) * (error_percentage / 100))
 
     for i in range(error_size):
-        content[i] = random.randint(0, 255)
+        byte_text[i] = random.randint(0, 255)
 
-    new_file = open(new_file_name, "wb")
-    new_file.write(content)
+    new_file = open(dest, "wb")
+    new_file.write(byte_text)
     new_file.close()
 
 
 if __name__ == '__main__':
     test_files = ["a.txt", "alice29.txt", "cp.htm", "Person.java", "progc.c"]
-    print("crc check for errors")
-    for file in test_files:
-        crc_file_compute(file)
-        if not crc_file_check(file):
-            print(file, " !ERROR!\n")
+    print("++++ CRC check error ++++")
+    for file_name in test_files:
+        crc_file_compute(file_name)
+        if crc_file_check(file_name):
+            print(file_name, " \t!SUCCESS!")
+        else:
+            print(file_name, " !ERROR!\n")
 
-    print("make errors")
-    errors = [0, 0.01, 0.1, 0.5, 1, 5]
-    for file in test_files:
+    print("\n++++++ Make errors ++++++")
+    errors = [0.0, 0.01, 0.1, 0.5, 1.0, 5.0]
+    for file_name in test_files:
+        print("\nFile : ", file_name)
         for error in errors:
-            make_error(file, error)
-            if not crc_file_check(file):
-                print(file, " !ERROR! ", error, "Percentage\n")
+            make_error(file_name, error)
+            if crc_file_check(file_name):
+                print("Error: ", error, " \t!SUCCESS!")
+            else:
+                print(file_name, " !ERROR! ", error, "Percentage\n")
