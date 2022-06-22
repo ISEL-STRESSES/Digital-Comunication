@@ -5,6 +5,7 @@ test_path = "../Test_Output/"
 
 
 def vernam_cipher(file, key_file):
+    # read plain text
     plain_text_file = open(local_path+file, "rb")
     plain_text = plain_text_file.read()
     plain_text_file.close()
@@ -64,8 +65,6 @@ def cipher_test_files():
     vernam_cipher("lena.bmp", "lena_vernam_key.bmp")
     vernam_cipher("Person.java", "Person_vernam_key.java")
     vernam_cipher("progc.c", "progc_vernam_key.c")
-
-
 
 
 def decipher_test_files():
