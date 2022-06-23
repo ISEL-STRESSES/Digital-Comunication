@@ -1,3 +1,5 @@
+from PIL import Image
+
 test_files_path = "../CD_TestFiles/"
 caesar_files_output_path = "caesar_output/"
 
@@ -11,10 +13,28 @@ def caesar_cipher(file):
     # cipher text and write to file
     file_name = file.partition('.')[0]
     get_ext = file.partition('.')[2]
-    ciphered_file = open(caesar_files_output_path + file_name + "_caesar_ciphered" + "." + get_ext, "wb")
+    ciphered_file = open(caesar_files_output_path + file_name + "_caesar_ciphered." + get_ext, "wb")
     ciphered = make_caesar_cypher(plain_text)
     ciphered_file.write(bytearray(ciphered))
     ciphered_file.close()
+
+
+def caesar_cipher_img(file):
+    try:
+        img = Image.open(test_files_path + file)
+        pixel_map = img.load()
+        im = Image.new('L', img.size)
+        pixels_new = im.load()
+
+        file_name = file.partition('.')[0]
+        get_ext = file.partition('.')[2]
+
+        for i in range(img.size[0]):
+            for j in range(img.size[1]):
+                pixels_new[i, j] = (pixel_map[i, j] + 100) % 256
+        im.save(caesar_files_output_path + file_name + "_caesar_ciphered." + get_ext)
+    except IOError:
+        print("error")
 
 
 def make_caesar_cypher(text):
@@ -51,7 +71,7 @@ def cipher_test_files():
     caesar_cipher("a.txt")
     caesar_cipher("alice29.txt")
     caesar_cipher("cp.htm")
-    #caesar_cipher("lena.bmp")
+    caesar_cipher("lena.bmp")
     caesar_cipher("Person.java")
     caesar_cipher("progc.c")
 
@@ -60,11 +80,12 @@ def decipher_test_files():
     caesar_decipher("a_caesar_ciphered.txt")
     caesar_decipher("alice29_caesar_ciphered.txt")
     caesar_decipher("cp_caesar_ciphered.htm")
-    #caesar_decipher("lena_caesar_deciphered.bmp")
+    caesar_decipher("lena_caesar_deciphered.bmp")
     caesar_decipher("Person_caesar_ciphered.java")
     caesar_decipher("progc_caesar_ciphered.c")
 
 
 if __name__ == '__main__':
-    cipher_test_files()
-    decipher_test_files()
+    #cipher_test_files()
+    #decipher_test_files()
+    caesar_cipher_img("lena.bmp")
