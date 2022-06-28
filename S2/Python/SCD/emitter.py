@@ -23,11 +23,12 @@ def nrzu_coder():
     #         print("0", end = '')
     # print(byte_data)
     # file.close()
-    b = [0, 1, 0, 0, 1, 1, 1, 0]
-    t = np.arange(0, 8, .01)
+    #b = [0, 1, 0, 0, 1, 1, 1, 0]
+    b = [0, 1, 0, 0, 1, 1, 1, 0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,0,1,0,1,1,1]
+    t = np.arange(0, len(b), .1)
     j = 1
     p = []
-    for i in range(0, 800, 1):
+    for i in range(0, len(b)*10, 1):
         if t[i] < j:
             p.append(b[j - 1])
             #print("up")
@@ -39,7 +40,7 @@ def nrzu_coder():
     pyplot.plot(t, p, color='k')
     pyplot.xlabel('Time in sec')
     pyplot.ylabel('Amplitude')
-    pyplot.title('Unipolar')
+    pyplot.title('Unipolar NRZ signal')
     pyplot.show()
     # dest_file.close()
 
