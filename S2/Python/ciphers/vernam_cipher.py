@@ -9,13 +9,15 @@ def vernam_cipher(file, key_file):
     file_name = file.partition('.')[0]
     get_ext = file.partition('.')[2]
 
+    key_extra_dim = secrets.randbelow(256)
+
     try:
         # open image
         plain_img = Image.open(test_files_path + file)
 
         # generate key
         width, height = plain_img.size
-        key = secrets.token_bytes(width*height + secrets.randbelow(width*height//5))    # integer division
+        key = secrets.token_bytes(width*height + key_extra_dim)
 
         # cipher image
         ciphered_img = make_vernam_cypher_img(plain_img, key)
@@ -29,7 +31,7 @@ def vernam_cipher(file, key_file):
         plain_text_file.close()
 
         # generate key
-        key = secrets.token_bytes(len(plain_text) + secrets.randbelow(5))
+        key = secrets.token_bytes(len(plain_text) + key_extra_dim)
 
         # cipher text and write to file
         f = open(vernam_files_output_path + file_name + "_vernam_ciphered"+"."+get_ext, "wb")

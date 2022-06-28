@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e5fa35d-fa2a-45ed-bc5b-fb91d0dae328" name="Changes" comment="emitter old updates">
-      <change beforePath="$PROJECT_DIR$/ImageTranformation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciphers/vernam_output/Person_vernam_ciphered.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciphers/vernam_output/Person_vernam_ciphered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciphers/vernam_output/Person_vernam_key.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciphers/vernam_output/Person_vernam_key.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciphers/vernam_output/a_vernam_ciphered.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ciphers/vernam_output/a_vernam_ciphered.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciphers/vernam_output/a_vernam_key.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ciphers/vernam_output/a_vernam_key.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciphers/vernam_output/alice29_vernam_ciphered.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ciphers/vernam_output/alice29_vernam_ciphered.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciphers/vernam_output/alice29_vernam_key.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ciphers/vernam_output/alice29_vernam_key.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciphers/vernam_output/cp_vernam_ciphered.htm" beforeDir="false" afterPath="$PROJECT_DIR$/ciphers/vernam_output/cp_vernam_ciphered.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciphers/vernam_output/cp_vernam_key.htm" beforeDir="false" afterPath="$PROJECT_DIR$/ciphers/vernam_output/cp_vernam_key.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciphers/vernam_output/lena_vernam_ciphered.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/ciphers/vernam_output/lena_vernam_ciphered.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciphers/vernam_output/lena_vernam_key.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/ciphers/vernam_output/lena_vernam_key.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciphers/vernam_output/progc_vernam_ciphered.c" beforeDir="false" afterPath="$PROJECT_DIR$/ciphers/vernam_output/progc_vernam_ciphered.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciphers/vernam_output/progc_vernam_key.c" beforeDir="false" afterPath="$PROJECT_DIR$/ciphers/vernam_output/progc_vernam_key.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +60,7 @@
       <recent name="C:\Users\tiago\Documents\UNI\ISEL\6º Semestre\CD\PROJETO\S2\python\CD_TestFiles" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.vernam_cipher">
+  <component name="RunManager" selected="Python.emitter">
     <configuration name="arduino" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,27 +82,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="caesar_cipher (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ciphers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ciphers/caesar_cipher.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="caesar_cipher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\tiago\Documents\UNI\ISEL\6º Semestre\CD\PROJETO\S2\python\ciphers\caesar_cipher.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ciphers/caesar_cipher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,13 +166,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.arduino" />
+      <item itemvalue="Python.caesar_cipher" />
+      <item itemvalue="Python.emitter" />
+      <item itemvalue="Python.vernam_cipher" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.vernam_cipher" />
         <item itemvalue="Python.caesar_cipher" />
+        <item itemvalue="Python.vernam_cipher" />
         <item itemvalue="Python.emitter" />
         <item itemvalue="Python.arduino" />
-        <item itemvalue="Python.caesar_cipher (1)" />
       </list>
     </recent_temporary>
   </component>
