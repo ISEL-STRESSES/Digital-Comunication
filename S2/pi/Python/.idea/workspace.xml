@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e5fa35d-fa2a-45ed-bc5b-fb91d0dae328" name="Changes" comment="emitter old updates">
-      <change beforePath="$PROJECT_DIR$/ciphers/vernam_output/lena_vernam_key.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/ciphers/vernam_output/lena_vernam_key.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageTranformation.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
