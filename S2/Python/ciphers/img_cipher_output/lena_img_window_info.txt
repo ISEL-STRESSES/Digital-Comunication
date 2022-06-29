@@ -1,0 +1,4 @@
+lft_x=120
+lft_y=125
+rgt_x=180
+rgt_y=180

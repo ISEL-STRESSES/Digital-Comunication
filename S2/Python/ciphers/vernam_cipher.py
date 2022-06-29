@@ -84,10 +84,10 @@ def vernam_decipher(file):
         # open image
         img = Image.open(vernam_files_output_path + file)
 
-        # cipher image
+        # decipher image
         im = make_vernam_cypher_img(img, key)
 
-        # save ciphered image
+        # save deciphered image
         im.save(vernam_files_output_path + file_name + "_vernam_deciphered." + get_ext)
     except IOError:
         # read ciphered text
