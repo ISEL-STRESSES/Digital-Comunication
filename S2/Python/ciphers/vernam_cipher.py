@@ -4,7 +4,7 @@ test_files_path = "../CD_TestFiles/"
 vernam_files_output_path = "vernam_output/"
 
 
-def vernam_cipher(file, key_file):
+def vernam_cipher(file):
     # get file name and extension
     file_name = file.partition('.')[0]
     get_ext = file.partition('.')[2]
@@ -34,13 +34,13 @@ def vernam_cipher(file, key_file):
         key = secrets.token_bytes(len(plain_text) + key_extra_dim)
 
         # cipher text and write to file
-        f = open(vernam_files_output_path + file_name + "_vernam_ciphered"+"."+get_ext, "wb")
+        f = open(vernam_files_output_path + file_name + "_vernam_ciphered."+get_ext, "wb")
         cipher = make_vernam_cypher(plain_text, key)
         f.write(bytearray(cipher))
         f.close()
 
     # write key to file
-    key_file = open(vernam_files_output_path + key_file, "wb")
+    key_file = open(vernam_files_output_path + file_name + "_vernam_key."+get_ext, "wb")
     key_file.write(key)
     key_file.close()
 
@@ -103,12 +103,12 @@ def vernam_decipher(file, key_file):
 
 
 def cipher_test_files():
-    vernam_cipher("a.txt", "a_vernam_key.txt")
-    vernam_cipher("alice29.txt", "alice29_vernam_key.txt")
-    vernam_cipher("cp.htm", "cp_vernam_key.htm")
-    vernam_cipher("lena.bmp", "lena_vernam_key.bmp")
-    vernam_cipher("Person.java", "Person_vernam_key.java")
-    vernam_cipher("progc.c", "progc_vernam_key.c")
+    vernam_cipher("a.txt")
+    vernam_cipher("alice29.txt")
+    vernam_cipher("cp.htm")
+    vernam_cipher("lena.bmp")
+    vernam_cipher("Person.java")
+    vernam_cipher("progc.c")
 
 
 def decipher_test_files():
