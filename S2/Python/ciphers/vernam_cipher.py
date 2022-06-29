@@ -70,13 +70,13 @@ def make_vernam_cypher_img(img, key):   # ciphers and deciphers image
     return ciphered
 
 
-def vernam_decipher(file, key_file):
+def vernam_decipher(file):
     # get file name and extension
-    file_name = key_file.partition(vernam_files_output_path + "_vernam_key")[0]
+    file_name = file.partition("_vernam_ciphered")[0]
     get_ext = file.partition('.')[2]
 
     # read key
-    file_key = open(vernam_files_output_path + key_file, "rb")
+    file_key = open(vernam_files_output_path + file_name + "_vernam_key." + get_ext, "rb")
     key = file_key.read()
     file_key.close()
 
@@ -112,12 +112,12 @@ def cipher_test_files():
 
 
 def decipher_test_files():
-    vernam_decipher("a_vernam_ciphered.txt", "a_vernam_key.txt")
-    vernam_decipher("alice29_vernam_ciphered.txt", "alice29_vernam_key.txt")
-    vernam_decipher("cp_vernam_ciphered.htm", "cp_vernam_key.htm")
-    vernam_decipher("lena_vernam_ciphered.bmp", "lena_vernam_key.bmp")
-    vernam_decipher("Person_vernam_ciphered.java", "Person_vernam_key.java")
-    vernam_decipher("progc_vernam_ciphered.c", "progc_vernam_key.c")
+    vernam_decipher("a_vernam_ciphered.txt")
+    vernam_decipher("alice29_vernam_ciphered.txt")
+    vernam_decipher("cp_vernam_ciphered.htm")
+    vernam_decipher("lena_vernam_ciphered.bmp")
+    vernam_decipher("Person_vernam_ciphered.java")
+    vernam_decipher("progc_vernam_ciphered.c")
 
 
 if __name__ == '__main__':
