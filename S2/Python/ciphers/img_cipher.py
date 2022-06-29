@@ -5,7 +5,7 @@ test_files_path = "../CD_TestFiles/"
 img_files_output_path = "img_cipher_output/"
 
 
-def img_cipher(file):
+def img_cipher(file, lft_x=0, lft_y=0, rgt_x=0, rgt_y=0):
     # get file name and extension
     file_name = file.partition('.')[0]
     get_ext = file.partition('.')[2]
@@ -19,11 +19,11 @@ def img_cipher(file):
     width, height = plain_img.size
     key = secrets.token_bytes(width*height + key_extra_dim)
 
-    window_info = "lft_x=120\nlft_y=125\nrgt_x=180\nrgt_y=180"
+    window_info = "lft_x="+str(lft_x)+"\nlft_y="+str(lft_y)+"\nrgt_x="+str(rgt_x)+"\nrgt_y="+str(rgt_y)+""
 
     # cipher image
     # TODO(check if corners inside picture (below width and height))
-    ciphered_img = make_vernam_cypher_img(plain_img, key, 120, 125, 180, 180)
+    ciphered_img = make_vernam_cypher_img(plain_img, key, lft_x, lft_y, rgt_x, rgt_y)
 
     # save ciphered image
     ciphered_img.save(img_files_output_path + file_name + "_img_ciphered." + get_ext)
@@ -94,6 +94,6 @@ def decode_window_info(win_info):
 
 
 if __name__ == '__main__':
-    img_cipher("lena.bmp")
+    img_cipher("lena.bmp", 120, 125, 180, 180)
     img_decipher("lena_img_ciphered.bmp")
 
