@@ -1,53 +1,69 @@
 from bitstring import BitArray
-from matplotlib import pyplot
+from matplotlib import pyplot as plt
 import numpy as np
 
 local_path = "../CD_TestFiles/"
 test_path = "./Test_Output/"
 
-
-def nrzu_coder():
-    # source = local_path + file_name
-    # dest = test_path + file_name.partition(".")[0] + "_NRZU." + file_name.partition(".")[2]
-    # file = open(source, "rb")
-    # dest_file = open(dest, "w")
-    # aux = bytes(file.read())
-    # byte_data = BitArray(aux)
-    # dest_file.write(str(aux))
-    # for bit in byte_data:
-    #     if bit:
-    #         dest_file.write(bit)
-    #         print("1", end = '')
-    #     else:
-    #         dest_file.write(bit)
-    #         print("0", end = '')
-    # print(byte_data)
-    # file.close()
-    #b = [0, 1, 0, 0, 1, 1, 1, 0]
-    b = [0, 1, 0, 0, 1, 1, 1, 0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,0,1,0,1,1,1]
-    t = np.arange(0, len(b), .1)
-    j = 1
-    p = []
-    for i in range(0, len(b)*10, 1):
-        if t[i] < j:
-            p.append(b[j - 1])
-            #print("up")
-        else:
-            p.append(b[j])
-            #print("down")
-            j = j+1
-    print(p)
-    pyplot.plot(t, p, color='k')
-    pyplot.xlabel('Time in sec')
-    pyplot.ylabel('Amplitude')
-    pyplot.title('Unipolar NRZ signal')
-    pyplot.show()
-    # dest_file.close()
+SAMPLES_PER_BIT = 10
+ORIGIN = 0
 
 
-def psk_modulator(data):
-    return 0
+def nrzu_store_line(vector, file_name, opened, file=None):
+    if not opened:
+        file = open(file_name, "wb")
+    file.write(vector)
+    file.close()
+
+
+def nrzu_store(vectors, file_name):
+    dest = test_path + file_name.partition(".")[0] + "_NRZU." + file_name.partition(".")[2]
+    if len(vectors) == 1:
+        nrzu_store_line(vectors, dest, False)
+    file = open(dest, "w")
+    for vector in vectors:
+        file.write(vector)
+    file.close()
+
+
+def nrzu_coder(data, amp, bit_rate):
+    time = np.arange(ORIGIN, bit_rate * len(data), bit_rate / SAMPLES_PER_BIT)
+    dots = []
+
+    for bit in data:
+        aux = 0
+        for i in range(aux, aux + SAMPLES_PER_BIT):
+            dots.append(bit * amp)
+        aux += SAMPLES_PER_BIT
+
+    plt.plot(time, dots)
+    plt.xlabel("Time(s)")
+    plt.ylabel("Amplitude(V)")
+    plt.title("NRZU")
+    plt.show()
+    return dots
+
+
+def file_load(file_name):
+    file = open(file_name, "r").readlines() # open(file_name, "rb").readlines()
+    print(file)
+    print()
+    byte = BitArray()
+    for line in file:
+        # transformar uma linha em um array de chars nao ha a puta do .map{}
+        # line.map{word -> word.map{it}}.map{ it.toBin() } :list<list<char>>
+        for word in line:
+            for char in word:
+                byte.append(bytes(char))
+        print(bytes(line))
+        print()
+
+    bits = [bin(bit)[2:] for bit in bytes(byte)]
+    return bits
 
 
 if __name__ == '__main__':
-    nrzu_coder()
+    a = file_load(local_path + "a.txt")
+    print(a)
+    # vec = nrzu_coder(data=a, amp=5, bit_rate=0.1)
+    # nrzu_store(vec, "a.txt")
