@@ -5,8 +5,7 @@ from matplotlib import pyplot as plt
 test_files_path = "../CD_TestFiles/"
 scd_output_path = "scd_output/"
 
-SAMPLES_PER_BIT = 10
-ORIGIN = 0
+NRZU_SAMPLES_PER_BIT = 10
 
 
 def find_min_bit_time(data):
@@ -39,14 +38,11 @@ def find_freq(data):
 
 
 def nrzu_decoder(data):
-    size = len(data)
-    print(size)
-    print(find_min_bit_time(data))
     cnt = 1
     decoded = []
 
     for byte in data:
-        if cnt == SAMPLES_PER_BIT:
+        if cnt == NRZU_SAMPLES_PER_BIT:
             cnt = 1
             if byte > 0:
                 decoded.append(1)

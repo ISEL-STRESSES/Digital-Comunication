@@ -1,3 +1,4 @@
+import math
 import random
 
 from bitstring import BitArray
@@ -7,8 +8,8 @@ import numpy as np
 test_files_path = "../CD_TestFiles/"
 scd_output_path = "scd_output/"
 
-SAMPLES_PER_BIT = 10
-ORIGIN = 0
+NRZU_SAMPLES_PER_BIT = 10
+PSK_SAMPLES_PER_BIT = 10
 
 
 def nrzu_store(vector, file):
@@ -22,21 +23,14 @@ def nrzu_store(vector, file):
     file.close()
 
 
-def find_value():
-    return
-    # read dile until a value is find for frequency
-    # find by searching for something diferent thn 0 and until the next first value is equal
-
-
-def nrzu_coder(data, amp, bit_rate, noise = 0):
-    time = np.arange(ORIGIN, bit_rate * len(data), bit_rate / SAMPLES_PER_BIT)
+def nrzu_coder(data, amp, bit_rate, noise=0):
+    time = np.arange(0, bit_rate * len(data), bit_rate / NRZU_SAMPLES_PER_BIT)
     dots = []
-    val = find_value()
     for bit in data:
         aux = 0
-        for i in range(aux, aux + SAMPLES_PER_BIT):
-            dots.append(bit * amp + 0.1 * random.randint(0,noise))
-        aux += SAMPLES_PER_BIT
+        for i in range(aux, aux + NRZU_SAMPLES_PER_BIT):
+            dots.append(bit * amp + 0.1 * random.randint(0, noise))
+        aux += NRZU_SAMPLES_PER_BIT
 
     plt.plot(time, dots)
     plt.xlabel("Time(s)")
@@ -46,16 +40,40 @@ def nrzu_coder(data, amp, bit_rate, noise = 0):
     return dots
 
 
+def psk_coder(data, amp, bit_rate, noise=0):
+    time = np.arange(0, bit_rate * len(data), bit_rate / PSK_SAMPLES_PER_BIT)
+    vector = []
+
+    for bit in data:
+        aux = 0
+        for i in range(aux, aux + PSK_SAMPLES_PER_BIT):
+            calc = math.cos(2 * math.pi * 2000 * time[i]) # amp
+            if bit == 1:
+                calc = -2 * calc
+            else:
+                calc = 2 * calc
+            vector.append(calc + noise)
+        aux += PSK_SAMPLES_PER_BIT
+
+    plt.plot(time, vector)
+    plt.xlabel("Time(s)")
+    plt.ylabel("Amplitude(V)")
+    plt.title("PSK")
+    plt.show()
+    return vector
+
+
 def file_load(file_name):
     file = open(file_name, "rb")
     txt = file.read()
     file.close()
-    text_as_bit = BitArray(bytes = txt)
+    text_as_bit = BitArray(bytes=txt)
     return text_as_bit
 
 
 if __name__ == '__main__':
-    #a = file_load(test_files_path + "a.txt")
+    # a = file_load(test_files_path + "a.txt")
     a = file_load(test_files_path + "test_scd.txt")
-    vec = nrzu_coder(data=a, amp=5, bit_rate=0.1, noise=5)
-    nrzu_store(vec, "t.txt")
+    vec = psk_coder(data=a, amp=5, bit_rate=0.001)
+    # vec = nrzu_coder(data=a, amp=5, bit_rate=0.1, noise=5)
+    # nrzu_store(vec, "t.txt")
