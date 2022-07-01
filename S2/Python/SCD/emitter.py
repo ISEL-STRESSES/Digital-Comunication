@@ -1,5 +1,6 @@
 import math
 import random
+import struct
 
 from bitstring import BitArray
 from matplotlib import pyplot as plt
@@ -12,14 +13,16 @@ NRZU_SAMPLES_PER_BIT = 10
 PSK_SAMPLES_PER_BIT = 10
 
 
-def nrzu_store(vector, file):
+def store(vector, file):
     # get file name and extension
     file_name = file.partition('.')[0]
     get_ext = file.partition('.')[2]
-    nrzu_file_name = file_name + "_nrzu." + get_ext
+    nrzu_file_name = file_name + "." + get_ext
+    # data_to_write = bytearray(vector)
+    data_to_write = bytearray(struct.pack("f", vector))
 
     file = open(scd_output_path + nrzu_file_name, "wb")
-    file.write(bytearray(vector))
+    file.write(data_to_write)
     file.close()
 
 
@@ -76,4 +79,4 @@ if __name__ == '__main__':
     a = file_load(test_files_path + "test_scd.txt")
     vec = psk_coder(data=a, amp=1000, bit_rate=0.001)
     # vec = nrzu_coder(data=a, amp=5, bit_rate=0.1, noise=5)
-    # nrzu_store(vec, "t.txt")
+    store(vec, "t.txt")

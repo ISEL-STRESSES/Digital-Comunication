@@ -51,8 +51,8 @@ def nrzu_decoder(data):
         cnt += 1
     return decoded
 
-#def PSK_Demodulator(data):
-
+def PSK_Demodulator(data):
+    # check if signal is
 
 def file_load(file_name):
     file = open(file_name, "rb")
