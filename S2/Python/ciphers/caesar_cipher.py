@@ -127,3 +127,9 @@ def decipher_test_files():
 if __name__ == '__main__':
     cipher_test_files()
     decipher_test_files()
+
+    stat.entropy_calc("a.txt", test_files_path)
+    stat.hist("a.txt", test_files_path)
+
+    stat.entropy_calc("lena.bmp", test_files_path)
+    stat.hist("lena.bmp", test_files_path)

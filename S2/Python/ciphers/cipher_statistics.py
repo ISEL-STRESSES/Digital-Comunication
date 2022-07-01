@@ -13,7 +13,7 @@ def entropy_calc(file, file_path):
 
     probabilities = [counter / file.tell() for counter in counters.values()]
     entropy = -sum(probability * math.log2(probability) for probability in probabilities if probability > 0)
-
+    print(file_name)
     print("Entropy = " + str(entropy))
 
 
@@ -27,8 +27,7 @@ def hist(file, file_path):
     strs = np.arange(start=0, stop=256, step=1)
 
     plot.bar(strs, counter)
-    #print(strs)
-    #print(counter)
-    print(file_name)
+    plot.savefig(file_path+file_name+"_hist.png")
+
     plot.show()
 
