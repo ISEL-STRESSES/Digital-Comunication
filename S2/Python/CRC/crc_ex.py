@@ -27,7 +27,7 @@ def crc_file_compute(file_name):
     for line in file:
         new_file.write(line)
     file.close()
-    # shutil.copyfile(source, dest) # aint working
+    # shutil.copyfile(source, dest) # ain't working
 
     # new_file = open(dest, "a")  # open for appending
     new_file.write('\n' + checksum)

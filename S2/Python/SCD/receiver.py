@@ -1,6 +1,4 @@
-import numpy as np
 from bitstring import BitArray
-from matplotlib import pyplot as plt
 
 test_files_path = "../CD_TestFiles/"
 scd_output_path = "scd_output/"
@@ -17,7 +15,7 @@ def find_min_bit_time(data):
             cnt += 1
         else:
             last = data[n]
-            if cnt >1 and cnt < min:
+            if 1 < cnt < min:
                 min = cnt
             cnt = 1
     return min
@@ -27,7 +25,7 @@ def find_freq(data):
     last = 0
     cnt = 0
     for n in range(len(data)):
-        if last!=0:
+        if last != 0:
             if data[n] == last:
                 break
             else:
@@ -51,14 +49,16 @@ def nrzu_decoder(data):
         cnt += 1
     return decoded
 
-def PSK_Demodulator(data):
-    # check if signal is
+
+def psk_demodulator(data):  # check if signal is
+    return
+
 
 def file_load(file_name):
     file = open(file_name, "rb")
     txt = file.read()
     file.close()
-    #text_as_bit = BitArray(bytes=txt)
+    # text_as_bit = BitArray(bytes=txt)
     return txt
 
 
