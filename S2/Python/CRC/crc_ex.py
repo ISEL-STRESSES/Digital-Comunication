@@ -3,9 +3,10 @@
 # (2) https://barrgroup.com/downloads/code-crc-c
 
 
-import shutil
-from crc import CrcCalculator, Crc8
 import random
+import shutil
+
+from crc import CrcCalculator, Crc8
 
 local_path = "../CD_TestFiles/"
 test_path = "./Test_Output/"
@@ -75,7 +76,7 @@ if __name__ == '__main__':
         else:
             print(file_name, " !ERROR!\n")
 
-    print("\n++++++ Make errors ++++++")
+    print("++++++ Make errors ++++++")
     errors = [0.0, 0.01, 0.1, 0.5, 1.0, 5.0]
     for file_name in test_files:
         print("\nFile : ", file_name)
@@ -84,4 +85,4 @@ if __name__ == '__main__':
             if crc_file_check(file_name):
                 print("Error: ", error, " \t!SUCCESS!")
             else:
-                print(file_name, " !ERROR! ", error, "Percentage\n")
+                print(file_name + " !ERROR! " + "Percentage\n" + str(error))
