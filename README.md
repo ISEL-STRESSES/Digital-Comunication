@@ -1,4 +1,4 @@
 # CD
 
-Work Assignment for Digital Communications Classe
+Work Assignment for Digital Communications Class
 
